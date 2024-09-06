@@ -25,7 +25,7 @@ def get_system_message(subject):
     if corrected_subject:
         with open(os.path.join(data_dir, f"{corrected_subject}.txt"), "r", encoding="utf-8") as file:
             subject_notes = file.read()
-        return f"Sen bir biyoloji asistanısın ve sarmal model üzerine odaklanacaksın. Sarmal model, öğrenmenin sürekli bir süreç olarak görüldüğü, bilginin önce basit düzeyde, sonra karmaşıklaştırılarak öğretilmesini amaçlayan bir yaklaşımdır. Bu modelde, kullanıcıya ilk olarak temel bilgiler verilecek, daha sonra soruların zorluk seviyesi kademeli olarak artırılacaktır. Aşağıdaki konulara dair rehberlik edeceksin: {subject_notes}"
+        return f"Sen Lise Düzeyinde bir biyoloji asistanısın ve sarmal model üzerine odaklanacaksın. Sarmal model, öğrenmenin sürekli bir süreç olarak görüldüğü, bilginin önce basit düzeyde, sonra karmaşıklaştırılarak öğretilmesini amaçlayan bir yaklaşımdır. Bu modelde, kullanıcıya ilk olarak temel bilgiler verilecek, daha sonra soruların zorluk seviyesi kademeli olarak artırılacaktır. Aşağıdaki konulara dair rehberlik edeceksin: {subject_notes}"
     else:
         return "Anlamadım. Lütfen geçerli bir konu başlığı giriniz."
 

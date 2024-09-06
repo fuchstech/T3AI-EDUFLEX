@@ -151,6 +151,28 @@
             document.getElementById('response').style.display = 'block';
         };
 
+        // Thumbs up tıklandığında geri bildirimi gönderme
+        document.getElementById('thumbsUp').addEventListener('click', function() {
+            fetch('/feedback', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    input_prompt: inputPrompt,
+                    response: modelResponse,
+                    rating: 'like',  // Thumbs up tıklanırsa "like" gönder
+                    device: deviceType,  // Cihaz tipi bilgisi
+                    location: locationInfo  // Konum bilgisi (enlem, boylam)
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert('Geri bildirim gönderildi!');
+            })
+            .catch(error => console.error('Hata:', error));
+        });
+
         // Dislike tıklandığında geri bildirim formunu göster
         document.getElementById('thumbsDown').addEventListener('click', function() {
             document.getElementById('newInput').style.display = 'block';
@@ -169,6 +191,7 @@
                     input_prompt: inputPrompt,
                     response: modelResponse,
                     feedback_text: newFeedback,  // Yeni geri bildirimi gönderiyoruz
+                    rating: 'dislike',  // Thumbs down tıklanırsa "dislike"
                     device: deviceType,  // Cihaz tipi bilgisi
                     location: locationInfo  // Konum bilgisi (enlem, boylam)
                 })

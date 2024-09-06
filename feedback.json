@@ -118,5 +118,27 @@
             },
             "session_duration": 0
         }
+    },
+    {
+        "interaction_id": "12345",
+        "user_id": "user_001",
+        "timestamp": "2024-09-06T20:57:22.672226Z",
+        "content_generated": {
+            "input_prompt": "anlat bakem",
+            "response": ":\n\nTabii ki! İşte insanların cinsel üremeyi nasıl gerçekleştirdiğini açıklayan bir açıklama:\n\nİnsanlar cinsel üreyen organizmalardır, yani ebeveynlerinden gelen genetik materyalin bir kombinasyonunu miras alırlar. Cinsel üreme süreci, bir erkek ve bir dişiden gametler adı verilen üreme hücrelerinin birleşmesini içerir. Erkek gametleri sperm olarak adlandırılırken, dişi gametleri yumurta olarak adlandırılır.\n\nCinsel üremenin başlangıcında, erkek ve dişi gametler üreme organlarında üretilir. Erkek gametleri, testislerde üretilir ve vücuttan ejakülasyon yoluyla atılıncaya kadar epididimiste taşınır. Dişi gametleri ise yumurtalıklarda üretilir ve fallop tüplerine salınır.\n\nBir erkek ve bir dişi cinsel ilişki yaşadığında, erkek gameti dişi gamete ulaşmak için serviks ve uterus üzerinden yolculuk yapar. Dişi gametin yüzeyinde bulunan akrozom adlı bir yapı, spermi içine alarak döllenmeyi tetikler. Döllenme, sperm ve yumurta hücrelerinin birleştiği yerde meydana gelir ve bu da tek bir hücre olan zigotu oluşturur.\n\nZigot daha sonra bölünmeye başlar ve sonunda embriyo haline gelir, ardından fetusa dönüşür. Doğumdan sonra, bebek tamamen gelişmiş bir birey olarak dünyaya gelir.\n\nÖzetlemek gerekirse, insanlar cinsel üreme süreciyle gametlerini birleştirerek genetik materyallerini birleştirir ve yeni bir birey oluştururlar."
+        },
+        "user_feedback": {
+            "rating": "like",
+            "feedback_text": "",
+            "preferred_response": ""
+        },
+        "feedback_metadata": {
+            "device": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+            "location": {
+                "latitude": 41.0484736,
+                "longitude": 28.9865728
+            },
+            "session_duration": 0
+        }
     }
 ]
