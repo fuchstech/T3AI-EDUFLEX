@@ -96,5 +96,27 @@
             },
             "session_duration": 0
         }
+    },
+    {
+        "interaction_id": "12345",
+        "user_id": "user_001",
+        "timestamp": "2024-09-06T20:44:28.047896Z",
+        "content_generated": {
+            "input_prompt": "canlıların adaptasyon tekniklerinden birkaç örnek verebilir misin ?",
+            "response": ":\n\nTabii ki! İşte canlıların uyum sağlama tekniklerinden birkaç örnek:\n\n1. Morfolojik Uyum: Bu, bir organizmanın fiziksel görünüşünü değiştirerek çevredeki değişikliklere uyum sağlamasını içerir. Örneğin, bazı böcekler soğuk kış aylarında hayatta kalmalarına yardımcı olacak şekilde tüylerini uzatabilirler.\n\n2. Davranışsal Uyum: Bu, bir organizmanın davranışı değiştirerek çevredeki değişikliklere uyum sağlamasını içerir. Örneğin, bazı kuşlar göç ederek kış aylarında yiyecek bulmak için daha sıcak bölgelere uçarlar.\n\n3. Metabolik Uyum: Bu, bir organizmanın metabolizmasını değiştirerek çevredeki değişikliklere uyum sağlamasını içerir. Örneğin, bazı bitkiler kuru ortamlarda hayatta kalmalarına yardımcı olacak şekilde suyu korumak için farklı metabolik yollar geliştirmişlerdir.\n\n4. Genetik Uyum: Bu, bir organizmanın genetik yapısında değişiklikler yaparak çevredeki değişikliklere uyum sağlamasını içerir. Örneğin, bazı bakteriler antibiyotikler gibi çevresel streslere karşı direnç kazanmalarına yardımcı olacak mutasyonlar geliştirmişlerdir.\n\n5. Sosyal Uyum: Bu, bir organizmanın sosyal davranışlarını değiştirerek çevredeki değişikliklere uyum sağlamasını içerir. Örneğin, bazı primatlar işbirliği yaparak avlanma ve çocuk yetiştirme konusunda birlikte çalışarak hayatta kalmalarını iyileştirebilmeleri için sosyal yapılar geliştirmişlerdir."
+        },
+        "user_feedback": {
+            "rating": "dislike",
+            "feedback_text": "soyle de boyle de iste",
+            "preferred_response": ""
+        },
+        "feedback_metadata": {
+            "device": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+            "location": {
+                "latitude": 41.0484736,
+                "longitude": 28.9865728
+            },
+            "session_duration": 0
+        }
     }
 ]
