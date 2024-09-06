@@ -1,0 +1,135 @@
+Komünite Ekolojisi
+✔ Komünite: Bir alan ya da habitat içerisinde bulunan tüm popülasyonların oluşturduğu topluluktur.
+ 
+✔ İndikatör (gösterge) tür: Bir komünitedeki çevre değişikliklerinden  çok çabuk etkilenin türdür.
+Örneğin, Alabalıklar temiz ve oksijeni bol sularda yaşar. Bir su ekosisteminde alabalıkların çok olması o bölgenin temiz ve oksijeni bol olduğunu gösterir. Denizanaları, kirli sularda yaşarlar. Bir su ekosisteminde denizanalarının çoğalması o bölgenin kirli olduğunu gösterir.
+ 
+✔ Baskın (dominant) tür: Bir komünitede sayıca diğer canlılardan daha fazla yani toplam biyokütlesi en fazla olan türdür.
+​
+✔ Kilit taşı tür: Komüniteyi kontrol eden türdür. Kilit taşı türün, ortamdan uzaklaştırılması komünitedeki diğer canlıları çok büyük ölçüde etkiler.
+Örneğin, Bir deniz yıldızı türü bir çeşit midye ile beslenmektedir. Bu komüniteden deniz yıldızının çıkartılması durumunda midyeler kontrolsüzce artar. Bunun sonucunda sayısı .çok artan midyeler mercan kayalıklarına zarar verir.
+ 
+✔ İstilacı tür: Doğal yaşam alanları olmayan bir komüniteye girerek burada çoğalan türlerdir. İstila ettikleri komünitenin yapısını bozarlar.
+ 
+✔ Ekoton: Komşu komüniteler arasındaki geçiş bölgeleridir. Bu bölgelerde canlı çeşidi fazla olmasına rağmen rekabet nedeni ile canlı sayısı azdır.
+​
+KOMÜNİTELERDE REKABET
+Ortamın sınırlı kaynakları için canlılarda görülen yarıştır. Tür içi ya da türler arası rekabet olarak görülebilir.
+ 
+✔ Tür içi rekabet; besin, yaşam alanı ve üreme için görülürken; türler arası rekabet; besin ve yaşam alanı için görülür. Türler arası rekabet üreme amacıyla gerçekleşemez. Çünkü farklı türler arasında üreme yapılmaz. Ayrıca beslenme şekli farklı olan türler arasında besin için rekabet görülmez.
+​
+✔ Paramecium aurelia ve Paramecium caudatum aynı besin ortamına bırakılırsa P. aurelia, P. caudatum’a göre rekabette daha başarılı olur.
+​
+Av – Avcı İlişkisi
+Bir canlının başka bir canlıyı beslenme amaçlı yakalamasına avlanma denir. Yenilen canlıya av, yiyen canlıya ise avcı (predatör) denir. Bir canlı hem av hem de avcı olabilir. Av bu durumdan zarar görürken, avcı yarar görmektedir. Ancak bu durum parazitlik değildir.
+​
+SİMBİYOTİK YAŞAM
+✔ En az iki farklı türün beslenme amacı ile bir araya gelerek oluşturdukları beslenme ilişkisidir.
+ 
+✔ Mutualizm (+/+): Bir arada yaşayan türlerin her ikisinin de bu ilişkiden yarar görmesi durumudur. Bu canlılar birbirinden ayrıldıklarında yaşamaya devam edebiliyorlarsa bu ilişkiye protokooperasyon (gevşek mutualizm); edemiyorlarsa sıkı mutualizm denir.
+Örneğin;
+   Baklagiller ve köklerinde yaşayan azot bağlayıcı bakterilerin oluşturduğu nodül yapısı mutualizmdir. Bakteriler bitkiye azot sağlarken bitki de bakteriyi besler ve yaşam alanı sağlar.
+   İnsanların bağırsağında yaşayan B ve K vitamini üreten bakteriler ile insan arasındaki ilişki mutualizmdir. İnsan bakterisayesinde sindirim, bağışıklık gibi olayları gerçekleştirir. Bakteri ise beslenir ve barınma sağlar.
+​
+   Timsah ve kürdan kuşu arasındaki ilişki mutualizmdir. Timsah yemek yedikten sonra ağzını açar ve ağzına gelen kuş timsahın ağzının içine kalan besin artıkları ile beslenir. Timsah ise ağzını temizletmiş olur.
+    Likenler, algler ile mantarların bir araya gelerek oluşturduğu topluluktur. Algler mantarlardan aldığı inorganik madde ile organik madde sentezlerken, mantarlar ise alglerden aldığı organik maddeyi kullanır.
+ 
+✔ Kommensalizm (+/0): Bir arada yaşayan türlerden biri bu ilişkiden yarar görmesi, diğerinin ise etkilenmediği durumdur. Yani birlikteliği oluşturan canlılardan biri diğerine zarar vermeden fayda sağlar.
+Örneğin;
+  Köpekbalığına tutunan küçük balıklar köpekbalığının yiyeceklerinin artıklarından faydalanması. Bu durumun köpek balığına fayda ya da zararı yoktur.
+   Aslan ve kaplan gibi canlıların avlarının artıkları ile beslenen çakallar.
+   Bazı bitkilerin tohumları hayvanların derisine yapışarak onunla beraber dağılır. Hayvana hiçbir fayda ya da zararı yokken, kendisinin üremesini sağlar.
+​
+✔ Parazitzm (+/-): Bir arada yaşayan türlerden birinin bu iişkiden yarar, diğerinin ise zarar görmesi durumudur. Virüsler, bakteriler, bazı amipler, palzmodium ve mantarlar parazit olabilir. Ayrıca bazı bitkiler ve hayvanlar da parazit olabilmektedir.
+Bitki Parazitleri: Bitkiler üzerinde beslenen parazitlerdir. Kendileri de bitkidir. Yarı ve tam parazit olmak üzere iki gruba ayrılır.
+      Yarı parazitler: Üzerinde yaşadıkları bitkinin ksilemlerine emeç yollayarak inorganik maddelerinden faydalanırlar. Klorofil pigmentine sahip olduklarından fotosentez yapabilirler. (Ökse otu)
+     Tam parazitler: Üzerinde yaşadıkları bitkinin ksilem ve floemine emeç yollayarak hem inorganik hem de organik maddelerinden faydalanırlar. Klorofilleri olmadığından fotosentez yapamazlar. Çok fazla çoğaldıklarında bitkinin ölümüne neden olabilirler. (Canavar otu)
+​
+Hayvan Parazitleri: Sindirilmiş besinlerin hazır olarak bulunduğu vücut yapılarındaki besinlerle beslenirler. Ayrıca vektör olabildiklerinden hastalıkları yayarak hastalıklara yol açarlar.
+      İç (Endo) parazit: Hayvanların içinde yaşarlar. Kan ya da bağırsak içerisinde bulunurlar. Sindirim sistemleri gelişmemiştir. Üreme sistemleri ve tutunma organları iyi gelişmiştir. (Bağırsak solucanı, tenya, karaciğer kelebeği…)
+       Dış (Ekto) parazit: Vücudun dışına yerleşerek kan emerler. Sindirim sistemleri gelişmiştir. (Bazı eklem bacaklılar…)
+​
+ ✔ Amensalizm (-/0): Canlılardan birinin etkilenmediği diğerinin ise zarar gördüğü birlikteliktir.
+Örneğin;
+Ceviz ağacından yayılan kimyasal maddelerin etrafındaki bitkilerin ölmesine neden olması
+​
+SÜKSESYON:
+Bir komünitede çeşitli faktörlerle baskın türün zamanla değişmesidir.
+Süksesyon iki şekilde gerçekleşir.
+ 
+✔ Birincil (Primer) Süksesyon: Toprağın hiç oluşmadığı, canlı yaşamının bulunmadığı alanlarda görülen süksesyondur. Süksesyon sonucunda komünitede bir denge oluşur. Buna klimaks denir. Çevre şartlarında çok ciddi değişiklik olmadığı sürece klimaks devam eder.
+Örneğin, buzulların erimesi sonucunda toprağın olmadığı kutup bölgelerinde toprak oluşumu ile başlayan bu durum primer süksesyona örnektir.
+ 
+✔ İkincil (Sekonder) Süksesyon: İnsan müdahalesi, aşırı otlatma ve yangın gibi nedenlerle toprak yapısı bozulmadan komünitenin bozulması ile görülen süksesyondur. Bu süksesyonda toprak yapısı bozulmadığından toprak oluşumu görülmeden diğer evreler aynı sıralama ile gerçekleşir.
+
+Popülasyon Ekolojisi
+✔ Belirli bir alanda yaşayan aynı tür canlılar topluluğuna popülasyon denir. Ekosistemin en küçük birimi popülasyondur.
+ 
+Popülasyonun Yoğunluğu: Popülasyondaki birim alan ya da birim hacimdeki birey sayısıdır.
+ 
+Örnek: Bir bölgedeki metrekaredeki arpa sayısı.
+ 
+Popülasyon yoğunluğu göçler, doğum ve ölümden etkilenir. Bu etkilenme yoğunluğu artırıp azaltabilir.
+​
+✔ Bir popülasyon içindeki birey sayısı sabit değildir. Birey sayısı çeşitli faktörlerin etkisi ile değişiklik gösterir. Bu faktörlere popülasyon dinamikleri denir.
+ 
+Popülasyon Büyüklüğü: Popülasyonu oluşturan birey sayısıdır. Doğum oranı, ölüm oranı ve göçler olmak üzere üç temel etkenin kontrolünde değişir.
+ 
+✔ Doğum oranı: Birim zamanda üreme yoluyla popülasyona katılan birey sayısıdır.
+✔ Ölüm oranı: Birim zamanda ölüm yoluyla popülasyondan ayrılan birey sayısıdır.
+✔ Göçler: İçine ve dışına olmak üzere iki şekilde gerçekleşir.
+ 
+Popülasyon Büyüklüğündeki Değişme = (Doğum + İçe Göç) – (Ölüm + Dışa Göç)
+ 
+A = B --> Popülasyon Dengede
+A > B --> Popülasyon Büyür
+A < B --> Popülasyon Küçülür. Bu durum uzun süre devam ederse popülasyon yok olabilir.
+​
+POPÜLASYON BÜYÜME GRAFİKLERİ
+ 
+S Tipi Gelişme Grafiği: Çevresel sınırlamalar nedeniyle ölüm oranı artan, doğum oranı azalan popülasyonlarda görülen grafiktir. Birey sayısı her zaman geometrik olarak artmaz. Grafikte dört evre gözlenir.
+ 
+I. Kuruluş Evresi (Pozitif Artış): Çevreye alışma, yuva kurma gibi nedenlerle çiftleşme oranı düşüktür.
+II. Logaritmik Artış Evresi (Geometrik): Üreme yaşına ulaşmış bireyler fazladır. Doğum oranı yüksektir.
+III. Negatif Artış Evresi: Çevresel şartlar (rekabet, besin kıtlığı, hastalık) nedeniyle popülasyonun artış hızı geriler.
+IV. Denge Evresi: Popülasyon dengelenmiş ve taşıma kapasitesine ulaşmıştır.
+​
+J Tipi Gelişme Grafiği: Böceklerde ve bazı omurgasızlarda görülür. Popülasyonda çevresel sınırlamalar olmadığında birey sayısı geometrik olarak artar.
+✔ Hızlı bir kuruluş evresi vardır. Denge evresi yoktur. Diğer evreleri S tipiyle aynıdır.
+ 
+Taşıma kapasitesi: Çevre şartlarında ve habitatta değişiklik olmadığı varsayılarak bir bölgede yaşayabilecek maksimum birey sayısıdır.
+✔ Bir popülasyondaki birey sayısı taşıma kapasitesine yaklaştıkça çevre direnci artış gösterir. Bu durum popülasyon büyüklüğünün belli sınırlar arasında kalmasına neden olur.
+​
+Popülasyondaki Bireylerin Hayatta Kalma Eğrisi: Her popülasyon için hayatta kalma eğrisi farklıdır. Bu durum canlının dayanıklılığı ve yaşam yerindeki diğer faktörler ile alakalıdır. Aynı popülasyonun farklı yaşam koşullarındaki hayatta kalma eğrisi de farklı olabilir.
+ 
+Tip I: Yavru ve erginlik döneminde hayatta kalma oranı yüksek canlıların oluşturduğu popülasyondur. Ölüm oranı yaş ilerledikçe artmaktadır. Yavru bakımı görülen ve az yavru oluşturan popülasyonlardır. Örnek: Memeli
+
+Tip II: Ölüm oranı her yaşta aynı olan popülasyondur.
+Örnek: Çok yıllık bitki, bazı kemirgenler, bazı omurgasızlar, bazı kuşlar ve sürüngenler
+ 
+Tip III: Yavru dönemde hayatta kalma ihtimali düşük olan popülasyondur. Yavrular ebeveynleri tarafından korunmadığından ve yavrulama çok fazla görüldüğünde hayatın erken yaşlarında daha çok ölüm görülür.
+Örnek: Böcekler, pek çok deniz omurgasızı ve balıklar
+​
+Popülasyon Dalgalanmaları: Bir bölgeye popülasyon yerleştikten ve dengeye ulaştıktan sonra birey sayısındaki değişmeler devam eder. Bu değişikliklere popülasyon dalgalanmaları denir.
+ 
+Popülasyon dalgalanmaları düzenli ya da düzensiz olabilir. Düzensiz değişmeler önceden bilinemez. Düzenli değişmeler mevsimsel veya birkaç yıllık periyotlar halinde olabilir.
+​
+Popülasyon Dağılımı: Bir popülasyonu oluşturan bireylerin belirli bir oranda gösterdikleri yerleşme biçimidir.
+ 
+✔ Kümeli Dağılım: En yaygın olan dağılım şeklidir. Çevre ihtiyaçlarına göre kümelenme gözlenir. Örneğin; bitkiler gelişmenin daha iyi olacağı yerlerde kümelenirler.
+ 
+✔ Düzenli Dağılım: Yaygın değildir. Örneğin; hayvanlar alan savunma davranışları nedeniyle düzenli dağılım gösterir.
+ 
+✔ Rastgele Dağılım: Popülasyondaki bireyler arasında etkileşim bulunmaz. Her birey kendine en uygun ortamı seçer.
+​
+Popülasyon Yaş Dağılımı: Yaş dağılımı bireylerin üreme özelliklerine göre yapılır.
+ 
+✔ Genç Bireyler: Üreme olgunluğuna erişmemiş bireylerdir.
+✔ Ergin Bireyler: Üreme yeteneğindeki bireylerdir.
+✔ Yaşlı Bireyler: Üreme yeteneğini kaybetmiş bireylerdir.
+ 
+Popülasyondaki yaş dağılımlarının birey sayılarının yüzde olan değerleriyle yaş piramitleri oluşturulur.
+ 
+✔ Büyüyen Popülasyon: Genç birey sayısı daha fazladır. Geniş tabanlı yaş piramidi görülür.
+✔ Dengede Popülasyon: Farklı yaş gruplarının birey sayıları eşittir.
+✔ Gerileyen Popülasyon: Yaşlı bireylerin sayısı genç bireylerin sayısından fazladır. Dar tabanlı yaş piramidi görülür.

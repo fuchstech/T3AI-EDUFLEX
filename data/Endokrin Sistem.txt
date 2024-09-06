@@ -1,0 +1,359 @@
+HORMON
+Endokrin sistemi oluşturan salgı bezlerinin salgıladığı özel sinyal taşıyan salgılardır.
+
+✔ Organik maddelerdir.
+✔ Hedef organlara kan yoluyla taşınırlar.
+✔ Çalışması yavaştır ancak uzun süre etkilidir.
+✔ Karma bezlerden, iç salgı bezlerinden salgılanabilir.
+✔ Hem enzim hem de homon salgılayan bezlere karma bez denir. Pankreas, mide, ince bağırsak, ovaryum, testis, karaciğer ve böbrek karma bezdir.
+✔ Sadece hormon salgılayan bezlere iç salgı bezi (endokrin bez) denir. Hipofiz, hipotalamus, tiroit, paratiroit, böbrek üstü bez gibi bezler endokrin bezdir.
+✔ Sadece enzim salgılayan bezlere ise dış salgı bezi (ekzokrin bez) denir. Tükürük, gözyaşı bezi gibi…
+✔ Hormonların etkilerini gösterebilmeleri için kanda belirli bir düzeyde bulunmaları gerekir.
+✔ Hormonların kanda belirli bir düzeyde bulunmaları metabolizmayı hızlandırır.
+✔ Belirli bir düzeye (optimum)ulaştıktan sonra ise metabolizma yavaşlatır.
+ 
+Hormon salgılanmasını sağlayan durumlar;
+1. Çevre değişikliklerinin organizmayı etkilemesi
+2. Kandaki hormon miktarına göre endokrin bezlerin birbirini etkilemesi
+3. Kandaki çeşitli maddelerin miktarlarının artıp azalması
+4. Sinir sisteminin endokrin bezleri etkilemesi
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ENDOKRİN BEZLER
+ 
+1) Hipotalamus: Ara beyin içerisinde bulunan merkezi sinir sitemi yapısıdır.
+✔ Salgıladığı özel hormonlar (RF) ile hipofiz bezinin ön lobunun çalışmasını düzenler.
+✔ ADH ve Oksitosin hormonlarını üretir. Bu hormonları kısa kan damarları ile hipofiz bezinin arka lobuna göndererek bu bölgeden vücuda dağıtılmasını sağlar.
+​
+2) Hipofiz Bezi: Ara beyin bölgesinde hipotalamusa bağlı olarak çalışan bir endokrin bezdir. Çalışması hipotalamus tarafından kontrol edilir. Salgıladığı hormonlar ile diğer endokrin bezlerin çalışmasını kontrol eder. Ön ve arka olmak üzere iki lobdan oluşmaktadır.
+​
+Ön Lob Hormonları: Hiptalamustan salgılanan özel sinyal hormonları (RF) sayesinde hormon salgısı kontrol edilir.
+ 
+✔ STH (Büyüme Hormonu)        
+✔ TSH (Tiroit uyarıcı hormon)          
+✔ ACTH (Adenokortikotropik hormon)
+✔ FSH (Folikül uyarıcı hormon)       
+✔ LH ( Lüteinleştirici hormon)           
+✔ LTH (Prolaktin, Lüteotropik hormon)
+✔ MSH (Melanosit uyarıcı hormon)
+​
+STH (Büyüme Hormonu)
+✔ Hedef Organ: Tüm vücut hücreleri
+✔ Özellikle kemiklerin ve genel olarak vücudun büyümesini sağlar.
+✔ Gelişme döneminde az salgılanması: Nanizm (Cücelik)
+✔ Gelişme döneminde fazla salgılanması: Gigantizm (Devlik)
+✔ Gelişme döneminden sonra fazla salgılanırsa: Eller, ayaklar, burun gibi bazı vücut bölgelerinde orantısız büyüme yani akromegali görülür.​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+TSH (TUH = Tiroid Uyarıcı Hormon)
+✔ Hedef Organ: Tiroit bezi
+✔ Tiroit bezinin çalışmasını ve hormon salgılamasını düzenler.
+✔ Gerektiğinden fazla salgılanması: Tiroit bezi fazla uyarılır ve fazla hormon salgılar. Tiroit bezi büyüme yapar.
+​
+ACTH (Adenokortikotropik Hormon)
+✔ Hedef Organ: Böbrek üstü bezinin (adrenal bez) korteks bölgesi
+✔ Böbrek üstü bezinin kabuk kısmını uyarır ve kabuk kısmından hormon salgılanmasını sağlar.
+
+FSH (FUH = Folikül Uyarıcı Hormon)
+✔ Hedef Organ: Dişi --> Yumurtalık, Erkek --> Testis
+✔ Dişilerde yumurtalık, erkeklerde testislerin uyarılmasını sağlar.
+✔ Dişilerde uyarılan yumurtalıkta yumurta oluşumunu başlatır (oogenez) ve östrojen hormonunun salgılanmasını sağlar.
+✔ Erkeklerde ise uyarılan testislerde sperm üretimini (spermatogenez) başlatır.
+​
+LH (Lüteinleştirici Hormon)
+✔ Hedef Organ: Dişi --> Yumurtalık, Erkek --> Testis
+✔ Dişilerde, ovulasyon ve korpus luteumun oluşmasını sağlar. Korpus luteumun oluşumu nedeni ile yumurtalıktan östrojen ve progesteron hormonlarının da salgılanmasını sağlar.
+✔ Erkeklerde, testis içinde bulunan leydig hücrelerini uyararak testosteron hormonu salgılanmasını sağlar.
+​
+LTH (Prolaktin = PRL = Lüteotropik Hormon)
+✔ Hedef Organ: Süt Bezleri
+✔ Süt bezlerinin gelişmesini ve süt salgılnamasını sağlar.
+✔ Annelik iç güdüsü kazandırır.
+​
+MSH (MUH = Melanosit Uyarıcı Hormon)
+✔ Hedef Organ: Deri
+✔ Derideki melanosit hücrelerini uyarır.
+✔ Melanin pigmentlerinin üretilmesini sağlayarak deri renginin oluşmasını sağlar.
+✔ Leke çil ve ben gibi yapıların oluşturulmasından sorumludur.
+​
+​
+​
+​​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Arka Lob Hormonları: Hipotalamus tarafından üretilerek kısa kan damarları ile hipofizin arka lobuna gönderilen ve buradan da tüm vücuda salgılanan hormonlardır. Bu nedenle, hipofizin arka lobunda hormon üretimi yoktur.
+ 
+✔ ADH (Antidiüretik hormon)
+✔ Oksitosin
+​
+Oksitosin
+✔ Hedef Organ: Rahim ve süt bezleri
+✔ Doğumda rahim kaslarının kasılmasını ve doğum sancısının başlamasını sağlar.
+✔ Üretilen sütün süt kanallarına aktarımını sağlar.
+
+ADH (Antidiüretik Hormon = Vasopressin)
+✔ Hedef Organ: Böbrek
+✔ Böbreklerde suyun geri emilimini sağlayarak vücudun su dengesini sağlayan hormondur.
+✔ Hipotalamusta bulunan osmoreseptörler kanın ozmotik basıncını algılayarak ADH miktarını ayarlar.
+✔ Az salgılanması: Suyun geri emilimi azalır ve canlı çok fazla su kaybeder. Bu durum kandaki glikoz yoğunluğunu yükseltir. Bu hastalığa şekersiz şeker hastalığı (şekersiz diyabet) denir.
+
+TİROİT BEZİ
+✔ Gırtlağın hemen altında, soluk borusunun sağında ve solunda bulunan iki parçadan oluşmuş bir bezdir.
+✔ Tiroksin ve kalsitonin olmak üzere iki farklı hormon salgılar.
+​
+Tiroksin Hormonu
+✔ Hedef Organ: Tüm vücut hücreleri
+✔ Aminoasit yapılıdır. Yapısında iyot minerali bulunur.
+✔ Salgılanması TSH tarafından negatif feed-back mekanizması ile kontrol edilir.
+✔ Vücudun enerji üretimi ile ilgili metabolizmasının düzenlenmesini sağlar. Yani hücrelerin kullanacağı oksijen miktarını ayarlar.
+✔ Bireyin büyümesinde ve organların farklılaşmasında görev alır.
+​
+✔ Az salgılanması: İyot eksikliğine bağlı olarak tiroksin hormonunun üretiminde azalma ya da üretilemem görülür. Bu durumda TSH tarafından tiroksin salgılaması için sürekli uyarılan tiroit bezi şişerek büyüme yapar. Guatr hastalığı (Basit) oluşur.
+ 
+Yorgunluk, Halsizlik, Uyuşukluk, Kas güçsüzlüğü
+ 
+✔ Basit guatr ilerlemesi: Tiroksin hormonunun yetişkinlerde az salgılanması sonucunda Miksodema (Hipotirioidi) hastalığı görülür.
+
+Metabolizma yavaşlar, iştahsızlık, yorgunluk, şişmanlama, saç dökülmesi…
+​
+✔ Fazla salgılanması: Tiroit bezinin kalıtsal, çevresel ya da kanser gibi nedenlerle aşırı çalışması İç guatr (Zehirli guatr = Graves = Hipertiroidizm) hastalığına neden olur. Bu durumda tiroit bezi normal ya da aşırı büyümüş olabilir.
+Metabolizma hızlanır, kilo kaybı görülür, terleme artar, göz küreleri dışarı fırlar, sinirlilik görülür…
+✔ Çocukluk döneminde tiroksin hormonunun az salgılanması: Kretenizm
+Büyüme yetersizliği, zeka geriliği…
+ 
+Kalsitonin
+✔ Hedef Organ: Kemik ve böbrek
+✔ Kandaki kalsiyum miktarını ayarlar.
+✔ Kanda kalsiyum miktarı arttığında salgılanmaya başlar ve kandaki kalsiyumun fazlasının kemiklere geçmesini ve depolanmasını sağlar.
+✔ Böbreklere de etki ederek kalsiyumun geri emilimini azaltır.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+PARATİROİT BEZİ
+✔ Tiroit bezinin arkasında bulunan mercimek büyüklüğünde olan dört tane bezdir. 
+✔ Parathormon salgılar.
+​
+Parathormon
+✔ Hedef Organ: Kemik, böbrek ve bağırsak
+✔ Kan ile diğer dokular arasındaki kalsiyum-fosfor dengesinin korunmasını sağlar.
+✔ Kanda kalsiyum miktarı normal değerin altına düştüğünde salgılanır.
+✔ Kemikten kana kalsiyum minerali geçişini sağlar.
+✔ Bağırsak ve böbreklerden kalsiyum emilimini artırır.
+✔ Böbreklerden fosforun atılmasını hızlandırır ve kandaki fosfor miktarını azaltır.
+✔ Parathormon ile kalsitonin hormonu zıt etki eder. (antagonist)
+​
+✔ Az salgılanırsa: Kandaki kalsiyum seviyesi normal değerinin altına düşer. Az salgılandığı için değerleri optimum hale getirecek olan kalsiyum dokulardan kana çekilemez. Bu durum kemik ve kaslarda kalsiyum birikimini artırır. Kaslarda ağrılı titremeler oluşur. Bu hastalığa tetani denir.
+
+✔ Fazla salgılanırsa: Kandaki kalsiyum miktarı oldukça artarken; kemik ve kaslarda kalsiyum birikimi azalır. Böbrekler tarafından fazlasıyla geri emilen kalsiyum, böbrek taşı oluşumuna neden olur. Kaslarda kalsiyumun azalması kaslarda zayıflamaya neden olur.
+​
+BÖBREK ÜSTÜ BEZ (ADRENAL BEZ)
+✔ Her bir böbreğin üst kısmında bulunan endokrin bezdir.
+✔ Böbrekler ile doğrudan bir bağlantısı yoktur.
+✔ Adrenal bezler öz (medulla) ve kabuk (korteks) bölgesi olmak üzere iki kısımdan oluşmuştur.
+ 
+Korteks Bölgesi
+✔ Hormon salgısı ACTH tarafından kontrol edilir.
+​
+Kortizol Hormonu (Glikokortikoid)
+✔ Hedef Organ: Tüm vücut hücreleri
+✔ Karbonhidrat, yağ ve protein metabolizması üzerine etkilidir.
+✔ Kandaki glikoz oranı düştüğünde vücuttaki yağ ve proteinlerin glikoza dönüşmesini sağlayarak kan şekerini artırır.
+✔ Karaciğerdeki glikojen deposunu artırır.
+✔ Glikozun oksidasyonunu önler. (glikozun oksijenli solunumu) Bunun yerine protein ve yağların oksidasyonunu sağlar. Protein oksidasyonu sonucunda idrardaki üre miktarı artar.
+ 
+✔ Az salgılanması: Diğer organik moleküllerden glikoz üretimi yapılamadığından kan şekeri düşer.
+​
+✔ Glikokortikoidlerin aşırı miktarda ilaç olarak kullanılması: Glikokortikoidler, bağışıklık hücrelerini baskılayan hormonlardır. Uzun süreli kullanımı bağışıklık hücrelerinin uzun süreli baskılanmasına neden olacağından vücudu enfeksiyonlara açık hale getirir.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Aldosteron (Mineralokortikoid)
+✔ Hedef organ: Böbrek
+✔ Böbreklerden sodyum ve klor emilimini artırırken potasyumun emilimini azaltır.
+✔ Kanda, hücre içi ve hücre dışı sıvılardaki iyon derişimini düzenler.
+ 
+✔ Az salgılanırsa: Böbreklerden sodyum ve klorun emilimi azalır, potasyum emilimi ise artar. Bu durumda vücuttaki sodyum ve klor miktarı azalırken, potasyum miktarı artar. Genel olarak mineral miktarı azaldığından kan basıncı azalır. Mineral kaybına bağlı olarak kaslarda yorgunluk, vücutta dirençsizlik ve yorgunluk ortaya çıkar. Derideki pigmentleşme artar ve renk koyulaşır. Addison hastalığı ortaya çıkar.
+ 
+Eşey Hormonları:
+✔ Hedef Organ: Dişi --> Yumurtalık, Erkek --> Testis
+✔ Östrojen, Testosteron (androjen) ve progesteron salgılar.
+​
+Öz Bölgesi
+✔ Embriyonik dönemde sinir dokusundan gelişir bu nedenle sinir sisteminin uzantısı şeklindedir ve sempatik sinir sistemi ile birlikte çalışır.
+✔ Aminoasit yapılı hormonlar salgılar.
+ 
+Adrenalin Hormonu (Epinefrin)
+✔ Hedef Organ: Tüm vücut hücreleri
+✔ Heyecan, korku ve sinirlenme gibi durumların salgılanır.
+✔ Sindirim ile ilgili olayları azaltır, diğer olayları artırır.
+✔ Kan şekerini artırır.
+✔ Bazı damarları genişletip bazı damarları daraltarak kanın beyin, kalp gibi organlara ve iskelet kaslarına yöneltir.
+✔ Derideki kan damarlarının daralmasına neden olur. Bu nedenle deriye giden kan miktarı azalır. Korkan insanın renginin sararmasının nedeni budur.
+ 
+Noradrenalin Hormonu (Norepinefrin)
+✔ Hedef Organ: Tüm vücut hücreleri
+✔ Görevleri adrenaline benzer..
+✔ Akson uçlarından salgılanan nörotransmitter madde olarak da görev alır.
+
+PANKREAS
+✔ Midenin alt tarafında bulunan yaprak şeklindeki karma bezdir.
+✔ Acini hücreleri ve langerhans adacıkları olmak üzere temel anlamda iki kısımdan oluşur.
+✔ Acini hücreleri pankreas öz suyu üreterek enzim üretir. (Ekzokrin)
+✔ Langerhans adacıkları ise hormon üreten hücreler içeren alfa ve beta bölgelerinden oluşmaktadır. (Endokrin)
+​
+​
+​
+​
+​​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+İnsülin Hormonu
+✔ Hedef Organ: Karaciğer ve tüm vücut hücreleri
+✔ Sağlıklı bir insanda kandaki ortalama glikoz düzeyi 90mg/100ml’dir. Glikoz miktarı bu değerin üzerine çıktığında pankreastaki reseptörler bunu algılar ve beta hücrelerinden insülin hormonu salgılanır.
+✔ Beyin hücreleri hariç tüm hücrelerin glikoz geçirgenliğini artırır.
+✔ Glikozun fazlasının karaciğer ve kaslarda glikojen olarak depo edilmesini sağlar.
+✔ Depo edilmiş glikojenin yıkılmasını önler.
+✔ Protein ve yağ sentezini uyarır.
+ 
+✔Az salgılanması: Kandaki glikoz miktarı normal düzeye düşürülemediğinden böbreklere gelen glikoz geri emilemez bu durum çok sulu bir idrar içinde glikoz olmasına yol açar. Buna Şeker hastalığı (Diyabet) denir.
+​
+✔ Tip 1 şeker hastalığı: Bağışıklık hücrelerinin beta hücrelerine saldırması nedeni ile insülin üretilemediğinden hayatları boyunca insülin almak zorundadırlar. Genellikle kalıtsaldır ve genç yaşlarda ortaya çıkar.
+
+✔ Tip 2 şeker hastalığı: Hedef hücrelerdeki reseptör bozukluğu nedeni ile hücrelerin insüline tepki vermemesinden kaynaklanır. Sağlıklı beslenme, spor ve ilaç tedavisi ile hastalar normal bir yaşantı sürebilmektedir.
+ 
+Glukagon Hormonu
+✔ Hedef Organ: Karaciğer ve tüm vücut hücreleri
+✔ Glikoz miktarı normal değerin altına indiğinde pankreastaki reseptörler bunu algılar ve alfa hücrelerinden glukagon hormonu salgılanır.
+✔ İnsülin hormonunun antagonistidir.
+✔ Karaciğerdeki glikojenin yıkımını sağlar ve glikoz salınımını artırır.
+✔ Yağ dokularından yağların yıkımını sağlar.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+EŞEYSEL BEZLER
+✔ Dişi --> Yumurtalık, Erkek --> Testis
+FSH ve LH etkisi ile hormon salgılar.
+✔ Ergenlik dönemine kadar hormon salgılamazlar.
+✔ Eşeysel bez hormonları steroid yapılı hormonladır.
+ 
+Östrojen
+✔ Hedef Organ: Rahim ve bazı vücut hücreleri
+✔ Hipofizden salgılanan FSH etkisi ile ovaryum içerisinde bulunan folikülden ve LH etkisi ile korpus luteumdan salgılanır.
+✔ Rahim iç dokusunun (endometrium) hücre bölünmesini artırarak kalınlaştırılmasını sağlar.
+✔ Ayrıca ikincil eşey karakterlerin oluşmasını sağlar.
+
+ Progesteron
+✔ Hedef Organ: Rahim
+✔ Hipofizden salgılanan LH etkisi ile korpus luteumdan, gebelik durumunda da plasentadan salgılanır.
+✔ Rahimin iç duvarının embriyonun tutunabilmesi için hazır hale getirilmesini sağlar.
+✔ Ayrıca hamilelik sürecinde rahimin kasılmasını önleyerek gebeliğin sürmesini sağlar.
+✔ Gebelikte az salgılanması: Düşük meydana gelebilir.
+​
+Testosteron (Androjen)
+✔ Hedef Organ: Testis ve bazı vücut hücreleri
+✔ Hipofizden salgılanan LH etkisi ile testis içinde bulunan Leydig hücreleri tarafından üretilirler.
+✔ Spermlerin olgunlaştırılmasını ve erkek üreme sisteminde bulunan yardımcı bezlerin gelişmesini sağlar.
+✔ Ayrıca ikincil eşey karakterlerinin oluşturulmasını sağlar.
+ 
+TİMÜS BEZİ
+✔ Göğüs boşluğunda akciğerler arasında ve kalbin üst kısmında bulunan lenf sistemi ile bağlantılı bezdir.
+✔ Yeni doğan bebeklerde çok büyüktür. Yaş ilerledikçe küçülür. Çocuklarda, maksimum aktivite ile çalışır.
+✔ Timik Hormon (timozin) üretir. Bu hormon, T lenfositlerinin işlevsel özellik kazandırılmasında ve bu hücrelerin korunmasında görev alır.
+ 
+EPİFİZ BEZİ
+✔ Epitalamusta bulunur.
+✔ Özellikle, karanlıkta Melatonin Hormonu salgılar. Bu hormon, biyolojik saati düzenler.
+

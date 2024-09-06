@@ -1,0 +1,484 @@
+KALP
+✔ Kanın damarlarda akması için gerekli olan basıncı sağlayan dolaşım sisteminin en temel organıdır..
+✔ Oksijen bakımından zengin kana temiz, oksijence fakir kana ise kirli kan denir. Kalp içerisinde, temiz kan ve kirli kan birbirine karışmaz. Vücuda temiz kan pompalanır. Sıcakkanlı canlılardır.
+✔ Kalp, dıştan içe doğru üç ana tabakadan oluşmuştur.
+ 
+Perikard: Kalbi dıştan saran bağ dokusundan oluşmuş iki katlı bir zardır. Zarlar arasında sıvı bulunur. Bu sıvı kalbin rahat çalışmasını sağlar.
+Miyokard: Kalp kasıdır. Kalbin kasılıp gevşeyerek çalışmasını sağlar. Bu kaslı yapı kulakçıklarda ince, karıncıklarda kalındır. Aorttan çıkan damarlar miyokard tabakasında kılcallara ayrılır. Bu damarlar kalp kasını besler. Bunlara koroner damarlar denir.
+Endokard: Kalbin en iç tabakasıdır. Tek katlı endotel ile bunu miyokarda bağlayan bağ dokusundan oluşmuştur. Kalbin çalışması sırasında aşınmayı önleyen kaygan bir yapı oluşturur. Kan damarı bulunmaz.
+ 
+✔ Kalbin hiçbir tabakası odacıklar içindeki kanı kullanmaz. Bu nedenle kalp içindeki kanın bileşeninde değişiklik olmaz.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Kalbin Yapısı
+✔ Üstte iki kulakçık (atrium), altta iki karıncık (ventrikulus) olmak üzere dört odacıklıdır.
+✔ Sağ karıncıkta ve sağ kulakçıkta daima kirli kan, sol karıncık ve sol kulakçıkta daima temiz kan bulunur.
+✔ Kalbin kulakçıklardan karıncıklara açılan kısmında kapakçıklar bulunur. Bu kapakçıklar kulakçıklardan karıncıklara geçen kanın kulakçıklara geri dönmesine engel olur.
+ 
+Sağ kulakçık-sağ karıncık --> triküspit (üçlü)
+Sol kulakçık-sol karıncık --> biküspit (mitral kapakçık) (ikili)
+ 
+✔ Kalbin karıncıklarına atardamarlar, kulakçıklarına toplardamarlar bağlıdır.
+✔ Atardamarların kalpten çıktığı yerlerde yarım ay kapakçıkları bulunur. Bunlar kalpten çıkan kanın geri gelmesini engeller. (Aort ve akciğer atardamarında)
+​
+✔ Alt ve üst ana toplardamar --> Kirli kanı sağ kulakçığa
+✔ Akciğer atardamarı --> Sağ karıncıktan kirli kanı akciğere
+✔ Akciğer toplardamarı --> Akciğerden temiz kanı sol kulakçığa
+✔ Aort atardamarı --> Sol karıncıktan temiz kanı vücuda
+​
+Kalbin Çalışması
+✔ Kalp, miyokard tabakasının kasılıp gevşemesi ile çalışır.
+✔ Kulakçıklar ve karıncıklar birbirine zıt çalışır. Biri kasılıyken diğeri gevşeme durumundadır. Bu şekilde çalışmaları, kan için itici bir güç oluşturur.
+✔ Kalbin kasılmasına sistol, gevşemesine diastol denir.
+✔ Her kalp atışı bir sistol ve bunu takip eden bir diastolden oluşur.
+✔ Kalbin çalışması sadece beyinden gelen uyarılara bağlı değildir. Bu nedenle kalp atışı sinirleri kesilse bile uygun ortam sağlandığında bir süre vücut dışında da çalışmaya devam eder.
+✔ Kalpteki ritmik kasılma kalbin belirli yerlerinde bulunan özelleşmiş dokularla düzenlenir.
+ 
+Kalp Çalışmasının Kontrolü
+1) İlk kasılma sağ kulakçığın üst arka duvarında yer alan sinoatrial düğümün (S.A) uyarılmasıyla başlar. S.A’dan gelen uyarılar ile kulakçıklar kasılır.
+2) Kulakçıklar kasılınca kan karıncıklara geçer. S.A’dan gelen uyarılar kulakçıklarla karıncıklar arasında bulunan atrio-ventriküler düğüme (A.V) gelir. A.V özelleşmiş fibrillerden meydana gelmiştir. Bu fibrillere his demetleri denir. His demetleri ikiye ayrılarak sağ ve sol karıncığa ulaşır. Karıncıkların duvarlarında dallanarak purkinje liflerini oluşturur.
+3) Uyarı purkinje liflerine gelince karıncıklar kasılır. Böylece bir kalp atışı gerçekleşmiş olur.
+​
+​
+​​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+KALBİN ÇALIŞMASINI ETKİLEYEN FAKTÖRLER
+1) Sinirler: Omurilik soğanından çıkan otonom sinirler S.A’yı uyararak çalışmasını sağlar.
+  Sempatik sinirler --> hızlandırır.
+  Parasempatik sinirler --> yavaşlatır.
+ 
+2) Hormonlar: Adrenalin hormonu --> hızlandırır.
+       Asetilkolin --> yavaşlatır.
+       Tiroksin hormonu --> hızlandırır.
+ 
+3) Kandaki CO2 Derişimi: Kandaki CO2 miktarının artması pH’ı düşürür. Bu nedenle sinirler uyarılır; solunum ve dolaşım hızı artar.
+ 
+4) Sıcaklık ve çalışma temposu: Çalışma temposunun artması vücut sıcaklığının yükselmesine yol açar. Bu durumda  kalp atışını hızlanır.
+ 
+6) Kimyasal maddeler: İyonlar, ilaçlar ve alkol gibi bazı kimyasal maddeler kalbin çalışmasını etkiler. Etkileri çeşitlerine göre değişir.
+
+DAMARLAR
+​
+✔ Dolaşım Sisteminde görev alan damarlar şunlardır;
+ 
+a) Atardamar
+✔ Kanı kalpten alarak vücuda dağıtan damarlardır.
+✔ Yapılarında dıştan içe doğru;
+  Bağ doku
+  Düz kas
+  Tek katlı yassı epitel  bulunur.
+✔ Bağ doku içerisinde çok fazla lif yer alır. Ayrıca düz kas tabakası içinde elastik lifler vardır. Bu lifler damarın basınca karşı dayanıklı olmasını sağlar.
+✔ Kan basıncı ve kan akış hızı en fazla olan damardır.
+✔ Temiz kan taşırlar. (Akciğer atardamarı hariç)
+✔ İç yüzeyi pürüzsüzdür. Kapakçık bulunmaz.
+​
+b) Kılcal Damar
+✔ Atardamarlarla toplardamarlar arasında yer alırlar.
+✔ Tek katlı epitel tabakasından oluşmuşlardır.
+✔ Çapları en küçük olan (en ince) damarlardır.
+✔ Kan akış hızının en düşük olduğu damardır.
+✔ Doku hücreleri ile kan arasında madde alışverişini sağlarlar. (starling hipotezi)
+✔ Kapakçık bulunmaz.
+✔ Kan basıncı toplardamarlardan fazla, atardamarlardan azdır.
+​
+3) Toplardamar
+✔ Vücuttan toplanana kanı kalbin sağ kulakçığına getiren damardır.
+✔ Kirli kan taşırlar. (Akciğer toplardamarı hariç)
+✔ Çapları en büyük (en kalın) olan damarlardır.
+✔ Dıştan içe doğru üç tabakadan meydana gelmiştir.
+  Bağ doku
+  Düz kas
+  Tek katlı yassı epitel tabakasından oluşmuştur.
+ 
+✔ Atardamarlardan farklı olarak bağ dokudaki lif sayısı azdır. Ayrıca düz kas tabakası daha ince olup elastik lif bulundurmaz. Çünkü, kan basıncı az olduğundan gerilime karşı çok fazla dayanıklı olmasına gerek yoktur.
+✔ Vücudun alt tarafında bulunan toplardamarlarda kanın geriye doğru akmasını engelleyen kapakçıklar vardır.
+✔ Kan akışı kılcal damarlardan fazla atardamarlardan azdır.
+✔ Kan basıncının en az olduğu damarlardır.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Damarlarda Kanın Hareket Ettirilmesini Sağlayan Durumlar
+ 
+Atardamarlarda Kanın Hareketi
+✔ Karıncıkların kasılmasıyla oluşan basınç
+✔ Atardamardaki düz kaslar
+✔ Arkadan gelen kanın öncekini itmesi
+✔ Yerçekimi
+​
+Toplardamarlarda Kanın Hareketi
+✔ Kulakçıkların gevşemesiyle oluşan emme kuvveti
+✔ Toplardamarların etrafını saran iskelet kaslarının kasılması
+✔ Toplardamar içindeki kapakçıklar
+✔ Soluk alma ile akciğer içindeki basıncın düşmesi
+✔ Üst bölgelerdeki toplardamarlarda için yerçekimi
+ 
+Nabız: Kalbin kulakçık ve karıncıktaki kasılma ve gevşemelerine paralel olarak atardamarlarda meydana gelen ritmik kasılma ve gevşemelerdir. Nabız sayısı kalp atış sayısına eşittir.
+ 
+Tansiyon (Kan basıncı): Kalpten atardamarlara pompalanan kanın damarlara yaptığı basınçtır.
+✔ Karıncıkların kasılmasıyla kan pompalandığından atardamarlardaki kan basıncı artar. Buna sistol basıncı ya da büyük tansiyon denir.
+✔ Karıncıkların gevşemesi sırasında ise atardamarlardaki basınç düşer. Buna diastol basıncı ya da küçük tansiyon denir.
+​
+STARLİNG HİPOTEZİ
+✔Kılcal kan damarlarındaki madde alışverişini açıklayan hipotezdir.
+✔ Atardamarlar ve toplardamarlar yapıları nedeni ile madde alışverişine izin vermezler.
+✔ Kılcal damarlar ise sadece tek katlı epitelden oluştuklarından madde alışverişine izin verirler.
+✔ Madde alışverişi kan ile kana benzeyen doku sıvısı arasında olur. Bu madde alışverişi kılcal damarlardaki ozmotik basınç ile kan basıncı arasındaki farkla sağlanır.
+✔ Kan içinde bulunan proteinlerden dolayı kılcal damarın ozmotik basıncı doku sıvısından yüksektir. Bu proteinler damar dışına çıkamadığından ozmotik basınç kılcal damar boyunca hiç değişmez.
+✔ Kan basıncı ise atardamardan toplardamara doğru azalır.
+✔ Kan basıncının herhangi bir nedenle artması sonucunda kılcal damardan doku sıvısına madde geçişi artar. Bu olay ödeme yol açar.
+Ödemin nedenleri
+✔ Kan basıncının artması
+✔ Kanın ozmotik basıncının düşmesi
+✔ Doku sıvısının ozmotik basıncının artması
+✔ Doku sıvısının mineral miktarının artması
+✔ Lenf kılcallarının tıkanması
+✔ Organlara mekanik darbelerin gelmesi
+​
+​
+​
+​​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+KAN DOLAŞIMI
+​
+İnsanda kan dolaşımı küçük ve büyük kan dolaşımı olmak üzere ikiye ayrılır.
+​
+Küçük Kan Dolaşımı
+İbn Nefs tarafından keşfedilmiştir.
+✔ Kalp ve akciğerler arasında yapılır.
+✔ Amacı kanın temizlenmesini sağlamaktır.
+​
+Büyük Kan Dolaşımı
+✔ Kalp ile vücut arasında olur.
+✔ Amacı, besin maddelerini ve oksijeni hücrelere, atık maddeleri boşaltım organlarına taşımaktır.
+✔ Her organa bir atar bir de toplardamar girişi vardır. (karaciğer hariç)
+✔ Aort kalpten çıktıktan sonra dallanarak çeşitli atardamarlar halinde organlara giriş yapar. Bu sırada kılcal damar haline gelmediğinden içeriği değişmez. (Böbrek atardamarı, karaciğer atardamarı…) ;Organ içerisinde kılcal damar haline gelen damarlarda madde alışverişi gerçekleşir ve atık maddeler toplardamarda birleştirilerek kalbe geri dönüş yapar.
+✔ Sindirim organlarından çıkış yapan toplardamar ise kalbe dönüş yapmadan önce karaciğere uğrar.(kapı toplar damarı) Karaciğerden karaciğer toplardamarı halinde ayrıldıktan sonra kalbe giriş yapar.
+✔Kalbe gelen bir madde vücuda dağılmadan önce akciğere uğramak zorundadır. (Küçük kan dolaşımı)
+ 
+Örneğin; Böbrekte üretilen bir maddenin karaciğere gelme süreci düşünülürse izleyeceği yol;
+  Böbrek --> Kalp --> Akciğer --> Kalp --> Karaciğer
+ 
+Örneğin; Pankreasta üretilen insülin hormonunun karaciğere gelme süreci düşünülürse izleyeceği yol;
+  Pankreas --> Karaciğer
+ 
+(Kalp ve akciğere uğramaz çünkü, pankreas sindirim organıdır ve karaciğer ile arasında bağlantı vardır.)
+
+Kan
+
+✔ Plazma ve hücreler olmak üzere iki kısımda incelenir.
+✔ Kanı santrifüjden geçirdiğimizde hücreler dibe çökerken, plazma kısmı üstte kalır. (Fibrin(pıhtı) dipte kalır.)
+ 
+Kan Plazması
+✔ Kan dokusunun ara maddesidir.
+✔ Su, iyonlar, plazma  proteinlerinden (albümin, fibrinojen, globülin, antikorlar) oluşur.
+ 
+Kan Hücreleri
+Eritrositler (Alyuvarlar):
+✔ İlk oluştuklarında organel ve çekirdeklere sahipken dolaşıma katıldıklarında organel ve çekirdeklerini kaybederler ve damar dışına çıkamazlar. Organel ve çekirdek taşımayan bu alyuvar hücrelerine olgun alyuvar hücresi denir.
+✔ Laktik asit fermantasyonu yaparlar.
+✔ Yapılarında kana kırmızı renk veren hemoglobin bulunur. Bu sayede O2 ve CO2 taşıyabilirler. (Organel ve çekirdeklerini kaybetmelerinin sebebi daha fazla solunum gazı taşıyabilmeleri içindir.)
+✔ Hücre zar yüzeyinde bulunan antijenler ile kan nakillerinden önemli olan kan grubunu belirler.
+✔ Bölünemez ve kendilerini yenileyemezler.
+✔ Fetüste 3-5. aylarda karaciğer ve dalakta daha sonra kırmızı kemik iliğinde üretilir.
+✔ Üretimi böbrekler ve çok az miktarda karaciğer tarafından üretilen eritropoietin hormonu tarafından düzenlenir.
+✔ Ömürleri yaklaşık 120 gündür. Parçalanacakları zaman dalak ve karaciğerde (kupfer hücreleri) demir kısmını ayırır. Geri kalan kısmı ise makrofajlar tarafındna parçalanarak bilirübine oluşturur. Bilirübin ise safra yapımında kullanırlır. Ayrılan demir kısmı ise yeni alyuvar yapımına katılır.
+✔ Hava basıncının düşük olduğu yükseklere çıkıldıkça oksijen miktarı azalacağından sayılar artar.
+ 
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Lökositler (Akyuvarlar):
+✔ Renksiz ve çekirdekli olan aktif hareket edebilen hücrelerdir ve bazı çeşitleri damar dışına çıkarak da görev yapabilir.
+✔ Fagositoz yaparak ve antikor üreterek vücudun savunmasında rol oynarlar.
+✔ Bölünemez ve kendilerini yenileyemezler.
+✔ Kemik iliği ve lenf düğümlerinde üretilirler.
+✔ Ömürleri çeşitlerine göre değişir. Birkaç saat ya da birkaç gün olabilir.
+✔ Dalak ve karaciğerde parçalanır.
+✔ Enfeksiyon durumlarında sayıları artar. Genel olarak çocuklarda daha fazla sayıda bulunabilirler.
+​
+Kan Pulçukları (Trombositler):
+✔ Kemik iliğindeki iri yapılı hücrelerin (megakaryosit) parçalanması ile oluşan kandaki en küçük parçacıklardır. Megakaryositlerin parçalanması ile oluştuklarından çekirdekleri yoktur.
+✔ Kanın pıhtılaşmasını sağlarlar.
+✔ Ömürleri yaklaşık 10 gündür.
+✔ Dalak ve karaciğerde parçalanırlar.
+✔ Kan kayıplarında sayıları artar.
+ 
+Kanın pıhtılaşması
+1) Dokuda ve kan damarlarında zedelenme olur.
+2) Trombositler zedelenmenin olduğu bölgeye gelerek tıkaç oluşturur.
+3) Pıhtılaşma faktörleri salgılanır. Bu maddeler karaciğerin ürettiği protrombini trombin haline dönüştürür.
+✔ Trombositlerden salgılanan tromboplastin
+✔ Hasar gören damar çeperinden salgılanan tromboplastin
+✔ Plazmadaki Ca, K vitamini ve enzimler
+4) Trombin, fibrinojeni fibrin haline dönüştürür.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+LENF DOLAŞIMI
+​
+✔ Kan dolaşımına ek olarak omurgalı canlılarda (balıklar hariç) kan dolaşımından bağımsız olarak lenf sistemi bulunur.
+Görevleri
+✔ Akyuvar üreterek vücudun savunmasında rol alır. (Lenfosit)
+✔ Kılcal kan damarlarından sızan doku sıvısının kan dolaşımına katılmasını sağlar.
+✔ Bağırsaktan emilen ADEK vitaminleri, yağ asitleri ve gliserolün kan dolaşımına katılmasını sağlar.
+ 
+Lenf Damarları:
+✔ Lenf kılcalları ve lenf toplardamarlarından oluşur.
+✔ Lenf toplardamarlarında kapakçıklar bulunur. Lenf sıvısının geriye akmasına engel olur.
+✔ Lenf kılcallarının bir ucu lenf toplardamarlarına bağlanır. Diğer ucu ise dokular arasına kadar ilerler ve kapalıdır. Kan kılcallarına göre daha geçirgendir. Bu sayede doku sıvısı içinde bulunan büyük molekül ve  proteinler lenf kılcallarına geçerler.
+✔ Lenf damarlarında bulunan sıvının hareketi kana göre çok yavaştır. Çünkü sıvıya kalp gibi basınç uygulayan organ ya da atardamar yoktur. Lenf damarlarındaki sıvının hareketi kalbin negatif emme basıncı (kulakçığın gevşemesiyle oluşur) ve iskelet kasları ile sağlanır.
+​
+Lenf Düğümleri:
+✔ Lenf damarlarının dolaşım sistemi ile birleştiği yerlerde bulunan özel hücre kümeleridir.
+✔ Koltuk altı, kasık bölgesi, boyun bölgesinde lenf düğümleri fazladır.
+✔ Lenf düğümlerinde lenfositler üretilir.
+✔ Yoğun bakteri bulaşması halinde bakteriler lenf düğümlerine girer ve lenf düğümlerinin şişmesine neden olur.
+​
+Lenf:
+✔ Kan damarlarına geçemeyen bir miktar doku sıvısı, lenf damarlarına geçerek lenf sıvısını oluşturur.
+✔ Alyuvar bulunmadığından renksizdir. Lenf sıvısına akkan da denir.
+✔ Kan kılcallarından doku arasına geçen plazma  proteinlerinin %95’i lenf kılcal damarlarına alınır ve kan damarlarına kazandırılır.
+ 
+Lenf Dolaşımı: İki yolla olur. Her iki lenf dolaşımı da üst ana toplardamara giriş yaparak kan ile karışır.
+ 
+1. Yol --> Sol Lenf Dolaşımı (başın ve göğüs sol kısmı ile sol koldan gelen / bacak ve bağırsaklardan gelen)
+
+2. Yol --> Sağ Lenf Dolaşımı (Başın ve göğsün sağ kısmı ile sağ koldan gelen)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+KAN GRUPLARI
+​
+Antijen: Hücre üzerinde bulunan proteinlerdir.
+Antikor: Vücudumuza yabancı olan antijenlere karşı akyuvarlar tarafından üretilen savunma proteinleridir.
+✔ İnsanda alyuvar zarı üzerinde bulunan antijenlere göre; M-N, A-B-O ve Rh olmak üzere üç tip kan grubu vardır. MN kan grubunun antikor oluşturma özelliği olmadığından kan nakilleri için önemli değildir.
+✔ Kanımızda bulunan antijen ile o antijene karşı üretilmiş olan antikorun tepkimeye girmesine aglütinasyon (çökelme) denir.
+✔ Kan nakillerinde kan alan kişinin antikorları ile kan veren kişinin antijenleri aynı olmamalıdır. Aynı olması durumunda kanda çökelme meydana gelir ve kan alan kişi ölebilir.
+
+✔ Hastalık yapıcı organizmalara karşı vücudun gösterdiği dirence bağışıklık denir.
+✔ Bağışıklık sırası ile üç yol ile sağlanır.
+ 
+Savunmanın birinci hattı: Enfeksiyona neden olacak canlının vücut içine girmesine engel olunur. Ağız, burun, göz, deri ve bu yapıların salgılarıyla oluşur.
+ 
+Savunmanın ikinci hattı: Vücut içine girmiş olan canlıyı yok etmek için özel olmayan bir savaş yapılır.
+Fagositik hücreler, antimikrobiyal proteinler, ateşin yükselmesi, iltihaplanma yangısal tepki ile gerçekleştirilir.
+ 
+Savunmanın üçüncü hattı: Enfeksiyona neden olacak canlının türüne göre özel yöntemler ile savaşılır.
+Lenfosit ve antikorlar görev yapar.
+ 
+✔ Birincil hat ve ikincil hat, özgül olmayan bağışıklık (mikrop ayırt etmez.); üçüncü hat özgül bağışıklıktır (mikropların türüne göre mekanizma seçilir).
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ 
+ 
+1) Özgül Olmayan (Doğal) Bağışıklık: Mikroorganizmanın çeşidine bakılmaksızın gerçekleştirilir. Savunmanın 1. ve 2. hattını oluşturur.
+ 
+✔ Fagositik hücreler: Mikroorganizmaları fagositoz ederek etkisiz hale getiren hücrelerdir. Karaciğer, dalak, sinir, lenf düğümleri ve akciğerde fagositoz yapabilen hücreler yer alır.
+ 
+✔ Yangısal tepki: Kesik gibi bir neden ile mikroorganizmaların vücuda girdiği bölgede kılcal kan damarları genişler. O bölgede kan miktarı artar. Kızarır ve şişer, ödem oluşur. Histamin (Kan kılcallarının geçirgenliğini artırır.) salgılanır, histaminin etkisi ile akyuvarlar damardan çıkarak organizmaları etkisiz hale getirir.
+​
+✔ Doğal Katil Hücreler: Virüslerle enfekte olmuş ya da kanserleşmiş hücreleri fark ederek, diğer hücrelerin bu hücreleri yok etmesi için reseptörler salgılayan hücrelerdir. Doku ve organ nakillerinde bu hücrelerin faaliyetleri nakli vücudun reddetmesine sebep olabilmektedir.
+ 
+✔ İnterferon: Virüsle enfekte olmuş hücreler tarafından salgılanan proteinlerdir. İnterferonlar sayesinde diğer hücreler virüslerin vücudu enfekte ettiğini algılar ve antiviral proteinler sentezler. İnterferonlar ayrıcı bazı akyuvarlar ve doğal katil hücreler tarafından da salgılanabilir, fagositoz yapabilen hücreleri aktif hale getirebilir.
+ 
+2) Özgül Bağışıklık: Enfeksiyon etkenlerinin türüne göre ayrım yapılarak tepki verir. Savunmanın üçüncü hattını oluşturur.
+✔ Lenfosit (B ve T lenfositleri) ve antikorlar görev alır.
+✔ Vücuda girdiğinde lenfositler tarafından yabancı kabul edilen moleküllere antijen denir. Lenfositlerin antijenlere karşı ürettiği proteinlere antikor denir.
+✔ T ve B lenfositlerinin ürettikleri antikorlar kendilerine özgü antijenleri tanımalarını sağlar.
+✔ Vücut bir antijenle ilk kez karşılaştığında B ve T lenfositlerinin sayısı artmaya başlar. Antikorlar sentezlenerek bağışıklık sağlanır. Bu olaya birincil tepki (bağışıklık) denir.
+✔Aynı antijenle ikinci defa karşılaşılırsa antijen tanındığından daha hızlı ve güçlü şekilde antikor oluşturulur. Buna ikincil tepki (bağışıklık) denir.
+​
+Özgül bağışıklık; hücresel ve humoral (sıvısal) olmak üzere iki şekilde gerçekleşir.
+​
+✔ Hücresel Bağışıklık: T lenfositleri antijenle karşılaştığında doğrudan müdahale ederek bağışıklığın gerçekleşmesini sağlar. Ayrıca bazı T lenfositleri bellek hücrelerine dönüşebilir.
+ 
+✔ Humoral (Sıvısal) Bağışıklık: Antijen ile karşılaşan B lenfositleri, plazma hücrelerine dönüşerek antikor üretir ve bu antikorları dolaşım yolu ile diğer hücrelere yayar. Ayrıca bazı B lenfositleri bellek hücrelerine dönüşür. Böylece, aynı antijenin vücuda bir daha girmesi durumunda antijenleri tanıyarak, daha güçlü tepki oluşturulmasını sağlar.
+​
+​
+​​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ 
+BAĞIŞIKLIĞIN KAZANILMASI
+✔ Bağışıklık, aktif ya da pasif yol ile gerçekleştirilir.
+ 
+1) Aktif Bağışıklık: Lenfositlerin antikor üretimini gerçekleştirmesi ile gerçekleşir. Bir hastalığı geçirme (doğal) ya da aşı olma (yapay) ile sağlanabilir.
+ 
+Aşı: Hastalık yapma yeteneği azaltılmış ya da yok edilmiş mikroorganizmalar veya onların antijenlerini içeren maddedir.  
+✔ Koruyucudur.
+✔ Toksin veya antijen içerir.
+✔ Sağlıklı insana verilir.
+✔ Etkisini geç gösterir ancakuzun sürelidir.
+​
+2) Pasif Bağışıklık: Antikorlar vücuda hazır verilmesi yoluyla sağlanan bağışıklıktır. Hafıza hücrelerinin oluşumunu sağlamadığından etkisi kısa sürelidir. Aynı antijenin vücuda ikinci kez bulaşması durumunda daha güçlü cevap verilemeyecektir.
+Doğal ya da yapay olarak gerçekleşebilir.
+✔ Gebe bir anneden fetüse geçen ve doğum sonrası emzirme ile bebeğe geçen antikorlar doğal pasif bağışıklığa örnektir.
+ 
+Serum: Belirli bir enfeksiyona karşı üretilmiş antikorları bulunduran sıvıdır. Genellikle at, koyun, sığır gibi hayvanların kanından elde edilir. Hasta olan insanın hastalığına uygun antikor içeren serum verilir.
+✔ Tedavi edicidir.
+✔ Antikor veya antitoksin içerir.
+✔ Hasta insana verilir.
+✔ Etkisini çabuk gösterir ancak kısa sürelidir. Etkisini bir sonraki hastalıkta göstermez.
+​
+Alerji: Günümüzde, normal karşılanan çok sayıda maddeye karşı verilen anormal vücut tepkileridir. Alerjen maddeye karşı salgılanan antikorlar, bağ dokudaki mast hücrelerine bağlanarak histamin salgısını artırırlar. Bu durum vücutta bazı belirtilerin görülmesine neden olabilir. Antihistamin (histaminleri etkisiz hale getiren madde) içeren ilaçlar ile belirtiler ortadan kaldırılmaya çalışılır.
+​
+Otoimmüm Hastalıklar: Lenfositlerin, bazı vücut hücrelerine karşı antikor üretmesi sonucunda oluşan hastalılardır. Bağışıklık hücreleri, kişinin sağlıklı ve kendi hücresini yabancı antijen gibi algılar.
+MS, Çölyak hastalığı, romatoid artrit…
+​
+​
+​​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ 
+Dolaşım Sistemi Hastalıkları
+​
+Kalp Krizi (Enfarktüs)
+✔ Sebep: Koroner damarların daralması, sertleşmesi ya da tıkanması sonucu kalp kasının beslenememesi sonucu oluşur.
+✔ Sonuç: Kalp kası zayıflar ve kalp yetmezliğine neden olabilir.
+ 
+Damar Sertliği (Arteriosikleros)
+✔ Sebep: Dengesiz beslenme sonucunda damar duvarlarının esnekliğini kaybedip sertleşmesidir. Damar içinde yağlı ve kalsiyumlu plaklar oluşur. Bu plaklar damarın sertleşmesine ve kalbin zayıflamasına yol açar.
+✔ Sonuç: Kalp krizi, beyin kanaması, felç ve yüksek tansiyon olabilir.
+​
+Hipertansiyon (Yüksek Tansiyon)
+Atardamarların sertleşmesi ya da daralması sonucunda damar duvarına yapılan basıncın artmasıdır.
+​
+Hipotansiyon (Düşük Tansiyon)
+Atardamarların esnekliğini yitirmesi ve genişlemesi sonucunda damar duvarına yapılan basıncın azalmasıdır.
+ 
+Kangren
+✔ Sebep: Sigara içinde bulunan nikotin, kanın damar içerisinde pıhtılaşmasına yol açar ve damarı tıkar. Tıkanan damar organı besleyemez ve kangren oluşur. Genel olarak damar tıkanmasının en ileri seviyesidir.
+✔ Sonuç: Kangrenli bölgenin kesilmesi gerekir.
+​
+Varis
+✔ Sebep: Yaşlılık, hareketsizlik ve uzun süre ayakta kalma gibi nedenlerle toplardamarlar elastikliğini kaybeder ve içinde bulunan kapakçıklar bozulur. Kalbe doğru gitmesi gereken kan geriye kaçma yapar. Bu nedenle toplardamarlar şişer. Mavi renkli genişlemiş damar görüntüsüne varis denir.

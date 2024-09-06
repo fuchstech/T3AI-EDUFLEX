@@ -1,0 +1,257 @@
+[09:51, 06/09/2024] Beril Yenice: ✔ Hastalık yapıcı organizmalara karşı vücudun gösterdiği dirence bağışıklık denir.
+✔ Bağışıklık sırası ile üç yol ile sağlanır.
+ 
+Savunmanın birinci hattı: Enfeksiyona neden olacak canlının vücut içine girmesine engel olunur. Ağız, burun, göz, deri ve bu yapıların salgılarıyla oluşur.
+ 
+Savunmanın ikinci hattı: Vücut içine girmiş olan canlıyı yok etmek için özel olmayan bir savaş yapılır.
+Fagositik hücreler, antimikrobiyal proteinler, ateşin yükselmesi, iltihaplanma yangısal tepki ile gerçekleştirilir.
+ 
+Savunmanın üçüncü hattı: Enfeksiyona neden olacak canlının türüne göre özel yöntemler ile savaşılır.
+Lenfosit ve antikorlar görev yapar.
+ 
+✔ Birincil hat ve ikincil hat, özgül olmayan bağışıklık (mikrop ayırt etmez.); üçüncü hat özgül bağışıklıktır (mikropların türüne göre mekanizma seçilir).
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ 
+ 
+1) Özgül Olmayan (Doğal) Bağışıklık: Mikroorganizmanın çeşidine bakılmaksızın gerçekleştirilir. Savunmanın 1. ve 2. hattını oluşturur.
+ 
+✔ Fagositik hücreler: Mikroorganizmaları fagositoz ederek etkisiz hale getiren hücrelerdir. Karaciğer, dalak, sinir, lenf düğümleri ve akciğerde fagositoz yapabilen hücreler yer alır.
+ 
+✔ Yangısal tepki: Kesik gibi bir neden ile mikroorganizmaların vücuda girdiği bölgede kılcal kan damarları genişler. O bölgede kan miktarı artar. Kızarır ve şişer, ödem oluşur. Histamin (Kan kılcallarının geçirgenliğini artırır.) salgılanır, histaminin etkisi ile akyuvarlar damardan çıkarak organizmaları etkisiz hale getirir.
+​
+✔ Doğal Katil Hücreler: Virüslerle enfekte olmuş ya da kanserleşmiş hücreleri fark ederek, diğer hücrelerin bu hücreleri yok etmesi için reseptörler salgılayan hücrelerdir. Doku ve organ nakillerinde bu hücrelerin faaliyetleri nakli vücudun reddetmesine sebep olabilmektedir.
+ 
+✔ İnterferon: Virüsle enfekte olmuş hücreler tarafından salgılanan proteinlerdir. İnterferonlar sayesinde diğer hücreler virüslerin vücudu enfekte ettiğini algılar ve antiviral proteinler sentezler. İnterferonlar ayrıcı bazı akyuvarlar ve doğal katil hücreler tarafından da salgılanabilir, fagositoz yapabilen hücreleri aktif hale getirebilir.
+ 
+2) Özgül Bağışıklık: Enfeksiyon etkenlerinin türüne göre ayrım yapılarak tepki verir. Savunmanın üçüncü hattını oluşturur.
+✔ Lenfosit (B ve T lenfositleri) ve antikorlar görev alır.
+✔ Vücuda girdiğinde lenfositler tarafından yabancı kabul edilen moleküllere antijen denir. Lenfositlerin antijenlere karşı ürettiği proteinlere antikor denir.
+✔ T ve B lenfositlerinin ürettikleri antikorlar kendilerine özgü antijenleri tanımalarını sağlar.
+✔ Vücut bir antijenle ilk kez karşılaştığında B ve T lenfositlerinin sayısı artmaya başlar. Antikorlar sentezlenerek bağışıklık sağlanır. Bu olaya birincil tepki (bağışıklık) denir.
+✔Aynı antijenle ikinci defa karşılaşılırsa antijen tanındığından daha hızlı ve güçlü şekilde antikor oluşturulur. Buna ikincil tepki (bağışıklık) denir.
+​
+Özgül bağışıklık; hücresel ve humoral (sıvısal) olmak üzere iki şekilde gerçekleşir.
+​
+✔ Hücresel Bağışıklık: T lenfositleri antijenle karşılaştığında doğrudan müdahale ederek bağışıklığın gerçekleşmesini sağlar. Ayrıca bazı T lenfositleri bellek hücrelerine dönüşebilir.
+ 
+✔ Humoral (Sıvısal) Bağışıklık: Antijen ile karşılaşan B lenfositleri, plazma hücrelerine dönüşerek antikor üretir ve bu antikorları dolaşım yolu ile diğer hücrelere yayar. Ayrıca bazı B lenfositleri bellek hücrelerine dönüşür. Böylece, aynı antijenin vücuda bir daha girmesi durumunda antijenleri tanıyarak, daha güçlü tepki oluşturulmasını sağlar.
+​
+​
+​​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ 
+BAĞIŞIKLIĞIN KAZANILMASI
+✔ Bağışıklık, aktif ya da pasif yol ile gerçekleştirilir.
+ 
+1) Aktif Bağışıklık: Lenfositlerin antikor üretimini gerçekleştirmesi ile gerçekleşir. Bir hastalığı geçirme (doğal) ya da aşı olma (yapay) ile sağlanabilir.
+ 
+Aşı: Hastalık yapma yeteneği azaltılmış ya da yok edilmiş mikroorganizmalar veya onların antijenlerini içeren maddedir.  
+✔ Koruyucudur.
+✔ Toksin veya antijen içerir.
+✔ Sağlıklı insana verilir.
+✔ Etkisini geç gösterir ancakuzun sürelidir.
+​
+2) Pasif Bağışıklık: Antikorlar vücuda hazır verilmesi yoluyla sağlanan bağışıklıktır. Hafıza hücrelerinin oluşumunu sağlamadığından etkisi kısa sürelidir. Aynı antijenin vücuda ikinci kez bulaşması durumunda daha güçlü cevap verilemeyecektir.
+Doğal ya da yapay olarak gerçekleşebilir.
+✔ Gebe bir anneden fetüse geçen ve doğum sonrası emzirme ile bebeğe geçen antikorlar doğal pasif bağışıklığa örnektir.
+ 
+Serum: Belirli bir enfeksiyona karşı üretilmiş antikorları bulunduran sıvıdır. Genellikle at, koyun, sığır gibi hayvanların kanından elde edilir. Hasta olan insanın hastalığına uygun antikor içeren serum verilir.
+✔ Tedavi edicidir.
+✔ Antikor veya antitoksin içerir.
+✔ Hasta insana verilir.
+✔ Etkisini çabuk gösterir ancak kısa sürelidir. Etkisini bir sonraki hastalıkta göstermez.
+​
+Alerji: Günümüzde, normal karşılanan çok sayıda maddeye karşı verilen anormal vücut tepkileridir. Alerjen maddeye karşı salgılanan antikorlar, bağ dokudaki mast hücrelerine bağlanarak histamin salgısını artırırlar. Bu durum vücutta bazı belirtilerin görülmesine neden olabilir. Antihistamin (histaminleri etkisiz hale getiren madde) içeren ilaçlar ile belirtiler ortadan kaldırılmaya çalışılır.
+​
+Otoimmüm Hastalıklar: Lenfositlerin, bazı vücut hücrelerine karşı antikor üretmesi sonucunda oluşan hastalılardır. Bağışıklık hücreleri, kişinin sağlıklı ve kendi hücresini yabancı antijen gibi algılar.
+MS, Çölyak hastalığı, romatoid artrit…
+​
+​
+​​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+ 
+Dolaşım Sistemi Hastalıkları
+​
+Kalp Krizi (Enfarktüs)
+✔ Sebep: Koroner damarların daralması, sertleşmesi ya da tıkanması sonucu kalp kasının beslenememesi sonucu oluşur.
+✔ Sonuç: Kalp kası zayıflar ve kalp yetmezliğine neden olabilir.
+ 
+Damar Sertliği (Arteriosikleros)
+✔ Sebep: Dengesiz beslenme sonucunda damar duvarlarının esnekliğini kaybedip sertleşmesidir. Damar içinde yağlı ve kalsiyumlu plaklar oluşur. Bu plaklar damarın sertleşmesine ve kalbin zayıflamasına yol açar.
+✔ Sonuç: Kalp krizi, beyin kanaması, felç ve yüksek tansiyon olabilir.
+​
+Hipertansiyon (Yüksek Tansiyon)
+Atardamarların sertleşmesi ya da daralması sonucunda damar duvarına yapılan basıncın artmasıdır.
+​
+Hipotansiyon (Düşük Tansiyon)
+Atardamarların esnekliğini yitirmesi ve genişlemesi sonucunda damar duvarına yapılan basıncın azalmasıdır.
+ 
+Kangren
+✔ Sebep: Sigara içinde bulunan nikotin, kanın damar içerisinde pıhtılaşmasına yol açar ve damarı tıkar. Tıkanan damar organı besleyemez ve kangren oluşur. Genel olarak damar tıkanmasının en ileri seviyesidir.
+✔ Sonuç: Kangrenli bölgenin kesilmesi gerekir.
+​
+Varis
+✔ Sebep: Yaşlılık, hareketsizlik ve uzun süre ayakta kalma gibi nedenlerle toplardamarlar elastikliğini kaybeder ve içinde bulunan kapakçıklar bozulur. Kalbe doğru gitmesi gereken kan geriye kaçma yapar. Bu nedenle toplardamarlar şişer. Mavi renkli genişlemiş damar görüntüsüne varis denir.
+[09:52, 06/09/2024] Beril Yenice: ✔ İnsanlar oksijenli solunum yapan canlılardır. Solunum için gerekli olan oksijenin hücrelere ulaştırılması ve hücrelerin solunum atığı olan karbondioksitin vücuttan uzaklaştırılması solunum ve dolaşım sisteminin ortak çalışması ile gerçekleştirilir.
+ 
+Solunumda Görev Alan Organlar
+ 
+Burun
+✔ Havanın alınmasını sağlar. (Atılmasını da sağlayabilir.)
+✔ İç yüzeyi kıllı ve bol damarlı mukoza epiteli ile döşenmiştir. Mukoza epiteli burun içinin nemli kalmasını sağlayan mukus salgısı yapar. Kıllar mikropları tutarak akciğeri enfeksiyondan korur. Kılcal damarlar ise havanın ısınmasını sağlar.
+ 
+Yutak Ve Gırtlak (Farinks ve Larinks)
+✔ Yutakta epiglottis bulunur. Bu yapı, gelen besin ve havanın doğru yere iletilmesini sağlar.
+✔ Soluk borusunun başlangıç kısmına gırtlak denir.
+✔ Gırtlakta ses telleri bulunur.
+​
+Soluk Borusu (Trake)
+✔ “C” şeklinde kıkırdak halkalarından oluşmuş borudur. Yemek borusuyla komşu olan yüzeyinde kıkırdak halka bulunmaz. Kıkırdak halkalar soluk borusunun açık kalmasını sağlar.
+✔ İç yüzeyinde silli epitel doku bulunur. Burada bulunan goblet hücreleri mukus salgılayarak ortamı nemlendirir, siller ise yabancı maddeleri tutarak akciğerleri enfeksiyondan korur.
+✔ Soluk borusu akciğere girmeden ikiye ayrılır. Bu ayrılan kollara bronş denir.
+✔ Bronşlar akciğerlere girdikten sonra bronşçuk denilen küçük borulara ayrılırlar. Bronşçuklar alveollere kadar uzanır ve yapısında kıkırdak halkalar yoktur.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Akciğerler
+✔ Göğüs boşluğu içinde sağ ve sol olmak üzere iki akciğer vardır. Sağ akciğer üç loplu, sol akciğer iki lopludur. (Sol akciğerin eksik olan lobunun bulunduğu bölgede kalp yer alır.)
+✔ Akciğer pleura denilen çift katlı zarla örtülüdür.
+✔ Akciğerlerin içinde gaz alışverişinin gerçekleştirildiği alveoller bulunur. Alveoller bolca kılcal kan damarından oluşmuştur. (Alveol bulundurmak sadece memelilere özgüdür.)
+ 
+Soluk Alırken Gerçekleşen Olaylar
+1) Diyafram kası kasılarak düzleşir.
+2) Kaburgalar arası kaslar kasılır ve göğüs kafesi genişler.
+3) Göğüs boşluğunun hacmi artar.
+4) Akciğerler genişler.
+5) Akciğerlerdeki iç basınç düşer. (Akciğerlerin hacminin artması basıncı düşürür.)
+6) Hava akciğerlere dolar.
+​
+Soluk Verirken Gerçekleşen Olaylar
+1) Diyafram kası gevşeyerek kubbeleşir.
+2) Kaburgalar arası kaslar gevşer ve göğüs kafesi daralır.
+3) Göğüs boşluğunun hacmi daralır.
+4) Akciğerler daralır.
+5) Akciğerlerin iç basıncı yükselir. (Akciğerlerin hacminin azalması basıncı artırır.)
+6) Hava akciğerlerden çıkar.
+​
+✔ Soluk verme sırasında akciğerlerin geri yaylanma basıncının da etkisi vardır. Bu basınç akciğerin yapısındaki elastik liflerle ve pleurae (plevra) zarlarının arasındaki sıvının meydana getirdiği yüzey geriliminden doğar.
+✔ Soluk alma aktif bir olay olduğundan enerji harcanır. Soluk verme ise, pasif olduğundan sadece kasların gevşemesi sırasında enerji harcanması gerçekleştirilir.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Oksijenin Taşınması
+✔ %98’i alyuvarlardaki hemoglobin ile %2’si kan plazması ile taşınır.
+✔ Oksijen alyuvarlarda hemoglobinle birleşerek oksihemoglobini (HbO2) oluşturur.
+✔ Kan doku kılcallarına geldiğinde oksijen hemoglobinden ayrılır. Alyuvardan çıkarak önce plazmaya daha sonra doku sıvısına oradan da hücrelere geçer.
+✔ Doku kılcallarında oksijen hemoglobinden ayrılırken, alveol kılcallarında hemoglobinle birleşir.
+​
+✔ Bohr kayması: Doku kılcallarındaki CO2 yoğunluğu pH’ın düşmesine nedenolur. Bu durumda hemoglobin oksijenden ayrılır. Buna bohr kayması denir.
+​
+Karbondioksitin Taşınması
+✔ Hücrelerde oluşan CO2 doku sıvısına buradan da doku kılcal damarlarına geçer.
+✔ Kılcal damara geçen CO2 plazmada çözünebilir ya da alyuvar içine girerek hemoglobinle birleşip karbohemoglobin oluşturabilir.
+✔ Büyük bir kısmı ise alyuvarda bikarbonat iyonu halinde taşınabilir.
+✔ Doku kılcallarında: Alyuvar içine giren CO2, karbonik anhidraz enzimi etkisi ile H2O ile birleşip karbonik asiti (H2CO3) oluşturur. Karbonik asit daha sonra iyonlarına ayrışarak H ve HCO3 (bikarbonat) haline gelir. H, hemoglobin tarafından tutulurken bikarbonat kan plazmasına geçer ve alveol kılcallarına kadar bu şekilde taşınır.
+✔ Alveol kılcallarında: Plazmada bulunan bikarbonat (HCO3) alyuvar içine girer, hemoglobin H serbest bırakır. Yeniden karbonik asit (H2CO3) oluşur. Karbonik anhidraz enziminin etkisi ile karbonik asit H2O ve CO2 haline gelir. CO2 alyuvar içinden çıkarak önce plazmaya oradan da alveollere geçer.
+✔ CO2 ve H2O difüzyonla akciğere geçerek soluk verme ile dışarı atılır. H2O alveol yüzeyini nemlendirir. Fazlası ise dışarı atılır.  
+ 
+Solunum Siteminin Denetlenmesi
+✔ Metabolik faaliyetler arttığında kandaki CO2 miktarı solunum hızını belirler. Miktarının artması pH’ı düşüreceğinden solunum ve dolaşım hızı artar.
+✔ Omurilik soğanı ve beyindeki solunum merkezi tarafından denetlenir. Solunum merkezi istemli solunumu denetler.
+✔ Adrenalin ve Tiroksin hormonu solunum hızını artırır.
+✔ Deniz seviyesinden yukarılara çıkıldıkça basınç azalır ve havadaki O2 miktarı düşer. Bu durumda ;
+  - Hemoglobin miktarı
+  - Alyuvar sayısı
+  - Soluk alıp verme hızı
+  - Nabız sayısı artar.
+ 
+✔ Deniz seviyesinden denizin derinliklerine inildikçe basınç artar. Kanda çözünmüş halde bulunan N2 (azot gazı) gaz hale geçer. Kanda kabarcık oluşmasına yol açar. Bu kabarcıklar damarın tıkanmasına ya da yırtılmasına yol açar. Buna deniz vurgunu denir.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Karbonmonoksit Zehirlenmesi: Karbonmonoksit; oksijen ve karbondioksit gibi hemoglobine bağlanabilen bir gazdır. Ancak CO hemoglobine bağlandığında tekrar ayrılma yapmaz. Bu durumda oksijen ve karbondioksit hemoglobine bağlanamadığından kişi solunum güçlüğü çeker. Müdahale edilemezse ölümle sonuçlanır.
+ 
+Astım: Solunum yollarında meydana gelen enfeksiyonların ilerlemesi sonucu oluşan hastalıktır. Astımda solunum yolları daralır ve duyarlılığı artar. Mukus oranı artarak soluk alıp verme güçleşir.
+ 
+Akciğer Ve Gırtlak Kanseri: Sigara içindeki katran soluk borusunun içindeki sillere yapışır. Bu durumda solunum sistemi mikroorganizmalara karşı açık hale gelir. Bu durumun ilerlemesiyle akciğer ve gırtlak kanseri oluşabilir.
+ 
+Kronik Bronşit: Bronşların uzun süreli iltihaplanması sonucu oluşur. Kısa süreli iltihaplanma ise akut bronşite yol açar.
+ 
+Amfizem: Kronik bronşite bağlı olarak alveollerin esnekliğini yitirmesi ve yırtılması sonucu oluşur.
+ 
+KOAH: Kronik bronşit ve amfizem hastalığının ilerlemesiyle akciğerlerin yapısı bozulmasıdır. Hasta nefes almakta zorluk çeker.
+

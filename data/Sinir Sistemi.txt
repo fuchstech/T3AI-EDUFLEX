@@ -1,0 +1,322 @@
+✔ Canlıların çevresel uyarılara cevap vermesini sağlayan sistem, sinir sistemidir.
+✔ Sinir doku, uyarıları reseptörler aracılığı ile alır; uyarıyı değerlendirir ve uygun cevabı kısa sürede oluşturup efektör organlara ileterek tepkiyi gerçekleştirir.
+✔  Sinir sistemi sinir dokudan oluşur. Sinir doku nöron ve glia hücrelerinden oluşmuştur.
+​
+Nöron (Sinir Hücresi)
+✔ Sinir hücreleri vücuttaki en fazla özelleşme gösteren hücrelerden biridir.
+✔ Sentrozoma sahip olmadıklarından hücre bölünmesi yapma yetenekleri yoktur.
+✔ İki nöron arasındaki boşluğa sinaps denir.
+✔ Temel olarak 3 kısımdan oluşur.
+​​
+Hücre Gövdesi
+✔ Hücre organellerinin ve çekirdeğin bulunduğu kısımdır.
+✔ Hücre zarına nörolemma; sitoplazmasına ise nöroplazma denir.
+✔ Sentrozom organeli yoktur. Bu nedenle hücre bölünmesi yapamazlar.
+✔ Endoplazmik retikulumlarının bulundukları bölgelere nissl cisimcikleri adı verilir.
+✔ Nörofibril adı verilen hücre iskelet elemanları bulunur. Bu yapılar uyarı iletiminde görev alırlar.
+​
+Dendrit
+✔ Hücre gövdesinden çıkan kısa uzantılardır. Diğer nöronun aksonu ile yakınlaşarak uyartının alınmasını sağlar.
+​
+Akson
+✔ Hücre gövdesinden çıkan uzun uzantılardır. Uyarıyı diğer nöronun dendritlerine yakınlaşarak iletir.
+✔ Bazı sinir hücrelerinin aksonları üzerinde lipitçe zengin miyelin kılıf bulunur. Bu yapı schwann ya da oligodendrosit hücreleri tarafından oluşturulmuştur.. Miyelin kılıf bir izolasyon oluşturarak uyartı iletiminin daha hızlı yapılmasını sağlar. Miyelin kılıfın kesintiye uğradığı yerlere ise ranvier boğumu denir.
+​
+Glia (Nöroglia)
+✔ Nöronlar arasında bulunan sinir doku hücreleridir.
+✔ Sinir hücrelerini sararak korurlar, beslerler, onarımlarını sağlarlar ve oksijen sağlayarak solunumlarına yardımcı olurlar.
+ 
+✔ Schwann Hücreleri: Çevresel sinir sisteminin miyelin kılıflarını oluştururlar.
+✔ Oligodendrosit: Merkezi sinir sisteminin miyelin kılıflarını oluştururlar.
+​
+Nöron Çeşitleri
+​
+✔ Duyu Nöronu (Getirici = Afferent): Vücudun farklı bölgelerinde bulunan reseptörlerden uyarıları alan ve merkezi sinir sistemine götüren nöronlardır. Zarar görmesi lokal anesteziye örnektir.
+ 
+✔ Ara Nöronlar (İnternöron): Duyu ve motor nöronlar arasında bağlantı kuran nöronlardır. Merkezi sinir sisteminde bulunurlar. Uyarıya uygun değerlendirmeyi yaparak cevap oluştururlar. Zarar görmesi felce örnektir.
+ 
+✔ Motor Nöron (Efferent = Götürücü): Merkezi sinir sisteminden cevabı alarak efektör organa götüren nöronlardır. Zarar görmesi botoks uygulamasına örnektir.
+
+✔ Reseptöre tarafından bir uyarı algılandığında, nöron içerisinde elektrokimyasal değişiklikler meydana gelir. Bu değişikliklere impuls (uyartı) denir.
+✔ Nörona etki eden her uyarı impuls oluşturamaz. Bir nöronda impuls oluşumunu sağlayan en küçük uyarı şiddetine eşik değeri (eşik şiddeti) denir.
+✔ Eşik şiddeti altındaki uyarılar nöronda impuls oluşturamazken, üstündekiler oluşturur. Nöronların bu şekilde uyarılara ya hiç cevap vermeme ya da tüm gücüyle aynı şekilde cevap vermesine ya hep ya hiç prensibi denir.
+✔ Eşik değeri bireye göre ve aynı bireyde zamana bağlı olarak değişiklik gösterebilir.
+✔ Eşik değeri üzerindeki uyarılar;
+İmpulsun şiddetini,
+İmpulsun hızını,
+İmpulsun taşınma şeklini değiştirmez.
+✔ Nöronlarda impuls iletimi elektriksel ve kimyasal (elektrokimyasal) yolla yapılır.
+✔ İmpuls iletimi dendritten aksona doğrudur.
+✔ Nöronların hücre zarının iki yüzeyi arasında bir elektrik yükü farkı bulunur. Buna zar potansiyeli denir.
+✔ Zar potansiyelinin ortaya çıkmasında öncelikle K+ (potasyum) ve Na+ (sodyum) iyonları etkilidir. K+ derişimi hücre içinde, Na+ derişimi hücre dışında fazladır. Bu iki iyonun hücre içi ve hücre dışı derişim farkı, hücre zarında yer alan sodyum-potasyum pompalarının faaliyeti ile korunur.
+✔ İmpuls taşıyan bir nöronda kısa süreli elektrokimyasal değişiklikler meydana gelir. Buna aksiyon potansiyeli denir.
+✔ Miyelin kılıf taşıyan nöronlarda, aksiyon potansiyeli nöronun her bölgesinde meydana gelmez. Sadece ranvier boğumlarının olduğu bölgede oluşur. Bu durum impuls iletim hızını artırır.
+✔ Aksiyon potansiyeli, üç aşamada gerçekleşir.
+Polarizasyon: Nöronun impuls taşımayan bölgesinde gerçekleşir. Ancak nöron impuls taşımaya hazırdır.
+✔ Sodyum-potasyum pompası aktif taşıma ile Na iyonlarını hücreden uzaklaştırır. K iyonlarını ise hücre içine taşır.
+✔ Dinlenme durumundaki bir nöronun dışı pozitif (+), içi negatif (-) yüklüdür. Bu duruma polarizasyon (kutuplaşma) denir.
+✔ Polarizasyon durumunda hücre içi ve dışı elektriksel güç farkı -70mV tur. Bu fark hücreden hücreye değişebilir.
+​
+Depolarizasyon: Nöron içerisinde impulsun bulunduğu bölgedir.
+✔ Uyarı geldiğinde sinir hücresinin zarında bulunan Na kapıları açılır. Hücre dışında fazla bulunan Na difüzyon ile hücre içine girmeye başlar.
+✔ Hücre içinde hem Na hem de K iyonları fazla duruma geldiğinden hücre içi pozitif (+), hücre dışı negatif (-) yüklü duruma geçer. O noktada polarizasyon tersine döner. Buna depolarizasyon denir.
+✔ Depolarizasyon durumundaki bir nöronda hücre içi ve hücre dışı arasındaki elektriksel güç farkı +40mV tur.
+​
+Repolarizasyon: İmpulsun geçip gittiği nöron bölgesidir. Bu bölge, yeni impuls almaya hazır değildir.
+✔ Depolarizasyondan sonra hücre zarında bulunan Na kapıları kapanır. Hücre içine giren Na girişi durur. Ardından hücre zarındaki K kapıları açılır. K lar difüzyon ile hücre dışına çıkmaya başlarlar.
+✔ Hücrenin içi negatif(-), dışı pozitif (+) yüklü olur.  Buna repolarizasyon denir.
+✔ Repolarizasyonda, elekriksel olarak polarizasyon yeniden sağlanır ancak yük dağılımı polarizasyondan farklıdır. Bu nedenle yeni gelecek olan impuls taşınamaz.
+✔ Polarizasyonda hücre içinde K fazlayken, repolarizasyonda Na fazladır. 
+✔ Na-K pompası yeniden aktifleştirilerek polarizasyonun oluşmasını sağlar.
+
+✔️İmpulsun bir hücreden diğerine aktarılması sinapslar aracılığı ile olur.
+✔ İki nöron arasındaki bağlantı bölgesine sinaps denir. Bir nöronun aksonu, başka bir nöronun hücre gövdesine, dendritine, salgı bezine ya da kasa bağlantı yapar. Aksonun ucu çok sayıda dallanma yaptığı için bir tek nöron birçok nöronla sinaps yapabilir.
+✔ Aksonun dallarından her biri, küçük şişkinliklerle sona erer. Bu yapılara sinaptik yumru (uç) denir. 
+✔ Bir nöronun sinaptik yumrusu ile diğer hücre arasındaki boşluğu sinaptik boşluk (aralık) denir.
+✔ Sinaptik yumruda birçok sinaptik kesecik ve bu kesecikler içinde de nörotransmitter maddeler bulunur. Bu maddeler, sinapslarda kimyasal iletimi sağlayan moleküllerdir.
+✔ Bir impuls sinaptik yumruya geldiğinde akson ucunun Ca geçirgenliği artar. Ve hücre içine Ca girişi başlar.
+✔ Sinaptik kese içindeki nörotransmitter maddeler ekzositozla sinaptik boşluğa dökülür.
+✔ Nörotransmitter maddeler difüzyon ile ilerleyerek komşu hücre zarındaki reseptörlere bağlanır.
+✔ Reseptöre bağlanan nörotransmitter maddeler dendrit ucundaki Na kapılarının açılmasına neden olur. Na girişi başlar ve hücre depolarizasyon olur.
+✔ İletim gerçekleştikten sonra sinaptik boşluktaki nörotransmitter maddeler enzimler aracılığı ile parçalanır ya da nöron tarafından tekrar hücre içine alınır.
+✔ Böylece dendrit ucundaki Na kanalları kapanır. Reseptöre bağlanan nörotransmitter maddeler komşu hücre nöron ise impuls oluşturur; efektör ise tepki oluşturur.
+✔ Nöronda oluşan impulslar her sinapstan geçemez. Bazı sinapslar impulsun geçişini sağlarken, bazıları engeller. Buna seçici direnç denir. Böylece oluşan her impulsun vücuttaki tüm tepki organlarını uyarması önlenmiş olur.
+✔ İmpulsun geçişine izin veren sinapslara kolaylaştırıcı sinaps denir. Kolaylaştırıcı sinapslar; komşu hücre zarında depolarizasyona neden olur.
+✔ İmpulsun geçişini engelleyenlere ise durdurucu sinaps denir. Durdurucu sinaps; komşu hücre zarının polarizasyonunu artırarak iletimi engeller.
+✔ Sinapslarda iletim, nörondaki iletimden daha yavaştır. İletim yolunda ne kadar çok sinaps varsa iletim hızı o kadar yavaş olur.
+
+İNSANDA SİNİR SİSTEMİ
+İnsanda sinir sistemi merkezi sinir sistemi (MSS) ve çevresel sinir sistemi (ÇSS) olmak üzere ikiye ayrılır.
+​
+A) MERKEZİ SİNİR SİSTEMİ
+✔ Beyin ve omurilikten oluşur.
+✔ Duyu nöronları ile gelen uyarıları değerlendirerek uyarılara uygun cevap oluşturur.
+✔ Ara nöronlardan oluşmuştur.
+​
+1) BEYİN
+✔ Kafatası kemikleri ile korunan merkezi sinir sistemi organıdır.
+✔ Deneyimler (depolanmış bilgi) , şimdiki ve gelecek olaylar hakkında bilinçli deneyim oluşturabilen tek organdır.
+✔ Ön, orta ve arka olmak üzere üç kısımda incelenir.
+ 
+Beyin Zarları: Beyin, bağ dokudan oluşmuş 3 zarla korunur. Kafatası altında bulunan bu zarlara meninges denir.
+✔ Sert Zar: Beyinin en dışında bulunan zardır. Beyni mekanik etkilerden, yaralanma ve zedelenmelerden korur.
+✔ Örümceksi Zar: Sert zar ile ince zar arasında bulunur. Sert zar ile ince zarı birbirine bağlar.
+✔ İnce Zar: En içteki zardır. Beynin tüm girinti ve çıkıntılarına girmiştir.  Yapısında bol miktarda kan damarı vardır.  Bu kan damarları beynin beslenmesini sağlar.​
+​
+BOS (Beyin – Omurilik Sıvısı)
+✔ Örümceksi zar ile ince zar arasında bulunarak beyin ve omuriliği sarar.
+✔ Kan basıncının etkisi ile kılcal damarlardan çıkmış bir sıvıdır.
+ 
+Görevleri
+✔ Beyin ile omuriliği darbe ve sarsıntılara karşı korur.
+✔ Beyin ve omurilikte metabolizma sonucu oluşmuş atık maddelerin kana geçmesini sağlar.
+✔ Beyin ve omuriliğin beslenmesi için gerekli maddeleri kandan alarak süzer.
+✔ Merkezi sinir sisteminin iyon dengesinin sağlanmasında rol oynar.
+​​
+1) Ön Beyin
+ 
+✔ Beynin en büyük kısmıdır. Bu nedenle büyük beyin de denir.
+✔ Diğer beyin bölümlerini üsten örter.
+✔ Uç beyin ve ara beyin olmak üzere iki kısımda incelenir.
+ 
+a) Uç Beyin
+ 
+✔ Önden arkaya doğru uzanan bir yarıkla sağ ve sol olmak üzere iki yarım küreye  ayrılmıştır.
+✔ Bu yarım küreler aksonlarla birbirine bağlıdır.
+ 
+  Üstteki bağ    -->   nasırlı cisim
+  Alttaki bağ     -->   beyin üçgeni
+ 
+✔ Beyin yarım kürelerini enine ayıran derin bir yarık bulunur. Bu yarığa rolando yarığı denir.
+​
+​Beyin Yarım Kürelerinin Enine Kesitinin Yapısı
+ 
+✔ Dış kısmı boz, iç kısmı ak maddeden oluşmuştur.
+✔ Ak madde: Miyelinli sinirlerin aksonlarından meydana gelmiştir. Bu bölgenin beyaz olmasının sebebi lipitçe zengin miyelinlerin bulunmasıdır.
+✔ Boz madde: Miyelinsiz nöron gövdelerinden oluşmuştur. Bu bölgeye korteks (kabuk) denir. Beynin kabuk kısmı çok sayıda kıvrıma sahiptir. Bu kıvrımlar boz maddenin yüzey alanını artırır.
+ 
+Uç Beyinin Görevleri
+✔ Zeka
+✔ Hafıza
+✔ Yazı yazma
+✔ İstemli hareket etme
+✔ Duyu organlarından gelen bilgilerin değerlendirilmesi
+✔ Öğrenme
+✔ Karar verme
+✔ Bilinçli davranış
+✔ Duyusal olarak çevrenin farkında olma gibi görevleri vardır.
+ 
+Beyin yarım küreleri vücudun zıt tarafını kontrol eder.
+​
+b) Ara Beyin
+​
+✔ Beyin yarım küreleri arasında kalır. Epitalamus, talamus ve hipotalamus olmak üzere 3 kısımdan oluşmuştur.
+ 
+Epitalamus: Talamusun arka kısmında bulunur. İnce bir uzantısı vardır. Bu uzantı epifiz bezi (pineal bez)’dir. Epifiz bezi melatonin hormonu salgılar.
+ 
+Talamus: Duyu organlarından gelen bilgilerin toplanma ve dağılım merkezidir.
+ 
+✔ Koku duyusu dışındaki tüm duyular burada sınıflandırılır. Uç beyinde bulunan duyu merkezlerine iletir. Koku ise talamusa uğramadan direkt uç beyindeki değerlendirme merkezine geçer.
+✔ Ayrıca uyanık durumdan uykuya geçişi sağlar.
+​
+​Hipotalamus: Homeostasinin sağlanmasında görevlidir.
+ 
+Görevleri
+✔ Termostat görevi yaparak vücut sıcaklığını düzenler.
+✔ Susama merkezi içerir. Vücudun su dengesinin düzenlenmesinde görev yapar. (OB ve idrar miktarını ayarlama)
+✔ Uykunun devam etmesini sağlar.
+✔ Açlık, tokluk ve iştahın düzenlenmesinde rol oynar.
+✔ Korku, hiddet ve heyecanın düzenlenmesini sağlar.
+✔ Üreme ve cinsel davranışları düzenler.
+✔ Kan basıncını ve kalbin ritim atışını düzenler.
+✔ Çevresel sinir sisteminin duyu ile ilgili aktivitelerini düzenler.
+✔ Hipofiz bezini kontrol ederek hormonal denge üzerinde etkilidir. Hipofiz bezinin arka lobundan salgılanan hormonlar hipotalamusta üretilir. Ayrıca hipotalamusta üretilen özel hormonlar hipofiz bezinin ön lobundan hormon salgılanmasını kontrol eder.
+✔ Karbonhidrat ve yağ metabolizmasını ayarlar.
+​
+2) Orta Beyin
+✔ Ara beyin ile pons arasında bulunan bölgedir.
+✔ Beynin bu bölümünden ön beyin ile arka beyin arasında bağlantı kuran sinirler geçer.
+
+Görevleri
+✔ Görme ve işitme ile ilgili refleksleri  düzenler.
+Yan taraftan yaklaşan bir cismin görüntüsünü beyin daha oluşturmadan kafa o yöne döner.
+Fazla ışıkta göz bebeğinin küçülmesi, az  ışıkta büyümesi
+Ses duyan köpeğin kulaklarının dikilmesi
+✔ Kas tonusu ve vücut duruşunu  düzenleyen merkezler bulunur.
+
+3) Arka Beyin
+✔ Beyincik, pons ve omurilik soğanından meydana gelmiştir.
+ 
+a) Beyincik
+✔ Arka kafa çukurunun içinde omurilik soğanının üstünde bulunan iki yarım küreden meydana gelmiş bölgedir.
+✔ Dış kısmı boz, iç kısmı ak maddeden oluşmuştur.
+✔ Hareket ve denge merkezidir.
+✔ İskelet sistemi, kulak ve görme merkezinden bilgileri alarak koordinasyonlu bir şekilde hareket etmemizi sağlar.
+ 
+Beyinciği hasar görmüş bir insanda;
+✔ Ayakta dururken ya da yürürken sallanma
+✔ Bir cisme doğru uzanan elin dengesiz hareket etmesi
+✔ Hareket eden bir cismi izleyememesi gibi belirtiler ortaya çıkmıştır.
+ 
+✔ Bebekler ancak beyincik geliştikten sonra oturma , ayakta durma ve yürüme gibi faaliyetler gösterebilir.
+​
+b) Pons (Varoli Köprüsü)
+✔ Orta beyinle omurilik soğanı arasında bulunur.
+✔ Enine tabakalaşmış kalın sinir demetlerinden oluşur.
+✔ Sadece memelilerde bulunur.
+ 
+Görevleri
+✔ Beyinciğin yarım kürelerini birbirine bağlar.
+✔ Omurilik soğanındaki solunum merkezi ile birlikte çalışır.
+​
+c) Omurilik Soğanı
+✔ Beyinciğin altında, omurilik ile pons arasında bulunur.
+✔ Dış kısmı ak, iç kısmı boz oluşmuştur. Bu yapısı ile omuriliğe benzer.
+✔ Omuriliğin başlangıç yeri şeklindedir.
+✔ Beyinden çıkan sinirler burada çapraz yapar. Bu durum beynin sağ tarafının vücudun sol tarafını; sol tarafının da vücudun sağ tarafını kontrol etmesini sağlar.
+ 
+Görevleri
+✔ Solunum , sindirim, dolaşım gibi yaşamsal olayların düzenlenmesini sağlar.
+✔ Yutma, kusma, hapşırma, öksürme gibi refleksleri kontrol eder.
+ 
+✔ Orta beyin, pons ve omurilik soğanının tamamına beyin sapı denir. Beyin kabuğuna doğru uzanan ve beyin kabuğundan omuriliğe doğru giden tüm sinirler beyin sapından geçmek zorundadır.
+
+OMURİLİK
+ 
+✔ Omurga içerisinde beyinden aşağı doğru uzanan merkezi sinir sistemi bölümüdür.
+✔ Beyne giriş yapan sinirlerin çapraz yaptığı yerdir.
+✔ Omuriliğin yapısında beyinde olduğu gibi beyin zarları ve BOS bulunur.
+✔Dış kısmı ak, iç kısmı boz maddeden oluşmuştur.
+✔Boz maddeden iki çift sinir çıkar. Bu sinirlerden dorsalde (sırt) olanlar duyu nöronu, ventralde (ön) olanlar motor nöronudur. İç tarafında ise ara nöronlar bulunur.
+​
+Görevleri
+ 
+✔Dış ortamdan gelen uyarıların oluşturduğu impulsları beyne iletir. Beyinden gelen  uyarıları ise çevresel sinir sitemine (ÇSS) ileterek tepki organlarının cevap vermesini  sağlar. (Beyin ile MSS arasındaki iletişimi sağlar.)
+✔Refleksleri yönetir.
+✔Alışkanlık haline gelmiş davranışları kontrol  eder.
+✔ Alışkanlık davranışları alışkanlık haline gelmeden önce beynin kontrolündedir. Davranışlar alışkanlık  haline geldiğinde omurilik tarafından kontrol edilir. Alışkanlık hareketi devam ederken bir hata olursa beyin devreye girer. Hata düzeltildikten sonra yeniden omurilik tarafından yönetilir.
+​
+Refleks
+ 
+✔ Vücudun bilinç dışı ve anlık olarak verdiği tepkilerdir.
+✔ İki çeşittir.
+ 
+Kalıtsal Refleks: Doğuştan gelir. Öğrenilerek gerçekleştirilen olaylar değildir.
+          Bebeklerin parmaklarını emmesi
+         Göze bir cisim geldiğinde göz kapağının kapatılması
+         Diz kapağına vurulunca dizin hareket etmesi…
+ 
+Kazanılmış Refleks: Öğrenilme sonucunda alışkanlık haline gelmiş olaylardır.
+          Müzik aleti çalmak
+         Dans etmek
+         Örgü örmek…
+​
+Refleks Yayı
+✔ Bir refleksin oluşumunda impulsun izlediği yola refleks yayı denir.
+ 
+Bir refleks yayında;
+1) Reseptör uyarılır. Duyu nöronunda impuls oluşur.
+2) Duyu nöronu impulsu omuriliğe taşır.
+3) İmpuls omurilik içindeki ara nörona taşınır.
+4) İmpuls, ara nörondan motor nörona iletilir.
+5) Motor nöron, impulsu cevabı gerçekleştirecek tepki organına iletir. Böylece refleks yayı tamamlanmış olur.​
+​
+✔ Refleks yayı ikili ve üçlü olmak üzere iki şekilde olabilir.
+✔ İkili refleks yayında ara nöron yoktur. Sadece motor ve duyu nöronu vardır. Bu durum daha hayati olaylarda görülür. Örneğin, düşmek üzere olan birinin kendini korumaya çalışması sırasında ikili refleks görev alır.
+✔ Üçlü refleks yayında ise duyu, motor ve ara nöron bulunur.
+✔ Sıcaklık ya da acının hissedilmesi normalde beynin görevidir. Omurilik sadece buna anlık cevap verilmesi gerektiğinde refleksi gerçekleştirir. Bilerek sıcağa  yaklaştığımızda kontrol beyindedir. Bu bir refleks değildir. (Omurilik de beynin  kontrolündedir.)
+ 
+ÇEVRESEL SİNİR SİSTEMİ
+​
+✔ Çevresel sinir sistemi (ÇSS), merkezi sinir sistemine (MSS) bilgi ileten ve ÇSS den aldığı bilgiyi efektör organlara ileten sinir sistemi bölümüdür.
+✔ MSS dışındaki, vücuda dağılmış olan sinir hücrelerinden oluşmuştur. Duyu ve motor nöronların tamamı ÇSS’yi oluşturur.
+✔ Omurilikten çıkan sinirler (omurilik sinirleri) 31 çifttir. Bu sinirler omurlar arası boşluklardan dışarı dallanır.  Tüm vücuda dağılır. Bunlardan en uzunu bacaklara giden siyatik siniridir.
+✔ Beyinden çıkan sinirler (beyin sinirleri) 12 çifttir. Bu sinirler baştaki ve gövdenin üst kısmındaki  organlara dağılır. Kafa sinirlerinin 10.suna vagus  siniri denir. Vagus, karın ve göğüs boşluğundaki  organlara giderek bu organların çalışmasını  düzenler.
+ 
+Duyu Bölümü: ÇSS’nin, duyu nöronlarından oluşan kısmıdır.
+Motor Bölümü: ÇSS’nin motor nöronlarından oluşan kısmıdır. Somatik ve otonom olmak üzere iki kısımda incelenir.
+​
+Somatik Sinir Sistemi
+✔ Bilinçli olarak yapılan hareketleri kontrol eden ÇSS’dir.
+✔ İskelet kaslarına uyarı taşır.
+✔ Somatik sinirlerin hücre gövdeleri beyin ve omurilikte bulunurken, aksonları ise iskelet kaslarına ulaşır.
+✔ Aksonları miyelinlidir. İmpuls iletimi oldukça hızlıdır.
+​
+Otonom Sinir Sistemi
+✔ İstemsiz olarak gerçekleştirilen olayları kontrol eden ÇSS’dir.
+✔ Düz kaslara, kalp kasına, bezlere, iç organlarına ve kan damarlarına uyarı taşır.
+✔ Beyin zarar görse bile otonom sinir sistemi çalışıyorsa insan yaşamı devam eder. Bu durumda bilinçli davranışlar yapılamaz. Bu olaya bitkisel hayat denir.
+✔ Otonom sinir sistemi iki bölümde incelenir. Bunlar sempatik ve parasempatik sinir sistemidir.
+✔ Organlar genellikle her iki otonom sinir sistemine de bağlı olarak çalışır. Birine bağlı olarak da çalışanlar vardır.
+✔ Bu sinirlerin organlardaki etkileri zıttır. (antagonist)
+✔ Salgıladıkları nörotransmitter maddelerde farklıdır.
+​
+MS (MULTİPLE SKLEROZ)
+✔ Sebep: MSS nöronlarının miyelin kılıflarına bağışıklık hücrelerinin saldırması sonucunda uyarı iletiminin bozulmasıdır.
+✔ Sonuç: Net bir belirtisi yoktur. Hastalık bozulan miyeline sahip olan nöronun görevine göre belirti verir.
+✔ Tedavi:  Kortizonlu ilaçlar ve hastanın geçirdiği atağa göre tedavi gerçekleştirilir.
+​
+ALZHEİMER
+✔ Sebep: Genetik, beyinde protein birikimi, beyin hücrelerinin ölmesi… gibi sebepler nedeni ile beyin hücrelerin aktivitesini yerine getirememesidir. Yaş ilerledikçe ortaya çıkma ihtimali artmaktadır. Ancak tam olarak sebebi bulunamamıştır.
+✔ Sonuç: Zihinsel ve sosyal yetenekler kaybolur.
+✔ Tedavi: Tedavisi hala araştırılmaktadır. Ancak ilaçlar ile yavaşlatılmaya çalışılmaktadır.
+​
+PARKİNSON
+✔ Sebep: Beyinde dopamin eksikliği ile ortaya çıkan hareketi düzenleyen beyin bölümünde meydana gelen bozukluktur. Beyin iltihabı, bazı ilaçlar ya da travma geçirmenin sebep olabileceği düşünülse de tam olarak sebebi bilinememektedir.
+✔ Sonuç: Hastada kontrol edilemeyen titremeler görülür.
+✔ Tedavi: Kronik bir hastalıktır. Başlangıç aşamasında ilaç ile tedavi edilebiliyor.
+ 
+EPİLEPSİ (SARA)
+✔ Sebep: Çeşitli nedenlerle bir grup beyin hücresinde meydana gelen anormal elektrik yayılması sonucu bilinç kaybına neden olan beyin bozukluğudur.
+✔ Sonuç: Hastada impuls iletiminin yavaşlamasına bağlı olarak nöbet görülür.
+✔ Tedavi: İlaç…
+​
+DEPRESYON
+✔ Sebep: Beyin bozukluğudur. Duygu, düşünce ve vücudu etkileyebilir.
+✔ Sonuç: Depresyonun boyutuna göre değişiklik gösterir. Hastalarda yemek yeme bozukluğu, uyku bozukluğu görülebileceği gibi intihar eğilimi de görülebilir.
+✔ Tedavi: İlaç ve psikolojik tedavi.
+ 
+ÇOCUK FELCİ
+✔ Sebep: Omurilikteki kasların çalışmasını sağlayan nöronun Polio virüs tarafından enfekte olmasıdır. Hastaların dışkısı ile bulaşır.
+✔ Sonuç: Felç.
+✔ Tedavi: Tedavisi yoktur. Aşılama ile korunulabilir.
