@@ -17,5 +17,84 @@
             "location": "unknown",
             "session_duration": 0
         }
+    },
+    {
+        "interaction_id": "12345",
+        "user_id": "user_001",
+        "timestamp": "2024-09-06T20:20:04.696785Z",
+        "content_generated": {
+            "input_prompt": "endometriyum tabakası nedir ? ",
+            "response": "\n\nEndometrium tabakası, uterusun iç astarını oluşturan dokudur. Adet döngüsü sırasında kalınlaşır ve eğer döllenmiş bir yumurta implantasyona uğrarsa, hamileliğin erken dönemlerinde besleyici madde sağlamak için kalınlaşmış endometriumun içine implante edilir. Eğer döllenmiş bir yumurta yoksa, endometrium dökülür ve adet kanaması meydana gelir."
+        },
+        "user_feedback": {
+            "rating": "dislike",
+            "feedback_text": "",
+            "preferred_response": ""
+        },
+        "feedback_metadata": {
+            "device": "unknown",
+            "location": "unknown",
+            "session_duration": 0
+        }
+    },
+    {
+        "interaction_id": "12345",
+        "user_id": "user_001",
+        "timestamp": "2024-09-06T20:24:03.953201Z",
+        "content_generated": {
+            "input_prompt": "endometriyum tabakası nedir\n",
+            "response": "\nEndometrium tabakası, uterusun iç astarını oluşturan bir dokudur. Hamilelik sırasında embriyonun yerleştiği ve geliştiği yerdir. Endometrium, menstruasyon döneminde dökülen ve adet kanamasına neden olan dokuyu oluşturur. Hamilelik sırasında, endometrium hamileliğin erken dönemlerinde implantasyona izin vermek için kalınlaşır ve ardından fetüsün gelişmesine izin vermek için kalınlaşmaya devam eder."
+        },
+        "user_feedback": {
+            "rating": "dislike",
+            "feedback_text": "",
+            "preferred_response": ""
+        },
+        "feedback_metadata": {
+            "device": "unknown",
+            "location": "unknown",
+            "session_duration": 0
+        }
+    },
+    {
+        "interaction_id": "12345",
+        "user_id": "user_001",
+        "timestamp": "2024-09-06T20:28:36.946217Z",
+        "content_generated": {
+            "input_prompt": "Gözde hangi tabakalar bulunur",
+            "response": ":\n\nGözde üç ana tabaka bulunmaktadır:\n1. Sklera - gözün en dış tabakası, gözü çevreleyen koruyucu bir tabaka.\n2. Koroid - sklera'nın altında bulunan ve damarsal olarak zengin bir tabaka, gözün beslenmesine yardımcı olur.\n3. Retina - gözün en iç tabakası, görme reseptörleri ve sinir liflerini içeren."
+        },
+        "user_feedback": {
+            "rating": "dislike",
+            "feedback_text": "sklera yanlıs",
+            "preferred_response": ""
+        },
+        "feedback_metadata": {
+            "device": "unknown",
+            "location": "unknown",
+            "session_duration": 0
+        }
+    },
+    {
+        "interaction_id": "12345",
+        "user_id": "user_001",
+        "timestamp": "2024-09-06T20:37:28.486750Z",
+        "content_generated": {
+            "input_prompt": "anlat biraz",
+            "response": ":\n\nTabii ki! İşte anlatmak istediğiniz konu hakkında bazı ek detaylar:\n\n1. **Haploid vs Diploid:** Haploid hücreler tek set kromozoma sahiptir, diploid hücreler ise iki sete sahiptir. İnsanlarda, vücut hücreleri diploit olup 46 kromozom bulundururlarken, gametler haploittir ve 23 kromozom bulundururlar.\n\n2. **Embriyonik Gelişim:** Embriyonik gelişimde, erken aşamalarda hücreler benzerdir ve herhangi biri potansiyel olarak tüm organizmayı oluşturabilir. Ancak, gastrulasyon sırasında, hücreler farklılaşmaya başlar ve farklı doku ve organlara dönüşürler. Bu noktadan sonra, her hücrenin belirli bir işlevi vardır ve farklılaşmış hücreler yeniden farklılaşamaz veya başka bir hücre tipine dönüşemezler.\n\n3. **Plasenta:** Plasenta, anne ve fetüs arasındaki beslenme ve atık değişiminden sorumludur. Anne kanı ile fetüs kanı arasında bir bariyer görevi görür ve fetüsün ihtiyacı olan besinleri ve oksijeni alırken, karbondioksit ve diğer atıkları anneye geri verir.\n\n4. **Tüp Bebek:** Tüp bebekte, yumurta ve sperm laboratuvarda birleştirilerek döllenme elde edilir. Daha sonra döllenmiş yumurta, annenin rahmine transfer edilerek implantasyon ve hamileliğin başlaması sağlanır.\n\n5. **Amniyosentez:** Amniyosentez, fetüsün gelişimi sırasında yapılan bir testtir. Bu işlemde, fetüsün etrafını saran amniyotik sıvıdan örnek alınır. Bu sıvıda fetüsten gelen hücreler bulunur ve bu hücreler kromozomal anormallikler açısından analiz edilebilir. Bu test, Down sendromu gibi genetik durumların teşhis edilmesi için kullanılır.\n\nUmarım bu bilgiler yardımcı olur! Eğer başka sorunuz varsa bana bildirin."
+        },
+        "user_feedback": {
+            "rating": "dislike",
+            "feedback_text": "doğrudur",
+            "preferred_response": ""
+        },
+        "feedback_metadata": {
+            "device": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+            "location": {
+                "latitude": 41.0484736,
+                "longitude": 28.9865728
+            },
+            "session_duration": 0
+        }
     }
 ]

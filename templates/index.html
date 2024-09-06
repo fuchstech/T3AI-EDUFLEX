@@ -101,7 +101,7 @@
                 <button id="thumbsDown">&#128078;</button>
             </div>
             <div id="newInput">
-                <label for="newFeedback">Yeni Girdi:</label>
+                <label for="newFeedback">Yeni Geri Bildiriminizi Yazın:</label>
                 <textarea id="newFeedback" rows="4"></textarea>
                 <button onclick="submitNewFeedback()">Gönder</button>
             </div>
@@ -109,38 +109,69 @@
     </div>
 
     <script>
+        let inputPrompt = "";
+        let modelResponse = "";
+        let deviceType = navigator.userAgent; // Cihaz tipi bilgisi
+        let locationInfo = { latitude: null, longitude: null }; // Konum bilgisi
+
+        // Kullanıcının konumunu almak için Geolocation API kullanımı
+        function getLocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(function(position) {
+                    locationInfo.latitude = position.coords.latitude;
+                    locationInfo.longitude = position.coords.longitude;
+                });
+            } else {
+                console.log("Geolocation API desteklenmiyor.");
+            }
+        }
+
+        // Sayfa yüklendiğinde kullanıcının konumunu al
+        window.onload = getLocation;
+
+        // Form gönderildiğinde model yanıtı almak için
         document.getElementById('assistantForm').onsubmit = async function (e) {
             e.preventDefault();
 
             const subject = document.getElementById('subject').value;
-            const userMessage = document.getElementById('userMessage').value;
+            inputPrompt = document.getElementById('userMessage').value;
 
             const response = await fetch('/get_response', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
                 body: new URLSearchParams({
                     subject: subject,
-                    question: userMessage
+                    question: inputPrompt
                 })
             });
 
             const data = await response.json();
-            document.getElementById('responseText').innerText = data.response;
+            modelResponse = data.response;
+            document.getElementById('responseText').innerText = modelResponse;
             document.getElementById('response').style.display = 'block';
         };
 
+        // Dislike tıklandığında geri bildirim formunu göster
         document.getElementById('thumbsDown').addEventListener('click', function() {
             document.getElementById('newInput').style.display = 'block';
         });
 
+        // Yeni geri bildirimi gönderme fonksiyonu
         function submitNewFeedback() {
             const newFeedback = document.getElementById('newFeedback').value;
+
             fetch('/feedback', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify({ feedback: newFeedback })
+                body: JSON.stringify({
+                    input_prompt: inputPrompt,
+                    response: modelResponse,
+                    feedback_text: newFeedback,  // Yeni geri bildirimi gönderiyoruz
+                    device: deviceType,  // Cihaz tipi bilgisi
+                    location: locationInfo  // Konum bilgisi (enlem, boylam)
+                })
             })
             .then(response => response.json())
             .then(data => {
