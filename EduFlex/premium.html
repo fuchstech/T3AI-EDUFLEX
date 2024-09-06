@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <!-- Temel -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Mobil uyum -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Site metas -->
+    <title>Premium - AsiFin</title>
+    <meta name="keywords" content="portföy, finans, yatırım, kripto, yapay zeka">
+    <meta name="description" content="Portföy durumu ve yatırım analizlerinizi izleyebileceğiniz finansal platform.">
+    <meta name="author" content="AsiFin">
+    <!-- Stil dosyaları -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <!-- favicon -->
+    <link rel="icon" href="images/fevicon.png" type="image/gif" />
+    <style>
+        
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+        }
+
+        .navbar {
+            background-color: #0c0f38;
+            padding: 15px;
+        }
+
+        .navbar a {
+            color: #fff;
+            margin-right: 20px;
+            text-decoration: none;
+            font-size: 18px;
+        }
+
+        .navbar a:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            background-color: #0c0f38;
+            padding: 10px 0;
+            text-align: center;
+            color: #b7b7b7;
+        }
+
+        h2 {
+            color: #fff;
+        }
+
+        p {
+            color: #b7b7b7;
+            font-size: 18px;
+            line-height: 1.6;
+        }
+
+        .service-card {
+            background-color: #0c0f38;
+            color: #b7b7b7;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0px 20px 50px rgba(0, 123, 255, 0.7);
+            margin-bottom: 30px;
+            transition: transform 0.3s;
+            max-height: 700px;
+        }
+        .service-card ul {
+    list-style-type: disc !important;
+    list-style-position: inside !important;
+    margin-left: 20px !important;
+    padding-left: 20px !important;
+    color: #fff !important;
+}
+
+.service-card li {
+    color: #fff !important; /* Beyaz metin rengi */
+    display: list-item !important; /* Liste ögesi olarak zorla */
+    margin-bottom: 10px !important;
+}
+
+
+
+        .service-card:hover {
+            transform: scale(1.05);
+        }
+        .service-image {
+            border-radius: 10px;
+            width: 100%;
+            max-width: 400px;
+            height: auto;
+        }
+        .service-card h2 {
+            color: #fdd430;
+        }
+        .service-text {
+            padding: 20px;
+        }
+        .price {
+            font-size: 24px;
+            color: #fdd430;
+            margin: 20px 0;
+        }
+        .buy-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #fdd430;
+            color: #0c0f38;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .buy-button:hover {
+            background-color: #e5c20c;
+        }
+    </style>
+</head>
+<body class="main-layout">
+    <!-- Header -->
+    <header>
+        <div class="header">
+           <div class="container">
+              <div class="row">
+                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 logo_section">
+                    <div class="full">
+                       <div class="center-desk">
+                          <div class="logo">
+                             <a href="index.html">
+                                <img src="images/matiricie.png" alt="Logo" style="max-width: 250px; max-height: 100px;" />
+                             </a>
+                          </div>
+                       </div>
+                    </div>
+                 </div>
+                 <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9">
+                    <nav class="navigation navbar navbar-expand-md navbar-dark">
+                       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
+                          <span class="navbar-toggler-icon"></span>
+                       </button>
+                       <div class="collapse navbar-collapse" id="navbarsExample04">
+                          <ul class="navbar-nav mr-auto">
+                             <li class="nav-item"><a class="nav-link" href="dashboard.html">Anasayfa</a></li>
+                             <li class="nav-item"><a class="nav-link" href="portfoy.html">Portföy Durumu</a></li>
+                             <li class="nav-item"><a class="nav-link" href="yatirim.html">Yatırım Önerileri</a></li>
+                             <li class="nav-item"><a class="nav-link" href="piyasa.html">Piyasa Verileri</a></li>
+                             <li class="nav-item"><a class="nav-link" href="finans.html">Finansal Haberler</a></li>
+                             <li class="nav-item active"><a class="nav-link" href="premium.html">Premium</a></li>
+                             <li class="nav-item" ><a class="nav-link" href="iletisim.html">İletişim</a></li>
+                             <li class="nav-item"><a class="nav-link" href="index.html">Çıkış</a></li>
+                          </ul>
+                       </div>
+                    </nav>
+                 </div>
+              </div>
+           </div>
+        </div>
+     </header>
+     <br><br>
+    <!-- Main Content -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <center>
+                <div class="service-card">
+                    
+                    <img src="images/1coinalt.png" alt="Paket 1" class="service-image">
+                    <div class="service-text">
+                        <h2>Tanışma</h2>
+                        
+                        <p style="color: #fff;">  <span style="color: white;">•</span> Yapay Zeka Destekli Strateji Önerisi</li>
+                         <br>  <span style="color: white;">•</span> 4 Saat ve 1 Gün Süreli Geriye Dönük Testler</li>
+                        </p>   <div class="price">ÜCRETSİZ</div>
+                        <a href="#" class="buy-button">Satın Al</a>
+                    </ul> </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <center>
+                <div class="service-card">
+                    <img src="images/3coin.png" alt="Paket 1" class="service-image">
+                    <div class="service-text">
+                        <h2>Yatırımcı</h2>
+                        
+                        <p style="color: #fff;">  <span style="color: white;">•</span> Yapay Zeka Destekli Strateji Önerisi</li>
+                         <br>  <span style="color: white;">•</span> 4 Saat, 1 Gün, 1 Saat, 30 Dakika ve 15 Dakika Süreli Süreli Geriye Dönük Testler</li>
+                         <br>  <span style="color: white;">•</span> 3 Özelleştirilebilir Strateji</li>
+                        </p>   <div class="price">$ 10 / ay</div>
+                        <a href="#" class="buy-button">Satın Al</a>
+                    </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <center>
+                <div class="service-card">
+                    <img src="images/5coin.png" alt="Hizmet 3" class="service-image">
+                    <div class="service-text">
+                        <h2>Uzman</h2>
+                        <p style="color: #fff;">  <span style="color: white;">•</span> Yapay Zeka Destekli Strateji Önerisi</li>
+                            <br>  <span style="color: white;">•</span> 4 Saat, 1 Gün, 1 Saat, 30 Dakika ve 15 Dakika Süreli Süreli Geriye Dönük Testler</li>
+                            <br>  <span style="color: white;">•</span> Sınırsız Özelleştirilebilir Strateji</li>   
+                        </p>   <div class="price">$ 20 / ay</div>
+                           <a href="#" class="buy-button">Satın Al</a>
+                       </ul> 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</center>
+    <!-- Footer -->
+    <footer>
+        &copy; 2024 AsiFin. Tüm Hakları Saklıdır.
+    </footer>
+    <!-- jQuery (Bootstrap'ın JavaScript pluginlerine ihtiyaç duyuyor) -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- Bootstrap'ın JavaScript dosyası -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+</body>
+</html>

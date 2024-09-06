@@ -1,0 +1,21 @@
+[
+    {
+        "interaction_id": "12345",
+        "user_id": "user_001",
+        "timestamp": "2024-09-06T20:08:31.177690Z",
+        "content_generated": {
+            "input_prompt": "",
+            "response": ""
+        },
+        "user_feedback": {
+            "rating": "dislike",
+            "feedback_text": "",
+            "preferred_response": ""
+        },
+        "feedback_metadata": {
+            "device": "unknown",
+            "location": "unknown",
+            "session_duration": 0
+        }
+    }
+]

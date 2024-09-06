@@ -55,6 +55,23 @@
             background-color: #f9f9f9;
             border: 1px solid #ddd;
             border-radius: 4px;
+            display: none;
+        }
+        .feedback {
+            display: flex;
+            align-items: center;
+            margin-top: 10px;
+        }
+        .feedback button {
+            background: none;
+            border: none;
+            font-size: 24px;
+            cursor: pointer;
+            margin-right: 10px;
+        }
+        #newInput {
+            display: none;
+            margin-top: 10px;
         }
     </style>
 </head>
@@ -64,36 +81,74 @@
         <form id="assistantForm" action="/get_response" method="POST">
             <label for="subject">Konu Başlığı:</label>
             <select id="subject" name="subject" required>
-                <option value="">Konu Seçin</option>
+                <!-- Dropdown menüsünü burada dinamik olarak oluşturacağız -->
                 {% for subject in subjects %}
-                <option value="{{ subject }}">{{ subject | capitalize }}</option>
+                    <option value="{{ subject }}">{{ subject }}</option>
                 {% endfor %}
             </select>
-
-            <label for="question">Sorunuz:</label>
-            <textarea id="question" name="question" rows="4" placeholder="Sorunuzu yazın" required></textarea>
-
+            
+            <label for="userMessage">Soru:</label>
+            <textarea id="userMessage" name="userMessage" rows="4" required></textarea>
+            
             <input type="submit" value="Gönder">
         </form>
-
+        
         <div id="response">
-            <!-- API'den gelen yanıt burada gösterilecek -->
+            <h3>Model Yanıtı</h3>
+            <p id="responseText"></p>
+            <div class="feedback">
+                <button id="thumbsUp">&#128077;</button>
+                <button id="thumbsDown">&#128078;</button>
+            </div>
+            <div id="newInput">
+                <label for="newFeedback">Yeni Girdi:</label>
+                <textarea id="newFeedback" rows="4"></textarea>
+                <button onclick="submitNewFeedback()">Gönder</button>
+            </div>
         </div>
     </div>
 
     <script>
-        // Formu Ajax ile gönder
-        document.getElementById('assistantForm').onsubmit = async function(e) {
+        document.getElementById('assistantForm').onsubmit = async function (e) {
             e.preventDefault();
 
-            const formData = new FormData(this);
+            const subject = document.getElementById('subject').value;
+            const userMessage = document.getElementById('userMessage').value;
+
             const response = await fetch('/get_response', {
                 method: 'POST',
-                body: formData,
+                headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                body: new URLSearchParams({
+                    subject: subject,
+                    question: userMessage
+                })
             });
-            
+
             const data = await response.json();
-            document.getElementById('response').innerHTML = `<strong>Yanıt:</strong> ${data.response}`;
+            document.getElementById('responseText').innerText = data.response;
+            document.getElementById('response').style.display = 'block';
+        };
+
+        document.getElementById('thumbsDown').addEventListener('click', function() {
+            document.getElementById('newInput').style.display = 'block';
+        });
+
+        function submitNewFeedback() {
+            const newFeedback = document.getElementById('newFeedback').value;
+            fetch('/feedback', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ feedback: newFeedback })
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert('Yeni geri bildirim gönderildi!');
+                document.getElementById('newFeedback').value = '';
+                document.getElementById('newInput').style.display = 'none';
+            })
+            .catch(error => console.error('Hata:', error));
         }
     </script>
 </body>

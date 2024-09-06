@@ -3,6 +3,7 @@ import json
 import requests
 import os
 import difflib
+from datetime import datetime
 from colorama import init
 
 # Colorama başlat
@@ -13,6 +14,7 @@ app = Flask(__name__)
 
 # Biyoloji konu notları 'data/' klasöründe yer alıyor
 data_dir = 'data/'
+feedback_file = 'feedback.json'  # Geri bildirimlerin kaydedileceği JSON dosyası
 
 # Dosya isimlerine dayalı olarak olası konuları belirle
 def get_available_subjects():
@@ -50,6 +52,7 @@ def convert_to_special_format(system_message, user_message):
 def index():
     subjects = get_available_subjects()  # Mevcut dosya isimlerini dropdown için al
     return render_template('index.html', subjects=subjects)  # Template'e gönder
+
 url = "https://inference2.t3ai.org/v1/completions"
 # API'ye istekte bulunmak için POST route'u
 @app.route('/get_response', methods=['POST'])
@@ -84,7 +87,50 @@ def get_response():
     pretty_response = json.loads(response.text)
 
     # Yanıtı döndür
-    return jsonify({'response': pretty_response['choices'][0]['text']})
+    return jsonify({
+        'response': pretty_response['choices'][0]['text'],
+        'llm_response': pretty_response  # LLM yanıtı da döndürülüyor
+    })
+
+# Geri bildirimleri kaydetme fonksiyonu
+def save_feedback(feedback):
+    if not os.path.exists(feedback_file):
+        with open(feedback_file, 'w') as f:
+            json.dump([], f)  # Eğer dosya yoksa, boş bir JSON listesi oluştur
+
+    with open(feedback_file, 'r+') as f:
+        data = json.load(f)
+        data.append(feedback)  # Gelen geri bildirimi JSON listesine ekle
+        f.seek(0)  # Dosyanın başına git ve güncel veriyi yaz
+        json.dump(data, f, indent=4)
+
+# Geri bildirim almak için yeni bir route
+@app.route('/feedback', methods=['POST'])
+def feedback():
+    feedback_data = request.get_json()
+    # Kullanıcı geri bildirimiyle ilgili özel JSON formatını hazırlıyoruz
+    feedback_entry = {
+        "interaction_id": feedback_data.get('interaction_id', '12345'),
+        "user_id": feedback_data.get('user_id', 'user_001'),
+        "timestamp": datetime.utcnow().isoformat() + "Z",  # ISO 8601 formatı
+        "content_generated": {
+            "input_prompt": feedback_data.get('input_prompt', ''),
+            "response": feedback_data.get('response', '')
+        },
+        "user_feedback": {
+            "rating": feedback_data.get('rating', 'dislike'),  # default dislike
+            "feedback_text": feedback_data.get('feedback_text', ''),
+            "preferred_response": feedback_data.get('preferred_response', '')
+        },
+        "feedback_metadata": {
+            "device": feedback_data.get('device', 'unknown'),
+            "location": feedback_data.get('location', 'unknown'),
+            "session_duration": feedback_data.get('session_duration', 0)
+        }
+    }
+
+    save_feedback(feedback_entry)  # Geri bildirimi JSON dosyasına kaydet
+    return jsonify({"status": "success", "message": "Feedback saved!"})
 
 # Flask uygulamasını başlat
 if __name__ == '__main__':

@@ -12,7 +12,6 @@ url = "https://inference2.t3ai.org/v1/completions"
 
 # Sabit sistem mesajı
 system_message = """Sen yardımcı bir asistansın ve sana verilen talimatlar doğrultusunda en iyi cevabı üretmeye çalışacaksın. Türkçe cevap vereceksin. Türkiye'nin ilk büyük Türkçe dil modeli olarak, T3AI'LE projesi kapsamında Baykar Teknoloji ve T3 Vakfı tarafından geliştirilmiş bir yapay zeka asistanıyım. Kullanıcıların sorularına Türkçe olarak doğru ve etkili yanıtlar vermek için tasarlandım.
-Tabii, işte 11. sınıf biyoloji konularını başlıklar ve içeriklerini birer paragraf olarak düzenlenmiş şekilde:
 
 ### 1. **Hücre Bölünmeleri**
 Hücre bölünmeleri konusu, mitoz ve mayoz olmak üzere iki ana bölünme türünü içerir. Mitoz bölünme, vücut hücrelerinde gerçekleşir ve canlının büyümesini, gelişmesini ve hasar görmüş dokuların onarılmasını sağlar. Tek hücreli canlılarda mitoz, üremeyi gerçekleştirir. Mitoz bölünme sonucunda oluşan hücreler, ana hücre ile aynı genetik yapıya sahip olur ve kromozom sayısı sabit kalır. Mayoz bölünme ise üreme hücrelerinde (gametlerde) meydana gelir ve kromozom sayısının yarıya inmesini sağlar. Bu süreç, genetik çeşitliliği artıran çaprazlama ve bağımsız dağılım gibi mekanizmalar içerir. Mayoz sonucunda dört yeni hücre oluşur ve her biri genetik olarak farklıdır. Mitoz ve mayoz arasındaki temel farklar, hücre sayısı, kromozom sayısı ve genetik yapıda ortaya çıkar.
@@ -61,6 +60,6 @@ while True:
     # API isteğini gönder
     response = requests.post(url, headers=headers, data=payload)
     pretty_response = json.loads(response.text)
-
+    print(pretty_response)
     # Yanıtı yazdır
     print("LLM Cevap:", pretty_response['choices'][0]['text'])

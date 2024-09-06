@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <!-- Temel -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Mobil uyum -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Site metas -->
+    <title>Yatırım Önerileri - AsiFin</title>
+    <meta name="keywords" content="portföy, finans, yatırım, kripto, yapay zeka">
+    <meta name="description" content="Portföy durumu ve yatırım analizlerinizi izleyebileceğiniz finansal platform.">
+    <meta name="author" content="AsiFin">
+    <!-- Stil dosyaları -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <!-- favicon -->
+    <link rel="icon" href="images/fevicon.png" type="image/gif" />
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center; /* Tüm içerik ortalanıyor */
+        }
+
+       
+
+        footer {
+            background-color: #0c0f38;
+            padding: 10px 0;
+            text-align: center;
+            color: #b7b7b7;
+        }
+
+        h1 {
+            color: #0c0f38;
+            margin-bottom: 30px;
+        }
+
+        label {
+            font-weight: bold;
+            display: block;
+            margin-top: 15px;
+        }
+
+        select, button {
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            border: 2px solid #ccc;
+            width: 50%;
+        }
+
+        button {
+            background-color: #0c0f38;
+            color: #fdd430;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #e5c20c;
+        }
+
+        #result {
+            display: none;
+            margin-top: 30px;
+        }
+
+        #result h2 {
+            color: #0c0f38;
+        }
+
+        #result p {
+            color: #333;
+            font-size: 16px;
+        }
+
+        table {
+            width: 100%;
+            margin-top: 20px;
+            border-collapse: collapse;
+            text-align: center;
+        }
+
+        th, td {
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+
+        th {
+            background-color: #0c0f38;
+            color: #fdd430;
+        }
+
+        td {
+            background-color: #f4f4f4;
+        }
+
+        @media (max-width: 768px) {
+            select, button {
+                width: 90%;
+            }
+
+            table {
+                font-size: 12px;
+            }
+
+            th, td {
+                padding: 8px;
+            }
+        }
+
+        
+    </style>
+</head>
+<body class="main-layout">
+    <!-- Header -->
+    <header>
+        <div class="header">
+           <div class="container">
+              <div class="row">
+                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 logo_section">
+                    <div class="full">
+                       <div class="center-desk">
+                          <div class="logo">
+                             <a href="index.html">
+                                <img src="images/matiricie.png" alt="Logo" style="max-width: 250px; max-height: 100px;" />
+                             </a>
+                          </div>
+                       </div>
+                    </div>
+                 </div>
+                 <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9">
+                    <nav class="navigation navbar navbar-expand-md navbar-dark">
+                       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
+                          <span class="navbar-toggler-icon"></span>
+                       </button>
+                       <div class="collapse navbar-collapse" id="navbarsExample04">
+                          <ul class="navbar-nav mr-auto">
+                           <li class="nav-item active"><a class="nav-link" href="dashboard.html">Anasayfa</a></li>
+                             <li class="nav-item"><a class="nav-link" href="portfoy.html">Portföy Durumu</a></li>
+                             <li class="nav-item"><a class="nav-link" href="yatirim.html">Yatırım Önerileri</a></li>
+                             <li class="nav-item"><a class="nav-link" href="piyasa.html">Piyasa Verileri</a></li>
+                             <li class="nav-item"><a class="nav-link" href="finans.html">Finansal Haberler</a></li>
+                             <li class="nav-item"><a class="nav-link" href="premium.html">Premium</a></li>
+                             <li class="nav-item"><a class="nav-link" href="iletisim.html">İletişim</a></li>
+                             <li class="nav-item"><a class="nav-link" href="index.html">Çıkış</a></li>
+                          </ul>
+                       </div>
+                    </nav>
+                 </div>
+              </div>
+           </div>
+        </div>
+     </header>
+     <br><br>
+    <!-- Main Content -->
+    <div class="container">
+        <h1>Yatırımcı Profili: Düşük Riskli</h1>
+        <label for="cryptoSelect">Kripto Para Seçiniz </label>
+        <select id="cryptoSelect">
+            <option value="BTC">BTC</option>
+            <option value="ETH">ETH</option>
+            <option value="AVAX">AVAX</option>
+        </select>
+        <br>
+        <label for="timeframeSelect">Zaman Aralığı Seçiniz</label>
+        <select id="timeframeSelect">
+            <option value="5m">5 Dakika</option>
+            <option value="15m">15 Dakika</option>
+            <option value="1h">1 Saat</option>
+            <option value="4h">4 Saat</option>
+            <option value="1d">1 Gün</option>
+        </select>
+
+       <br><br> <button onclick="showResult()">Analiz Yap</button>
+    </div>
+
+    <div id="result">
+        <h2>Analiz Sonuçları</h2>
+        <p id="cryptoResult"></p>
+        <p id="timeframeResult"></p>
+        <div id="userContent">
+            <p id="userContentParagraph"></p>
+            <br>
+            <p>Analiz verileri başlangıcı: 01/01/2023</p>
+            
+            <p>Analiz verileri bitişi: 05/09/2024</p>
+        </div>
+    </div>
+    <script>
+        function showResult() {
+            var cryptoSelect = document.getElementById("cryptoSelect").value;
+            var timeframeSelect = document.getElementById("timeframeSelect").value;
+            var cryptoResult = document.getElementById("cryptoResult");
+            var timeframeResult = document.getElementById("timeframeResult");
+            var resultDiv = document.getElementById("result");
+    
+            cryptoResult.innerText = "Kripto Para: " + cryptoSelect;
+            timeframeResult.innerText = "Zaman Aralığı: " + timeframeSelect;
+    
+            // Kullanıcıdan alınan içeriği yerine, arka taraftan belirlenen içeriği ekle
+            var userContentParagraph = document.getElementById("userContentParagraph");
+    
+    
+            if (cryptoSelect === "BTC" && timeframeSelect === "5m") {
+                userContentParagraph.innerHTML = "<strong>En uygun strateji:</strong> HourBasedStrategy, <strong>Sharpe değeri:</strong> 0.77, <strong>Tahmini Getiri:</strong> %9.51 <br> <br> Strateji hakkında bilgi almak için <a href='egitim.html'>Eğitim Kaynakları</a> sayfasını ziyaret edin." ;
+
+            } 
+            else if (cryptoSelect === "BTC" && timeframeSelect === "15m") {
+                userContentParagraph.innerHTML = "<strong>En uygun strateji:</strong> HourBasedStrategy, <strong>Sharpe değeri:</strong> 0.73, <strong>Tahmini Getiri:</strong> %9.19 <br> <br> Strateji hakkında bilgi almak için <a href='egitim.html'>Eğitim Kaynakları</a> sayfasını ziyaret edin.";
+            } 
+            else if (cryptoSelect === "BTC" && timeframeSelect === "1h") {
+                userContentParagraph.innerHTML = "<strong>En uygun strateji:</strong> HourBasedStrategy, <strong>Sharpe değeri:</strong> 0.94, <strong>Tahmini Getiri:</strong> %11.64 <br> <br> Strateji hakkında bilgi almak için <a href='egitim.html'>Eğitim Kaynakları</a> sayfasını ziyaret edin.";
+            } 
+            else if (cryptoSelect === "BTC" && timeframeSelect === "4h") {
+                userContentParagraph.innerHTML = "<strong>En uygun strateji:</strong> HourBasedStrategy, <strong>Sharpe değeri:</strong> 0.94, <strong>Tahmini Getiri:</strong> %11.64 <br> <br> Strateji hakkında bilgi almak için <a href='egitim.html'>Eğitim Kaynakları</a> sayfasını ziyaret edin.";
+            } 
+            else if (cryptoSelect === "BTC" && timeframeSelect === "1d") {
+                userContentParagraph.innerHTML = "<strong>En uygun strateji:</strong> HourBasedStrategy, <strong>Sharpe değeri:</strong> 0.93, <strong>Tahmini Getiri:</strong> %15.34 <br> <br> Strateji hakkında bilgi almak için <a href='egitim.html'>Eğitim Kaynakları</a> sayfasını ziyaret edin.";
+            } 
+            else if (cryptoSelect === "ETH" && timeframeSelect === "5m") {
+                userContentParagraph.innerHTML = "<strong>En uygun strateji:</strong> UniversalMACD, <strong>Sharpe değeri:</strong> 0.46, <strong>Tahmini Getiri:</strong> %1.62 <br> <br> Strateji hakkında bilgi almak için <a href='egitim.html'>Eğitim Kaynakları</a> sayfasını ziyaret edin.";
+            } 
+            else if (cryptoSelect === "ETH" && timeframeSelect === "15m") {
+                userContentParagraph.innerHTML = "<strong>En uygun strateji:</strong> UniversalMACD, <strong>Sharpe değeri:</strong> 0.82, <strong>Tahmini Getiri:</strong> %8.15 <br> <br> Strateji hakkında bilgi almak için <a href='egitim.html'>Eğitim Kaynakları</a> sayfasını ziyaret edin.";
+            } 
+            else if (cryptoSelect === "ETH" && timeframeSelect === "1h") {
+                userContentParagraph.innerHTML = "<strong>En uygun strateji:</strong> UniversalMACD, <strong>Sharpe değeri:</strong> 0.27, <strong>Tahmini Getiri:</strong> %0.82 <br> <br> Strateji hakkında bilgi almak için <a href='egitim.html'>Eğitim Kaynakları</a> sayfasını ziyaret edin.";
+            } 
+            else if (cryptoSelect === "ETH" && timeframeSelect === "4h") {
+                userContentParagraph.innerHTML = "<strong>En uygun strateji:</strong> Heracles, <strong>Sharpe değeri:</strong> 0.077, <strong>Tahmini Getiri:</strong> %1.73 <br> <br> Strateji hakkında bilgi almak için <a href='egitim.html'>Eğitim Kaynakları</a> sayfasını ziyaret edin.";
+            } 
+            else if (cryptoSelect === "ETH" && timeframeSelect === "1d") {
+                userContentParagraph.innerHTML = "<strong>En uygun strateji:</strong> HourBasedStrategy, <strong>Sharpe değeri:</strong> 0.10, <strong>Tahmini Getiri:</strong> %1.10 <br> <br> Strateji hakkında bilgi almak için <a href='egitim.html'>Eğitim Kaynakları</a> sayfasını ziyaret edin.";
+            } 
+            else {
+                // Diğer durumlar için buraya ek kontroller ekleyebilirsin
+                userContentParagraph.innerText = "Veriler işleniyor, daha sonra tekrar deneyin.";
+            }
+    
+            resultDiv.style.display = "block";
+        }
+    </script>
+    
+       
+    </div>
+    <!-- Footer -->
+    <footer>
+        &copy; 2024 AsiFin. Tüm Hakları Saklıdır.
+    </footer>
+    <!-- jQuery (Bootstrap'ın JavaScript pluginlerine ihtiyaç duyuyor) -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- Bootstrap'ın JavaScript dosyası -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+</body>
+</html>

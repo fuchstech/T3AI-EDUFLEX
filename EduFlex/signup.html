@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="tr">
+   <head>
+      <!-- Meta bilgileri ve CSS bağlantıları -->
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Kayıt Ol - EduFlex</title>
+      <link rel="stylesheet" href="css/bootstrap.min.css">
+      <link rel="stylesheet" href="css/style.css">
+      <link rel="stylesheet" href="css/responsive.css">
+      <link rel="icon" href="images/fevicon.png" type="image/png" />
+      <style>
+         /* Flash mesaj kutusu için stil */
+         .alert {
+            margin-top: 20px;
+         }
+         /* Pop-up stil */
+         .modal {
+            display: none;
+            position: fixed;
+            z-index: 9999;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            padding: 20px;
+            border-radius: 10px;
+            color: #000;
+            text-align: center;
+            background-color: #fff;
+            width: auto;
+            max-width: 600px;
+            max-height: 500px;
+            overflow-y: auto;
+            box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.5);
+         }
+
+         .modal button {
+            margin-top: 10px;
+            background: #0c0f38;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            color: #fff;
+         }
+
+         .modal button:hover {
+            background-color: #f1f1f1;
+            color: #000;
+         }
+
+
+
+         .close-btn {
+            position: absolute;
+            top: 10px;
+            right: 20px;
+            font-size: 20px;
+            font-weight: bold;
+            cursor: pointer;
+         }
+      </style>
+   </head>
+   <body>
+      <!-- Header -->
+      <header>
+         <div class="header">
+            <div class="container">
+               <div class="row">
+                  <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 logo_section">
+                     <div class="full">
+                        <div class="center-desk">
+                           <div class="logo">
+                              <a href="index.html">
+                                 <img src="images/matiricie.png" alt="Logo" style="max-width: 250px; max-height: 100px;" />
+                              </a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9">
+                     <nav class="navigation navbar navbar-expand-md navbar-dark">
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
+                           <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarsExample04">
+                           <ul class="navbar-nav mr-auto">
+                              <li class="nav-item"><a class="nav-link" href="index.html">Anasayfa</a></li>
+                              <li class="nav-item"><a class="nav-link" href="hakkimizda.html">Hakkımızda</a></li>
+                              <li class="nav-item"><a class="nav-link" href="hizmetler.html">Hizmetler</a></li>
+                              <li class="nav-item"><a class="nav-link" href="index.html#contact">İletişim</a></li>
+                              <li class="nav-item active"><a class="nav-link" href="signup.html">Kayıt Ol</a></li>
+                              <li class="nav-item"><a class="nav-link" href="login.html">Giriş Yap</a></li>
+                           </ul>
+                        </div>
+                     </nav>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </header>
+      <!-- end header -->
+
+      <!-- Kayıt Ol Bölümü -->
+      <section class="login_section layout_padding" style="background-color: #0c0f38; color: #fff;">
+         <div class="container">
+            <div class="row justify-content-center">
+               <div class="col-md-6">
+                  <div class="login_form shadow p-4 rounded" style="background-color: #0c0f38; color: #b7b7b738; border-style:solid; box-shadow: 0px 20px 50px rgba(0, 123, 255, 0.9) !important;">
+
+                     <h2 class="text-center mb-4" style="color: #fff;">Kayıt Ol</h2>
+                     <form id="signupForm" method="POST">
+                        <div class="form-group">
+                           <label for="name" style="color: #fff;">İsim</label>
+                           <input type="text" class="form-control rounded" id="name" name="name" placeholder="İsminizi girin" required>
+                        </div>
+                        <div class="form-group">
+                           <label for="email" style="color: #fff;">Email Adresi</label>
+                           <input type="email" class="form-control rounded" id="email" name="email" placeholder="Email adresinizi girin" required>
+                        </div>
+                        <div class="form-group">
+                           <label for="password" style="color: #fff;">Şifre</label>
+                           <input type="password" class="form-control rounded" id="password" name="password" placeholder="Şifrenizi girin" required>
+                        </div>
+                        <div class="form-group">
+                           <label for="confirm-password" style="color: #fff;">Şifreyi Onayla</label>
+                           <input type="password" class="form-control rounded" id="confirm-password" name="confirm-password" placeholder="Şifrenizi tekrar girin" required>
+                        </div>
+                        <div class="form-check mb-4">
+                           <input type="checkbox" class="form-check-input" id="termsCheck" required>
+                           <label class="form-check-label" for="termsCheck" style="color: #fff;">
+                           <a href="javascript:void(0)" id="openModal" style="color: #fdd430; text-decoration: underline;">Kullanıcı Sözleşmesini</a> kabul ediyorum.
+                           </label>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-block">Kayıt Ol</button>
+                        <p class="text-center mt-4" style="color: #fff;">Zaten hesabınız var mı? <a href="login.html" style="color: #fdd430;">Giriş Yap</a></p>
+                     </form>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+
+      <!-- Kullanıcı Sözleşmesi Pop-up -->
+      <div id="termsModal" class="modal">
+         <span class="close-btn" id="closeModal">&times;</span>
+         <h3>Kullanıcı Sözleşmesi</h3>
+         <p>
+            Bu kullanıcı sözleşmesi ("Sözleşme"), EduFlex platformunu kullanan tüm kullanıcılar için geçerlidir. EduFlex platformuna kaydolarak, aşağıdaki şartları kabul etmiş sayılırsınız:
+         </p>
+         <br>
+         <h4>1. Kullanıcı Hesabı</h4>
+         <p>
+            a. Kullanıcı, platforma kaydolurken doğru, güncel ve eksiksiz bilgi vermeyi taahhüt eder.<br>
+            b. Hesabınızın güvenliğini sağlamak tamamen sizin sorumluluğunuzdadır. Şifrenizin yetkisiz kullanımını veya güvenlik ihlallerini fark ettiğinizde, derhal EduFlex'e bildirmeniz gerekmektedir.
+         </p>
+         <br>
+         <h4>2. Platform Kullanımı</h4>
+         <p>
+            a. EduFlex, kullanıcıların öğrenme stillerine göre kişiselleştirilmiş eğitim içerikleri sunmayı amaçlayan bir platformdur.<br>
+            b. Kullanıcılar platformu yalnızca eğitim amaçlı kullanmalıdır. Platformun herhangi bir şekilde kötüye kullanılması, dolandırıcılık yapılması veya diğer kullanıcılara zarar verilmesi yasaktır.<br>
+            c. EduFlex platformundaki içerikler sadece bireysel kullanım içindir. Herhangi bir ticari veya üçüncü şahıslarla paylaşım yasaktır.
+         </p>
+         <br>
+         <h4>3. Gizlilik ve Veri Güvenliği</h4>
+         <p>
+            a. EduFlex, kullanıcıların kişisel bilgilerini ve öğrenme verilerini gizli tutmayı taahhüt eder.<br>
+            b. Verileriniz yalnızca platformun işleyişi ve size daha iyi bir hizmet sunmak amacıyla kullanılacaktır. Hiçbir kişisel bilgi, izniniz olmadan üçüncü şahıslarla paylaşılmayacaktır.<br>
+            c. Platformumuzda, verilerinizin güvenliği için en güncel şifreleme ve güvenlik önlemleri uygulanmaktadır. Ancak, internetin yapısı gereği, %100 güvenlik sağlanamayacağını kabul etmektesiniz.
+         </p>
+         <br>
+         <h4>4. Hizmetin Kesintiye Uğraması</h4>
+         <p>
+            EduFlex, zaman zaman planlı veya plansız bakım, güncellemeler veya diğer teknik sebeplerle hizmetlerinde kesintiler yaşayabilir. Bu tür kesintilerde EduFlex, hizmetlerin devamlılığını sağlamak için elinden geleni yapacaktır ancak bu kesintilerden sorumlu tutulamaz.
+         </p>
+         <br>
+         <h4>5. Fikri Mülkiyet</h4>
+         <p>
+            EduFlex platformundaki tüm içerik, yazılım, grafik, logo ve diğer materyaller EduFlex’e aittir ve telif hakkı yasaları ile korunmaktadır. Kullanıcılar, bu içerikleri izinsiz olarak kopyalayamaz, dağıtamaz veya çoğaltamaz.
+         </p>
+         <br>
+         <h4>6. Sözleşme Değişiklikleri</h4>
+         <p>
+            EduFlex, bu sözleşmeyi zaman zaman güncelleme veya değiştirme hakkını saklı tutar. Yapılacak değişiklikler, kullanıcılara bildirilir ve platformun kullanımı, bu değişikliklerin kabulü anlamına gelir.
+         </p>
+         <br>
+         <h4>7. Sözleşmenin Feshi</h4>
+         <p>
+            EduFlex, bu sözleşmeye aykırı davranan kullanıcıların hesaplarını askıya alma veya tamamen feshetme hakkını saklı tutar. Kullanıcının, platformu kullanımında kötüye kullanım tespit edilirse, EduFlex bu kişilerin erişimini sınırlayabilir veya sona erdirebilir.
+         </p>
+         <br>
+         <h4>8. Uygulanacak Hukuk ve Uyuşmazlık Çözümü</h4>
+         <p>
+            Bu sözleşme, Türkiye Cumhuriyeti kanunlarına tabidir. Taraflar arasında doğacak her türlü uyuşmazlık, İstanbul Mahkemeleri ve İcra Daireleri tarafından çözüme kavuşturulacaktır.
+         </p>
+         <br>
+         <h4>9. İletişim</h4>
+         <p>
+            Sözleşmeyle ilgili herhangi bir sorunuz veya şikayetiniz varsa, bizimle <a href="mailto:eduflex@matiricie.com">eduflex@matiricie.com</a> adresinden iletişime geçebilirsiniz.
+         </p>
+         <button id="closeButton">Kapat</button>
+      </div>
+      <footer>
+         <div class="footer">
+            <div class="container">
+               <div class="row">
+                  <div class="col-md-12 text-center">
+                     <p>© 2024 MatiricieX. Tüm Hakları Saklıdır.</p>
+                     <br>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </footer>
+      <!-- Javascript dosyaları -->
+      <script src="js/jquery.min.js"></script>
+      <script src="js/popper.min.js"></script>
+      <script src="js/bootstrap.bundle.min.js"></script>
+      <script src="js/custom.js"></script>
+
+      <!-- Modal kontrolü -->
+      <script>
+         // Pop-up açma ve kapatma fonksiyonları
+         var modal = document.getElementById('termsModal');
+         var openModal = document.getElementById('openModal');
+         var closeModal = document.getElementById('closeModal');
+         var closeButton = document.getElementById('closeButton');
+
+         openModal.onclick = function() {
+            modal.style.display = 'block';
+         }
+
+         closeModal.onclick = function() {
+            modal.style.display = 'none';
+         }
+
+         closeButton.onclick = function() {
+            modal.style.display = 'none';
+         }
+
+         window.onclick = function(event) {
+            if (event.target == modal) {
+               modal.style.display = 'none';
+            }
+         }
+         
+      </script>
+   </body>
+</html>

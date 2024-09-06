@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="tr">
+   <head>
+      <!-- Temel -->
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <!-- Mobil uyum -->
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Son Finans Haberleri - AsiFin</title>
+      <meta name="keywords" content="finans, kripto, yatırım, yapay zeka">
+      <meta name="description" content="Yapay zeka destekli finans haberlerini sunan platform.">
+      <meta name="author" content="AsiFin">
+      <!-- Stil dosyaları -->
+      <link rel="stylesheet" href="css/bootstrap.min.css">
+      <link rel="stylesheet" href="css/style.css">
+      <link rel="stylesheet" href="css/responsive.css">
+      <link rel="icon" href="images/fevicon.png" type="image/gif" />
+      <style>
+         body {
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+         }
+
+         #newsContainer .news-item {
+            background-color: #1f213a;
+            color: #fff;
+            border-radius: 10px;
+            box-shadow: 0px 10px 20px rgba(0, 123, 255, 0.9); /* Gölge ekledik */
+            padding: 20px;
+            margin-bottom: 20px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            max-height: 330px;
+         }
+
+         #newsContainer .news-item:hover {
+            transform: scale(1.05);
+            box-shadow: 0px 20px 40px rgba(0, 123, 255, 1); /* Hover üzerinde daha belirgin gölge */
+         }
+
+         .news-title {
+            font-size: 20px;
+            font-weight: bold;
+            color: hwb(0 94% 6%);
+            margin-bottom: 10px;
+         }
+
+         .news-description {
+            font-size: 15px;
+            color: #b7b7b7;
+            line-height: 1.0;
+            margin-bottom: 0px;
+         }
+
+         .read-more {
+            color: #fdd430;
+            text-decoration: none;
+            font-weight: bold;
+         }
+
+         .read-more:hover {
+            text-decoration: underline;
+         }
+
+         footer {
+            background-color: #0c0f38;
+            padding: 10px 0;
+            text-align: center;
+            color: #b7b7b7;
+         }
+      </style>
+   </head>
+   <body class="main-layout">
+      <!-- Header -->
+      <header>
+        <div class="header">
+           <div class="container">
+              <div class="row">
+                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 logo_section">
+                    <div class="full">
+                       <div class="center-desk">
+                          <div class="logo">
+                             <a href="index.html">
+                                <img src="images/matiricie.png" alt="Logo" style="max-width: 250px; max-height: 100px;" />
+                             </a>
+                          </div>
+                       </div>
+                    </div>
+                 </div>
+                 <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9">
+                    <nav class="navigation navbar navbar-expand-md navbar-dark">
+                       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
+                          <span class="navbar-toggler-icon"></span>
+                       </button>
+                       <div class="collapse navbar-collapse" id="navbarsExample04">
+                          <ul class="navbar-nav mr-auto">
+                             <li class="nav-item"><a class="nav-link" href="dashboard.html">Anasayfa</a></li>
+                             <li class="nav-item"><a class="nav-link" href="portfoy.html">Portföy Durumu</a></li>
+                             <li class="nav-item"><a class="nav-link" href="yatirim.html">Yatırım Önerileri</a></li>
+                             <li class="nav-item"><a class="nav-link" href="piyasa.html">Piyasa Verileri</a></li>
+                             <li class="nav-item active"><a class="nav-link" href="finans.html">Finansal Haberler</a></li>
+                             <li class="nav-item"><a class="nav-link" href="premium.html">Premium</a></li>
+                             <li class="nav-item"><a class="nav-link" href="iletisim.html">İletişim</a></li>
+                             <li class="nav-item"><a class="nav-link" href="index.html">Çıkış</a></li>
+                          </ul>
+                       </div>
+                    </nav>
+                 </div>
+              </div>
+           </div>
+        </div>
+     </header>
+
+      <!-- Haberler Bölümü -->
+      <div id="finansHaberleri" class="container mt-5">
+         <div class="row">
+            <div class="col-md-12">
+               <div class="titlepage">
+                  <h2>Son Finans Haberleri</h2>
+               </div>
+            </div>
+         </div>
+         <div id="newsContainer" class="row"></div>
+      </div>
+
+      <!-- Footer -->
+      <footer>
+         &copy; 2024 AsiFin. Tüm Hakları Saklıdır.
+      </footer>
+
+      <!-- jQuery Kütüphanesi -->
+      <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+      <!-- Haberleri Çeken JavaScript Kodu -->
+      <script>
+         $(document).ready(() => {
+            const apiKey = 'bd8792458521da2e4f99de70c3827a2f01f591f06251028422b7dc5dc9ace54b';
+            const apiUrl = `https://min-api.cryptocompare.com/data/v2/news/?lang=TR&api_key=${apiKey}&limit=10`;
+
+            $.ajax({
+               url: apiUrl,
+               method: 'GET',
+               dataType: 'json',
+               success: (data) => {
+                  if (data && data.Data && data.Data.length > 0) {
+                     const newsContainer = $('#newsContainer');
+
+                     data.Data.forEach((news) => {
+                        const newsItem = $(`
+                           <div class="col-md-4">
+                              <div class="news-item">
+                                 <div class="news-title">${news.title}</div>
+                                 <div class="news-description">${news.body.substring(0, 150)}...</div>
+                                 <a class="read-more" href="${news.url}" target="_blank">Devamını Oku</a>
+                              </div>
+                           </div>
+                        `);
+
+                        newsContainer.append(newsItem);
+                     });
+                  } else {
+                     console.error('Haberler alınamadı.');
+                  }
+               },
+               error: (error) => {
+                  console.error('Hata oluştu:', error);
+               },
+            });
+         });
+      </script>
+   </body>
+</html>

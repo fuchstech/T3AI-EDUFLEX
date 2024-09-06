@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <!-- Temel -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Site Başlığı ve Meta -->
+    <title>Giriş Yap - EduFlex</title>
+    <meta name="keywords" content="Matiricie, finans, yapay zeka, yatırım, veri analizi">
+    <meta name="description" content="Matiricie - Finansal Dünyada Hizmetler. Yapay zeka destekli yatırım hizmetleri.">
+    <meta name="author" content="Matiricie">
+    <!-- Stil Dosyaları -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <!-- Favicon --><!-- Body -->
+   <body class="main-layout">
+      <!-- Header -->
+      <header>
+         <div class="header">
+            <div class="container">
+               <div class="row">
+                  <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 logo_section">
+                     <div class="full">
+                        <div class="center-desk">
+                           <div class="logo">
+                              <a href="index.html">
+                                 <img src="images/matiricie.png" alt="Logo" style="max-width: 250px; max-height: 100px;" />
+                              </a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9">
+                     <nav class="navigation navbar navbar-expand-md navbar-dark">
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
+                           <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarsExample04">
+                           <ul class="navbar-nav mr-auto">
+                              <li class="nav-item"><a class="nav-link" href="index.html">Anasayfa</a></li>
+                              <li class="nav-item"><a class="nav-link" href="hakkimizda.html">Hakkımızda</a></li>
+                              <li class="nav-item"><a class="nav-link" href="hizmetler.html">Hizmetler</a></li>
+                              <li class="nav-item"><a class="nav-link" href="index.html#contact">İletişim</a></li>
+                              <li class="nav-item"><a class="nav-link" href="signup.html">Kayıt Ol</a></li>
+                              <li class="nav-item active"><a class="nav-link" href="login.html">Giriş Yap</a></li>
+                           </ul>
+                        </div>
+                     </nav>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </header>
+      <!-- end header -->
+    <link rel="icon" href="images/fevicon.png" type="image/png" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AsiFin - Giriş Yap</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="icon" href="images/fevicon.png" type="image/png" />
+    <style>
+        /* Flash mesaj kutusu için stil */
+        .alert {
+            margin-top: 20px;
+        }
+        /* Pop-up stil */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 9999;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            padding: 10px;
+            border-radius: 10px;
+            color: #fff;
+            text-align: center;
+            width: auto;
+            max-width: 300px; /* Yazı boyutuna göre genişlik */
+            max-height: 100px;
+        }
+
+        .modal.success {
+            background-color: #28a745; /* Yeşil */
+        }
+
+        .modal.error {
+            background-color: #dc3545; /* Kırmızı */
+        }
+
+        .modal button {
+            margin-top: 10px;
+            background: #fff;
+            border: none;
+            padding: 5px 10px;
+            cursor: pointer;
+            color: #000;
+        }
+
+        .modal button:hover {
+            background-color: #f1f1f1;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Giriş Yap Bölümü -->
+<section class="login_section layout_padding" style="background-color: #0c0f38; color: #fff;">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="login_form shadow p-4 rounded" style="background-color: #0c0f38; color: #b7b7b738; border-style:solid; box-shadow: 0px 20px 50px rgba(0, 123, 255, 0.9) !important;">
+
+                    <h2 class="text-center mb-4" style="color: #fff;">Giriş Yap</h2>
+                    <form id="loginForm" method="POST">
+                     <div class="form-group">
+                         <label for="email" style="color: #fff;">Email Adresi</label>
+                         <input type="email" class="form-control rounded" id="email" name="email" value="test@matiricie.com" required>
+                     </div>
+                     <div class="form-group">
+                         <label for="password" style="color: #fff;">Şifre</label>
+                         <input type="password" class="form-control rounded" id="password" name="password" value="test" required>
+                     </div>
+                 
+                     <button type="submit" class="btn btn-primary btn-block">Giriş Yap</button>
+                     <center>  <p class="text-center mt-4" style="color: #fff;"> </p><a href="forgotpassword.html" style="color: #fdd430;">Şifrenizi mi unuttunuz?</a></p></center>
+                     <p class="text-center mt-4" style="color: #fff;">Hesabınız yok mu? <a href="signup.html" style="color: #fdd430;">Kayıt Ol</a></p>
+                  
+                    </form>
+                 
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Modal Bildirim -->
+<div id="popupMessage" class="modal">
+    <p id="popupContent"></p>
+    <button onclick="closePopup()">Tamam</button>
+</div>
+
+<footer>
+    <div class="footer">
+       <div class="container">
+          <div class="row">
+             <div class="col-md-12 text-center">
+                <p>© 2024 MatiricieX. Tüm Hakları Saklıdır.</p>
+                <br>
+             </div>
+          </div>
+       </div>
+    </div>
+ </footer>
+
+<script>
+    // Pop-up açma fonksiyonu
+    function showModal(message, type) {
+        var modal = document.createElement('div');
+        modal.className = 'modal ' + (type === 'success' ? 'success' : 'error');
+        modal.innerHTML = `<p>${message}</p><button onclick="closeModal()">Tamam</button>`;
+        document.body.appendChild(modal);
+        modal.style.display = 'block';
+    }
+
+    function closeModal() {
+        var modal = document.querySelector('.modal');
+        if (modal) {
+            modal.style.display = 'none';
+            modal.remove();
+        }
+    }
+
+    // Form gönderme kontrolü
+    document.getElementById("loginForm").onsubmit = function(e) {
+        e.preventDefault();
+        
+        // Email ve şifre kontrolü
+        const email = document.getElementById('email').value;
+        const password = document.getElementById('password').value;
+
+        if (email === 'test@matiricie.com' && password === 'test') {
+            // Doğruysa dashboard.html'ye yönlendir
+            showModal("Başarıyla giriş yaptınız! Dashboard sayfasına yönlendiriliyorsunuz.", "success");
+            setTimeout(() => {
+                window.location.href = "dashboard.html";
+            }, 2000); // 2 saniye sonra yönlendirme
+        } else {
+            // Yanlışsa hata mesajı
+            showModal("Hatalı email veya şifre. Lütfen tekrar deneyin.", "error");
+        }
+    };
+    
+</script>
+
+    <!-- jQuery (Bootstrap'ın JavaScript pluginlerine ihtiyaç duyuyor) -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <!-- Bootstrap'ın JavaScript dosyası -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    
+
+</body>
+</html>
