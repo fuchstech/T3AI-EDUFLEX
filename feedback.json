@@ -140,5 +140,49 @@
             },
             "session_duration": 0
         }
+    },
+    {
+        "interaction_id": "12345",
+        "user_id": "user_001",
+        "timestamp": "2024-09-06T23:28:14.272014Z",
+        "content_generated": {
+            "input_prompt": "Biraz anlatır mısın ?",
+            "response": ":\n\nTabii ki! İşte boşaltım sistemine ilişkin bazı önemli noktalar:\n\n1. **Metabolik Atıklar**: Vücudumuzda çeşitli metabolik süreçlerden kaynaklanan atık ürünler üretilir. Bu atıklar arasında su, karbondioksit, azot içeren atıklar ve diğer maddeler bulunur.\n\n2. **Azot İçeren Atıklar**: Proteinlerin sindirim sürecinde oluşan amonyağın vücuttan uzaklaştırılması gerekmektedir. Amonyak, böbreklerdeki özel hücreler aracılığıyla üreye dönüştürülür ve daha sonra idrar yoluyla vücuttan atılır.\n\n3. **Diğer Maddeler**: Alkol, ilaçlar, tuzlar ve birçok başka madde de boşaltım sistemi tarafından vücuttan uzaklaştırılan atıklardır.\n\n4. **Boşaltım Organları**: Boşaltım sistemi, böbrekler, üreterler, mesane ve üretrayı içerir. Böbrekler, kanı filtreleyerek atık ürünleri ve fazla suyu idrar olarak üretir.\n\n5. **Böbreklerin Rolü**: Böbrekler, vücudun pH dengesini koruma, kan basıncını düzenleme, eritropoetin adı verilen bir hormon salgılayarak kemik iliğinin kırmızı kan hücresi üretimini uyarma ve homeostazı sürdürme gibi hayati işlevlere sahiptir.\n\n6. **Böbrek Anatomisi**: Böbrekler, korteks (kabuk), medulla (öz) ve pelvis (huni) olmak üzere üç ana bölgeden oluşur. Korteks, nefron adı verilen küçük filtrasyon birimleridir.\n\n7. **Nefron Yapısı**: Her nefron, glomerulus adı verilen bir kılcal ağdan oluşur ve bu ağ, Bowman kapsülü içinde süzülen kanı toplar. Nefron ayrıca proksimal tüp, henle kulbu, distal tüp ve idrar toplama kanalı gibi farklı bölümleri içerir.\n\n8. **İdrar Oluşumu**: İdrar oluşumu üç aşamada gerçekleşir: süzülme (filtrasyon), geri emilim (reabsorpsiyon) ve salgılama (sekresyon).\n\n9. **İdrarın İçeriği**: İdrar, üre, ürik asit, amonyak, kreatinin, vitaminler, sodyum, potasyum, kalsiyum, klor, fosfat ve su gibi maddeler içerebilir.\n\n10. **Böbrek Hastalıkları**: Nefrit, böbreklerin iltihaplanmasıdır ve tedavi edilmezse böbrek yetmezliğine yol açabilir. Böbrek taşları, böbreklerde mineral birikintileri nedeniyle oluşur ve ciddi sağlık sorunlarına neden olabilir. Böbrek yetmezliği, böbreklerin yeterli şekilde çalışmaması durumudur ve diyaliz veya böbrek nakli gerektirebilir. Albümin, nefrotik sendrom adı verilen bir durumda idrarda aşırı miktarda protein bulunmasıdır. İdrar yolu enfeksiyonu, idrar yolunun bakteri ile enfekte olmasıdır ve antibiyotiklerle tedavi edilir."
+        },
+        "user_feedback": {
+            "rating": "like",
+            "feedback_text": "",
+            "preferred_response": ""
+        },
+        "feedback_metadata": {
+            "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+            "location": {
+                "latitude": 36.9400904,
+                "longitude": 30.8170941
+            },
+            "session_duration": 0
+        }
+    },
+    {
+        "interaction_id": "12345",
+        "user_id": "user_001",
+        "timestamp": "2024-09-07T00:01:20.329981Z",
+        "content_generated": {
+            "input_prompt": "Hmm sanırım soruyu yanlış yanıtladım. Buna benzer birkaç soru yazabilir misin \n\n",
+            "response": ":\n\nTabii ki! İşte lise biyolojideki sinir sistemi konusunu kapsayan birkaç soru:\n\n1. Sinir sisteminin ana işlevleri nelerdir?\n2. Sinir sisteminin iki ana bölümü hangileridir ve bunlar nelerdir?\n3. Beynin üç ana bölümü nelerdir ve bunların işlevleri nelerdir?\n4. Beynin yarım küreleri nasıl organize edilmiştir ve her birinin belirli işlevleri var mıdır?\n5. Hipotalamusun sinir sistemindeki rolü nedir?\n6. Beyincik hangi işlevlerde rol oynar?\n7. Omuriliğin işlevleri nelerdir?\n8. Refleks nedir ve nasıl çalışır?\n9. Refleks yayının dört aşaması nelerdir?\n10. Somatik ve otonomik sinir sistemleri arasındaki fark nedir?"
+        },
+        "user_feedback": {
+            "rating": "like",
+            "feedback_text": "",
+            "preferred_response": ""
+        },
+        "feedback_metadata": {
+            "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+            "location": {
+                "latitude": null,
+                "longitude": null
+            },
+            "session_duration": 0
+        }
     }
 ]
