@@ -1,0 +1,58 @@
+1. Soru:
+Aşağıdaki yapılar hangi sırayla sinir impulsunun (aksiyon potansiyeli) ilerlemesine aracılık eder?
+
+I. Dendrit
+II. Akson
+III. Sinaps
+IV. Hücre gövdesi
+A) I → IV → II → III
+B) IV → I → III → II
+C) I → II → III → IV
+D) II → IV → III → I
+E) III → I → IV → II
+
+Doğru cevap: A) I → IV → II → III
+
+2. Soru:
+Merkezi sinir sistemi hangi iki yapıdan oluşur?
+
+A) Beyin ve omurilik
+B) Omurilik ve sinirler
+C) Beyin ve otonom sinirler
+D) Otonom sinirler ve somatik sinirler
+E) Beyincik ve periferik sinirler
+
+Doğru cevap: A) Beyin ve omurilik
+
+3. Soru:
+Aşağıdakilerden hangisi otonom sinir sistemine ait bir işlev değildir?
+
+A) Kalp atış hızını kontrol etmek
+B) Sindirimi düzenlemek
+C) İdrar üretimini kontrol etmek
+D) Kasları bilinçli olarak hareket ettirmek
+E) Göz bebeği genişlemesini sağlamak
+
+Doğru cevap: D) Kasları bilinçli olarak hareket ettirmek
+
+4. Soru:
+Bir sinir hücresinde impuls iletimi sırasında iyonlar nasıl hareket eder?
+
+A) Potasyum iyonları hücre içine girer, sodyum iyonları hücre dışına çıkar.
+B) Sodyum iyonları hücre içine girer, potasyum iyonları hücre dışına çıkar.
+C) Potasyum iyonları ve sodyum iyonları eşit miktarda hücre içine girer.
+D) İyonlar hücrede bir değişim yapmaz, impuls sadece elektriksel olarak iletilir.
+E) Kalsiyum iyonları hücre içine girer, magnezyum iyonları hücre dışına çıkar.
+
+Doğru cevap: B) Sodyum iyonları hücre içine girer, potasyum iyonları hücre dışına çıkar
+
+5. Soru:
+Sinir hücresinde miyelin kılıfın görevini aşağıdakilerden hangisi en iyi açıklar?
+
+A) Sinir hücresini dış hasarlardan korur.
+B) İmpulsların iletim hızını artırır.
+C) Sinaps oluşumunu sağlar.
+D) Hücre gövdesine enerji sağlar.
+E) Sinir hücresinin bölünmesini sağlar.
+
+Doğru cevap: B) İmpulsların iletim hızını artırır

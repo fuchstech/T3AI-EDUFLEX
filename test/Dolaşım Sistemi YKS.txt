@@ -1,0 +1,59 @@
+1. Soru:
+Bir kişinin sol kulakçık ve sol karıncık arasındaki kapakçıkta bir problem olduğu tespit edilmiştir. Bu durumda aşağıdakilerden hangisi vücutta doğrudan etkilenecek işlevlerden biridir?
+
+A) Akciğerlerdeki gaz değişimi
+B) Beyne giden oksijenli kan miktarı
+C) Sindirim sistemine gelen oksijenli kan
+D) Vücuttaki karbondioksit seviyesinin düşmesi
+**E) Lenf sıvısının dolaşımı
+
+Doğru cevap: B) Beyne giden oksijenli kan miktarı
+Açıklama: Sol kulakçık ve sol karıncık, oksijenli kanın vücuda pompalanmasını sağlar. Kapakçıkta bir sorun olduğunda, bu süreç aksar ve beyne giden oksijen miktarı azalabilir.
+
+2. Soru:
+Yoğun fiziksel aktivite sırasında kanın büyük kısmı kaslara yönlendirilir. Bu durumda, aşağıdaki organlardan hangisine giden kan miktarında geçici bir azalma olması beklenir?
+
+A) Kalp
+B) Beyin
+C) Karaciğer
+D) Kaslar
+**E) Akciğerler
+
+Doğru cevap: C) Karaciğer
+Açıklama: Yoğun fiziksel aktivite sırasında kanın büyük bir kısmı kaslara yönlendirilir, bu nedenle karaciğer gibi sindirim sistemiyle ilişkili organlara giden kan miktarı azalabilir.
+
+3. Soru:
+Bir bireyde kan basıncı yüksek olduğu tespit edilmiştir. Hangi mekanizma, bu durumu düzenlemek için vücutta devreye girer?
+
+A) Sempatik sinir sistemi aktivitesini artırarak damarları genişletir
+B) Parasempatik sinir sistemi kalp atış hızını artırır
+C) Böbrekler, fazla sıvıyı atarak kan hacmini azaltır
+D) Karaciğer, daha fazla kan üretir
+**E) Beyin, oksijen tüketimini artırır
+
+Doğru cevap: C) Böbrekler, fazla sıvıyı atarak kan hacmini azaltır
+Açıklama: Kan basıncını dengelemek için böbrekler fazla sıvıyı idrarla atarak kan hacmini azaltır ve böylece kan basıncı düşer.
+
+4. Soru:
+Bir bireyde sağ kalp yetmezliği olduğu teşhis edilmiştir. Aşağıdaki belirtilerden hangisi bu duruma bağlı olarak ortaya çıkabilir?
+
+A) Akciğerlerde sıvı birikimi
+B) Karaciğer ve bacaklarda ödem
+C) Beyinde oksijen eksikliği
+D) Sindirim sistemi yetersizliği
+**E) Kalp ritminde düzensizlik
+
+Doğru cevap: B) Karaciğer ve bacaklarda ödem
+Açıklama: Sağ kalp yetmezliğinde, vücut organlarına yeterince kan pompalanamaz ve özellikle bacaklarda ve karaciğerde sıvı birikimi olur, ödem oluşur.
+
+5. Soru:
+Bir kişinin akciğerlerinde gaz değişimi düzgün bir şekilde gerçekleşmiyorsa, bu durumun kan dolaşımı üzerinde nasıl bir etkisi olur?
+
+A) Karbondioksit seviyesi azalır, oksijen seviyesi artar.
+B) Hem karbondioksit hem de oksijen seviyeleri dengelenir.
+C) Kanın oksijen seviyesi düşer, karbondioksit seviyesi artar.
+D) Kanın pH seviyesi sabit kalır.
+**E) Kalp daha az çalışır, kan basıncı düşer.
+
+Doğru cevap: C) Kanın oksijen seviyesi düşer, karbondioksit seviyesi artar.
+Açıklama: Akciğerlerdeki gaz değişimi düzgün çalışmadığında, kanda oksijen seviyesi düşer ve karbondioksit seviyesi artar, bu da vücuttaki organların oksijen ihtiyacını karşılayamaz.

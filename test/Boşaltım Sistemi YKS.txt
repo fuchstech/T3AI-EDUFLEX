@@ -1,0 +1,59 @@
+1. Soru:
+Bir bireyin kanındaki üre seviyesinin anormal derecede yüksek olduğu gözlemlenmiştir. Bu durumun sebebi aşağıdakilerden hangisi olabilir?
+
+A) Böbreklerin yeterli miktarda su emememesi
+B) Böbreklerin üreyi yeterince süzememesi
+C) İdrarın mesanede birikmemesi
+D) İdrar yolunun tıkanması
+E) Karaciğerin üre üretimini durdurması
+
+Doğru cevap: B) Böbreklerin üreyi yeterince süzememesi
+Açıklama: Böbrekler, kandaki atık maddeleri, özellikle üreyi süzer. Eğer böbrekler bu işlevi yeterince yapamıyorsa, üre kanda birikir.
+
+2. Soru:
+Bir kişinin su tüketiminin çok az olduğu bir durumda, böbrekler nasıl tepki verir?
+
+A) Daha fazla suyu idrarla dışarı atar
+B) ADH hormonu salgılanarak su geri emilimini artırır
+C) Kan basıncını artırmak için daha fazla su kaybına neden olur
+D) Safra salgısını artırır
+E) Vücuttaki elektrolit seviyelerini düşürür
+
+Doğru cevap: B) ADH hormonu salgılanarak su geri emilimini artırır
+Açıklama: Su azaldığında, antidiüretik hormon (ADH) salgılanır ve böbreklerde suyun geri emilimi artırılır, bu da idrarın yoğunlaşmasını sağlar.
+
+3. Soru:
+Aşağıdaki durumlardan hangisi boşaltım sistemi tarafından vücutta düzenlenmez?
+
+A) Kan pH seviyesinin ayarlanması
+B) Vücuttaki glikoz seviyesinin düzenlenmesi
+C) Vücuttaki su ve tuz dengesinin sağlanması
+D) Metabolik atıkların vücuttan atılması
+E) Kan basıncının düzenlenmesi
+
+Doğru cevap: B) Vücuttaki glikoz seviyesinin düzenlenmesi
+Açıklama: Glikoz seviyesi, pankreas tarafından üretilen insülin ve glukagon hormonlarıyla düzenlenir, boşaltım sistemi bu süreçte doğrudan rol oynamaz.
+
+4. Soru:
+Böbrek yetmezliği olan bir bireyde diyaliz tedavisi uygulanmasının temel amacı aşağıdakilerden hangisidir?
+
+A) Kanda biriken fazla glikozu temizlemek
+B) Kanın oksijen seviyesini artırmak
+C) Kandaki fazla üreyi ve diğer atıkları temizlemek
+D) Karaciğerde safra üretimini düzenlemek
+E) Vücuttaki hormon dengesini sağlamak
+
+Doğru cevap: C) Kandaki fazla üreyi ve diğer atıkları temizlemek
+Açıklama: Diyaliz, böbreklerin süzme işlevini yerine getirir ve kandaki atık maddeleri ve fazla sıvıyı temizler.
+
+5. Soru:
+Bir sporcu, yoğun antrenman sonrası kas ağrısı ve yorgunluk hissetmektedir. Bu durum, kaslarda biriken laktik asidin boşaltım sistemi aracılığıyla uzaklaştırılmasını gerektirir. Bu süreç hangi organ tarafından gerçekleştirilir?
+
+A) Karaciğer
+B) Böbrek
+C) Akciğer
+D) Pankreas
+E) Mide
+
+Doğru cevap: B) Böbrek
+Açıklama: Laktik asit ve diğer metabolik atıklar, böbrekler tarafından süzülerek vücuttan idrar yoluyla atılır.

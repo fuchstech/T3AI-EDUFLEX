@@ -1,0 +1,59 @@
+1. Soru:
+Bir kişinin kan şekeri seviyesinin sürekli yüksek olduğu gözlemlenmiştir. Bu durumun hangi endokrin bezinin yetersiz çalışmasıyla ilgili olması muhtemeldir?
+
+A) Hipofiz bezi
+B) Tiroid bezi
+C) Böbrek üstü bezleri
+D) Pankreas
+E) Paratiroid bezi
+
+Doğru cevap: D) Pankreas
+Açıklama: Pankreas, insülin hormonu üreterek kan şekerini düzenler. Pankreas yeterince insülin üretmediğinde kan şekeri seviyeleri yüksek kalır, bu da diyabet gibi rahatsızlıklara yol açabilir.
+
+2. Soru:
+Bir kişi sürekli olarak çok fazla su içme ihtiyacı hissetmekte ve sık idrara çıkmaktadır. Bu durum hangi hormonun eksikliği ile açıklanabilir?
+
+A) Adrenalin
+B) Tiroksin
+C) Antidiüretik hormon (ADH)
+D) Kortizol
+**E) Östrojen
+
+Doğru cevap: C) Antidiüretik hormon (ADH)
+Açıklama: ADH hormonu, böbreklerde suyun geri emilimini sağlar. Eksikliğinde su vücuttan fazla atılır, bu da sık idrara çıkma ve sürekli su içme ihtiyacı doğurur (diabetes insipidus).
+
+3. Soru:
+Hipertiroidizm (tiroid bezinin aşırı çalışması) olan bir bireyde aşağıdaki belirtilerden hangisi gözlemlenebilir?
+
+A) Yavaş metabolizma ve kilo alımı
+B) Hızlı kalp atışı ve kilo kaybı
+C) Kalsiyum eksikliği
+D) Düşük kan şekeri
+**E) Sık idrara çıkma
+
+Doğru cevap: B) Hızlı kalp atışı ve kilo kaybı
+Açıklama: Hipertiroidizm, tiroid bezinin aşırı çalışarak fazla tiroksin hormonu üretmesine neden olur. Bu durum, metabolizmayı hızlandırarak kilo kaybı ve hızlı kalp atışına yol açar.
+
+4. Soru:
+Uzun süreli stres altında olan bir bireyin, aşağıdaki hormonlardan hangisinin seviyesinde artış beklenir?
+
+A) İnsülin
+B) Kortizol
+C) Melatonin
+D) Oksitosin
+**E) Tiroksin
+
+Doğru cevap: B) Kortizol
+Açıklama: Kortizol, böbrek üstü bezleri tarafından salgılanan bir stres hormonudur. Uzun süreli stres durumlarında kortizol seviyesi artar ve vücudun stresle başa çıkmasına yardımcı olur.
+
+5. Soru:
+Aşağıdaki durumlardan hangisi hipofiz bezinin ön lobunun yetersiz çalışması durumunda gözlemlenebilir?
+
+A) Büyüme hormonu eksikliği nedeniyle cücelik
+B) Böbreklerin suyu geri emememesi
+C) Tiroksin hormonunun fazla salgılanması
+D) İnsülin hormonu salgısının artması
+**E) Kalsiyum seviyesinin düşmesi
+
+Doğru cevap: A) Büyüme hormonu eksikliği nedeniyle cücelik
+Açıklama: Hipofiz bezinin ön lobu büyüme hormonu (GH) salgılar. Bu hormonun yetersizliği, cücelik gibi büyüme bozukluklarına yol açar.
