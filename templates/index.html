@@ -107,103 +107,118 @@
             </div>
         </div>
     </div>
-
-    <script>
-        let inputPrompt = "";
-        let modelResponse = "";
-        let deviceType = navigator.userAgent; // Cihaz tipi bilgisi
-        let locationInfo = { latitude: null, longitude: null }; // Konum bilgisi
-
-        // Kullanıcının konumunu almak için Geolocation API kullanımı
-        function getLocation() {
-            if (navigator.geolocation) {
-                navigator.geolocation.getCurrentPosition(function(position) {
-                    locationInfo.latitude = position.coords.latitude;
-                    locationInfo.longitude = position.coords.longitude;
-                });
-            } else {
-                console.log("Geolocation API desteklenmiyor.");
-            }
-        }
-
-        // Sayfa yüklendiğinde kullanıcının konumunu al
-        window.onload = getLocation;
-
-        // Form gönderildiğinde model yanıtı almak için
-        document.getElementById('assistantForm').onsubmit = async function (e) {
-            e.preventDefault();
-
-            const subject = document.getElementById('subject').value;
-            inputPrompt = document.getElementById('userMessage').value;
-
-            const response = await fetch('/get_response', {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-                body: new URLSearchParams({
-                    subject: subject,
-                    question: inputPrompt
-                })
+<script>
+    let startTime, sessionDuration = 0;
+    let inputPrompt = "";
+    let modelResponse = "";
+    let deviceType = navigator.userAgent; // Cihaz tipi bilgisi
+    let locationInfo = { latitude: null, longitude: null }; // Konum bilgisi
+    
+    // Sayfa yüklendiğinde başlangıç zamanını al ve konumu öğren
+    window.onload = function() {
+        startTime = new Date().getTime(); // Zamanı kaydet
+    
+        // Kullanıcının konumunu almak için Geolocation API
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(function(position) {
+                locationInfo.latitude = position.coords.latitude;
+                locationInfo.longitude = position.coords.longitude;
             });
-
-            const data = await response.json();
-            modelResponse = data.response;
-            document.getElementById('responseText').innerText = modelResponse;
-            document.getElementById('response').style.display = 'block';
-        };
-
-        // Thumbs up tıklandığında geri bildirimi gönderme
-        document.getElementById('thumbsUp').addEventListener('click', function() {
-            fetch('/feedback', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify({
-                    input_prompt: inputPrompt,
-                    response: modelResponse,
-                    rating: 'like',  // Thumbs up tıklanırsa "like" gönder
-                    device: deviceType,  // Cihaz tipi bilgisi
-                    location: locationInfo  // Konum bilgisi (enlem, boylam)
-                })
-            })
-            .then(response => response.json())
-            .then(data => {
-                alert('Geri bildirim gönderildi!');
-            })
-            .catch(error => console.error('Hata:', error));
-        });
-
-        // Dislike tıklandığında geri bildirim formunu göster
-        document.getElementById('thumbsDown').addEventListener('click', function() {
-            document.getElementById('newInput').style.display = 'block';
-        });
-
-        // Yeni geri bildirimi gönderme fonksiyonu
-        function submitNewFeedback() {
-            const newFeedback = document.getElementById('newFeedback').value;
-
-            fetch('/feedback', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify({
-                    input_prompt: inputPrompt,
-                    response: modelResponse,
-                    feedback_text: newFeedback,  // Yeni geri bildirimi gönderiyoruz
-                    rating: 'dislike',  // Thumbs down tıklanırsa "dislike"
-                    device: deviceType,  // Cihaz tipi bilgisi
-                    location: locationInfo  // Konum bilgisi (enlem, boylam)
-                })
-            })
-            .then(response => response.json())
-            .then(data => {
-                alert('Yeni geri bildirim gönderildi!');
-                document.getElementById('newFeedback').value = '';
-                document.getElementById('newInput').style.display = 'none';
-            })
-            .catch(error => console.error('Hata:', error));
+        } else {
+            console.log("Geolocation API desteklenmiyor.");
         }
-    </script>
+    };
+    
+    // Sürekli olarak geçirilen süreyi hesaplamak için bir fonksiyon
+    function calculateSessionDuration() {
+        const currentTime = new Date().getTime();
+        sessionDuration = currentTime - startTime; // Süreyi hesapla
+    }
+    
+    // Form gönderildiğinde model yanıtı almak için
+    document.getElementById('assistantForm').onsubmit = async function (e) {
+        e.preventDefault();
+        calculateSessionDuration(); // Süreyi hesapla
+    
+        const subject = document.getElementById('subject').value;
+        inputPrompt = document.getElementById('userMessage').value;
+    
+        const response = await fetch('/get_response', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+            body: new URLSearchParams({
+                subject: subject,
+                question: inputPrompt
+            })
+        });
+    
+        const data = await response.json();
+        modelResponse = data.response;
+        document.getElementById('responseText').innerText = modelResponse;
+        document.getElementById('response').style.display = 'block';
+    };
+    
+    // Thumbs up tıklandığında geri bildirimi gönderme
+    document.getElementById('thumbsUp').addEventListener('click', function() {
+        calculateSessionDuration(); // Süreyi hesapla
+    
+        fetch('/feedback', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+                input_prompt: inputPrompt,
+                response: modelResponse,
+                rating: 'like',  // Thumbs up tıklanırsa "like" gönder
+                device: deviceType,  // Cihaz tipi bilgisi
+                location: locationInfo,  // Konum bilgisi (enlem, boylam)
+                session_duration: sessionDuration  // Geçirilen süre
+            })
+        })
+        .then(response => response.json())
+        .then(data => {
+            alert('Geri bildirim gönderildi!');
+        })
+        .catch(error => console.error('Hata:', error));
+    });
+    
+    // Dislike tıklandığında geri bildirim formunu göster
+    document.getElementById('thumbsDown').addEventListener('click', function() {
+        document.getElementById('newInput').style.display = 'block';
+    });
+    
+    // Yeni geri bildirimi gönderme fonksiyonu
+    function submitNewFeedback() {
+        calculateSessionDuration(); // Süreyi hesapla
+    
+        const newFeedback = document.getElementById('newFeedback').value;
+    
+        fetch('/feedback', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+                input_prompt: inputPrompt,
+                response: modelResponse,
+                feedback_text: newFeedback,  // Yeni geri bildirimi gönderiyoruz
+                rating: 'dislike',  // Thumbs down tıklanırsa "dislike"
+                device: deviceType,  // Cihaz tipi bilgisi
+                location: locationInfo,  // Konum bilgisi (enlem, boylam)
+                session_duration: sessionDuration  // Geçirilen süre
+            })
+        })
+        .then(response => response.json())
+        .then(data => {
+            alert('Yeni geri bildirim gönderildi!');
+            document.getElementById('newFeedback').value = '';
+            document.getElementById('newInput').style.display = 'none';
+        })
+        .catch(error => console.error('Hata:', error));
+    }
+    
+</script>
+    
 </body>
 </html>

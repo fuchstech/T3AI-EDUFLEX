@@ -98,6 +98,10 @@ def save_feedback(feedback):
 @app.route('/feedback', methods=['POST'])
 def feedback():
     feedback_data = request.get_json()
+    if 'session_duration' in feedback_data:
+        print("Session Duration Received:", feedback_data['session_duration'])
+    else:
+        print("Session Duration Not Found in the Request")
 
     # Kullanıcı geri bildirimiyle ilgili özel JSON formatını hazırlıyoruz
     feedback_entry = {
@@ -116,7 +120,7 @@ def feedback():
         "feedback_metadata": {
             "device": feedback_data.get('device', 'unknown'),  # Cihaz bilgisi alınıyor
             "location": feedback_data.get('location', 'unknown'),  # Konum bilgisi alınıyor
-            "session_duration": feedback_data.get('session_duration', 0)
+            "session_duration": feedback_data.get('session_duration', 0)/1000
         }
     }
 
