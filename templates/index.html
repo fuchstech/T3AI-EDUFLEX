@@ -81,7 +81,6 @@
         <form id="assistantForm" action="/get_response" method="POST">
             <label for="subject">Konu Başlığı:</label>
             <select id="subject" name="subject" required>
-                <!-- Dropdown menüsünü burada dinamik olarak oluşturacağız -->
                 {% for subject in subjects %}
                     <option value="{{ subject }}">{{ subject }}</option>
                 {% endfor %}
@@ -103,10 +102,16 @@
             <div id="newInput">
                 <label for="newFeedback">Yeni Geri Bildiriminizi Yazın:</label>
                 <textarea id="newFeedback" rows="4"></textarea>
+
+                <!-- Preferred Response Alanı -->
+                <label for="preferredResponse">Preferred Response:</label>
+                <textarea id="preferredResponse" rows="4"></textarea>
+
                 <button onclick="submitNewFeedback()">Gönder</button>
             </div>
         </div>
     </div>
+
 <script>
     let startTime, sessionDuration = 0;
     let inputPrompt = "";
@@ -193,7 +198,8 @@
         calculateSessionDuration(); // Süreyi hesapla
     
         const newFeedback = document.getElementById('newFeedback').value;
-    
+        const preferredResponse = document.getElementById('preferredResponse').value;  // Preferred Response'ı al
+
         fetch('/feedback', {
             method: 'POST',
             headers: {
@@ -203,6 +209,7 @@
                 input_prompt: inputPrompt,
                 response: modelResponse,
                 feedback_text: newFeedback,  // Yeni geri bildirimi gönderiyoruz
+                preferred_response: preferredResponse,  // Preferred Response'ı gönderiyoruz
                 rating: 'dislike',  // Thumbs down tıklanırsa "dislike"
                 device: deviceType,  // Cihaz tipi bilgisi
                 location: locationInfo,  // Konum bilgisi (enlem, boylam)
@@ -213,6 +220,7 @@
         .then(data => {
             alert('Yeni geri bildirim gönderildi!');
             document.getElementById('newFeedback').value = '';
+            document.getElementById('preferredResponse').value = '';  // Alanları temizle
             document.getElementById('newInput').style.display = 'none';
         })
         .catch(error => console.error('Hata:', error));
